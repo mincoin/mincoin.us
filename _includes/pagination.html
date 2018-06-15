@@ -1,0 +1,52 @@
+<div class="slogan-more">
+<ul class="pagination pagination-md">
+
+{% if paginator.total_pages > 1 %}
+
+  {% if paginator.previous_page %}
+    <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">«</a></li>
+  {% else %}
+  	<li class="disabled"><a href="#">«</a></li>
+  {% endif %}
+
+  
+   {% if paginator.page_trail %}
+	  {% for trail in paginator.page_trail %}
+		<li {% if page.url == trail.path %}class="active"{% endif %}>
+			<a href="{{ trail.path | prepend: site.baseurl | replace: '//', '/'     }}" >{{ trail.num }}</a>
+		</li>
+	  {% endfor %}
+	{% endif %}
+	
+  {% if paginator.next_page %}
+    <li><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">»</a></li>
+  {% else %}
+     <li class="disabled"><a href="#">»</a></li>
+  {% endif %}
+
+{% endif %}
+</ul>
+
+<!--
+{% if paginator.total_pages > 1 %}
+  <ul class="pager">
+      {% if paginator.previous_page %}
+      <li class="previous">
+          <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+      </li>
+      {% endif %}
+      {% if paginator.next_page %}
+      <li class="next">
+          <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+      </li>
+      {% endif %}
+  </ul>
+  {% endif %}
+  
+  
+  
+ 
+
+-->
+
+</div>

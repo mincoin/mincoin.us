@@ -1,0 +1,80 @@
+### GENERAL SETTINGS ###
+name: "MinCoin"
+logo: "/images/cropped-mincoin-logo-png.png"
+description: "Official MinCoin Website"
+author: "John"
+email: webuimaker@gmail.com
+url: ""
+github : username
+twitter : username
+# Permalinks
+permalink:  pretty
+GA: UA-58408672-1
+adroll_adv_id: "2W4TF2LN5NDYFGNBWT3OE7"
+adroll_pix_id: "GNMTPAVHFFD3FB63C5M52Z"
+
+
+socialicon:
+ - title: Facebook
+   icon: fa fa-facebook
+   url: https://www.facebook.com/mincoin.us
+ - title: Twitter
+   icon: ti-twitter
+   url: https://twitter.com/mincoinus
+   
+gems:
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-paginate-v2
+  - jekyll-seo-tag
+  - jekyll-sitemap  
+  - jekyll-gist
+  - jekyll/tagging
+  - jekyll-tagging-related_posts
+exclude:
+  - Gemfile
+  - Gemfile.lock   
+### pagination
+pagination:
+  enabled: true
+  per_page: 10
+  #permalink: '/news/page:num/'  
+  permalink: '/:num/'
+  title: ':title'
+  limit: 0
+  trail: 
+    before: 2 # The number of links before the current page
+    after: 2  # The number of links after the current page
+  
+  
+  
+# Lang settings
+default_lang: 'en'
+langs:
+  'en': 'English'
+  'nl': 'Netherlands'
+  'vi': 'Việt'
+  'de': 'Deutsch'
+  'jv': 'Javanese'
+  'ru': 'Русский'
+  'tr': 'Türkçe'  
+  'ja': '日本語' 
+  'ko': '한국어' 
+  'bn': 'বাংলা' 
+  'ar': 'العَرَبِيَّة‎'
+  'zh-hans': '繁體中文'
+  'zh-hant': '中文'    
+lang_codes:
+  - 'en'
+  - 'nl'
+  - 'vi'
+  - 'de'
+  - 'jv'
+  - 'ru'
+  - 'tr'
+  - 'ja'
+  - 'ko'
+  - 'bn'
+  #- 'ar'
+  - 'zh-hans'
+  - 'zh-hant'

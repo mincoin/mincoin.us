@@ -1,0 +1,146 @@
+---
+lang_name: "繁體中文"
+head:
+  meta:
+    description: "Official MinCoin Website"
+    keywords: "MinCoin"
+    author: "John"
+  title: "MinCoin &#8211; Official MinCoin Website"
+###Banner content
+banner:
+ title: "世界#1 高速加密货币"
+ subTitle: "基于区块链技术"
+ image: "https://www.mincoin.us/wp-content/uploads/2017/10/mincoin-mnc-cryptocurrency-home.png"
+ desc: "简约币（Min是英文简约的缩写）是一种使用点对点技术的加密货币，利用计算机算法进行验证。简约币于2013年4月3日发行，零premine。"
+ buttonUrl: "mincoin-mnc-cryptocurrency-trading-exchanges"
+ buttonText: "现已在加密货币交易中心进行交易"
+###6 icon content
+icons6:
+ - title: "社区"
+   icon: "fa-group"
+   desc: "从以下简约币社区寻求免费支持： <ul>
+          <li><a href='https://www.mincoinforum.com' target='_blank'> 简约币论坛</a></li>
+		  <li><a href='https://www.mincoinforum.com/index.php?/topic/4153-mincoin-on-discord/' target='_blank'>简约币发行者频道</a></li>
+		  <li><a href='https://www.reddit.com/r/MinCoin/' target='_blank'>红迪网简约币</a></li>
+		  <li><a href='https://twitter.com/mincoinus' target='_blank'> 推特简约币</a></li>
+		  <li><a href='https://www.facebook.com/mincoin.us' target='_blank'>简约币脸谱网</a></li>
+		  <li><a href='https://bitcointalk.org/index.php?topic=165397.0' target='_blank'>简约币比特币访谈</a></li>
+		  <li><a href='http://webchat.freenode.net/?channels=#mincoin' target='_blank'>ICR自由节点</a></li>
+		  </ul>"
+ - title: "资源"
+   icon: "fa-laptop"
+   desc: "请于简约币•币维基查询基本资料、服务领域及交易信息。您可以在简约币区块探索者<a href='http://cryptoexplore.com/' target='_blank'>查询最新的网络统计信息</a>。 简约币现价可以在 CoinMarketCap网站<a href='https://coinmarketcap.com/currencies/mincoin' target='_blank'> 的简约币专栏进行查询</a>。 "
+ - title: "开源软件"
+   icon: "fa-heart "
+   desc: "简约币是一个开源软件项目，证书MIT/X11，您可以对软件进行运行、修改、复制，并自选发布软件的改良版本。软件发布过程透明化，允许独立验证二进制文档及相应的源代码。简约币的源代码和相关项目可以在<a href='https://github.com/mincoin' target='_blank'>GitHub</a>网站进行查询。"
+ - title: "区块链"
+   icon: "fa-link "
+   desc: "简约币区块链可处理比莱特币更大的交易量。因区块更新频繁，所以本网站支持的交易量更大，将来不必对软件做出修改。因此，商户及用户可以更快地进行确认。"
+ - title: "加密钱包"
+   icon: "fa-lock "
+   desc: "加密钱包可加强钱包的安全性，您可以浏览交易记录和账户余额，但在支付简约币之前，需要输入密码。加密钱包可防止一些盗取资金的病毒及特洛伊木马病毒，在支付之前还可以进行完整性检查。<a href='http://mincoinforum.com/index.php/topic/330-how-to-back-up-restore-your-walletdat/' target='_blank'>简约币钱包备份</a>。"
+ - title: "挖矿奖励"
+   icon: "fa-money "
+   desc: "现在每个区块会给挖矿人2个新简约币奖励。简约币网络预计生产1千万个简约币，相较比特币（210万）和莱特币（840万）更加稀有。<ul>
+          <li><a href='http://mincoinforum.com/index.php/topic/320-solo-mining-mincoin-guide/' target='_blank'>单人挖矿</a></li>
+		  <li><a href='http://mincoinforum.com/index.php/forum/24-mincoin-mining-guides/' target='_blank'> 移动网络码挖矿指南</a></li>
+		  <li><a href='https://www.mincoinforum.com/index.php?/forum/36-mincoin-mining-pools' target='_blank'>简约币挖矿池</a></li>
+		  </ul>"
+  
+
+socialicon:
+ - title: Facebook
+   icon: fa fa-facebook
+   url: https://www.facebook.com/mincoin.us
+ - title: Twitter
+   icon: ti-twitter
+   url: https://twitter.com/mincoinus
+
+MinCoinDownload:
+ - title: Windows系统简约币
+   icon: /images/mincoin-windows.png
+   url: http://download.mincoin.us/minion-0.8.8.0/windows/mincoin-0.8.8.0-win32.zip
+   downloadText: 简约币-0.8.8.0-win32.zip
+   buttonText: Download for Windows
+ - title: Linux系统简约币
+   icon: /images/mincoin-linux.png
+   url: http://download.mincoin.us/minion-0.8.8.0/linux/mincoin-0.8.8.0-linux.tar.gz
+   downloadText: 简约币--0.8.8.0-linux.tar.gz
+   buttonText: Download for Linux
+ - title: Mac OSX系统简约币
+   icon: /images/mincoin-osx.png
+   url: http://download.mincoin.us/minion-0.8.8.0/mac/Mincoin-0.8.8.0-Mac.dmg
+   downloadText: 简约币-0.8.8.0-Mac.dmg
+   buttonText: Download for Mac
+   
+contact:
+ contactHeading: 了解更多简约币内容
+ buttonText: 简约币白皮书
+ contentUrl: "https://www.mincoinforum.com/index.php?/topic/4178-the-mincoin-white-paper/"
+ 
+news:
+ heading: 加密货币资讯
+ readmoreUrl:  /category/cryptocurrency-news/
+ readmoreText:  阅读更多资讯
+ col1:
+  - linktext: More Cryptocurrency News
+    linkUrl: https://www.mincoin.us/category/cryptocurrency-news/
+ col2:
+  - linktext: 《福布斯》杂志全球加密货币TOP30
+    linkUrl: https://www.mincoin.us/the-digital-commodity-solution/
+    linkImage:
+  - linktext: 普林斯顿大学简约币替代币研究
+    linkUrl: https://www.mincoin.us/is-mincoin-the-digital-commodity-solution/
+    linkImage:
+  - linktext: 世界最快稀有替代币
+    linkUrl: https://www.mincoin.us/mincoin-princeton-university-study/
+    linkImage:
+  - linktext: 简约币加密货币买家指南
+    linkUrl: https://www.mincoin.us/mincoin-princeton-university-study/
+    linkImage: 
+  - linktext:  简约币白皮书执行概要
+    linkUrl: https://www.mincoin.us/bitcoin-mincoin-litecoin-the-best-crypto-commodity/
+    
+
+extraLinks: 
+ communityHeading: 简约币社区
+ toolsHeading: 工具
+ learnHeading: 了解简约币
+ community:
+  - linktext:  简约币论坛
+    linkUrl: http://mincoinforum.com/
+  - linktext: 线上实时聊天
+    linkUrl: http://webchat.freenode.net/?channels=#mincoin
+  - linktext: 红迪网简约币/红/简约币
+    linkUrl: http://reddit.com/r/mincoin
+  - linktext:  比特币访谈论坛
+    linkUrl: https://bitcointalk.org/index.php?topic=165397.0
+  - linktext: 简约币推特
+    linkUrl: https://twitter.com/mincoinus
+  - linktext:  简约币脸谱网
+    linkUrl: https://www.facebook.com/mincoin.us
+  - linktext: 简约币发行者频道
+    linkUrl: https://www.mincoinforum.com/index.php?/topic/4153-mincoin-on-discord
+ tools:
+  - linktext: 简约币钱包备份
+    linkUrl: http://mincoinforum.com/index.php/topic/330-how-to-back-up-restore-your-walletdat/
+  - linktext: 简约币挖矿池
+    linkUrl: https://www.mincoinforum.com/index.php?/forum/36-mincoin-mining-pools
+  - linktext: 简约币•币维基
+    linkUrl: http://coinwik.org/MinCoin
+  - linktext:  CoinMarketCap网站简约币专栏
+    linkUrl: https://coinmarketcap.com/currencies/mincoin 
+  - linktext:  单人挖矿
+    linkUrl: http://mincoinforum.com/index.php/topic/320-solo-mining-mincoin-guide/
+  - linktext:  移动网络码挖矿指南
+    linkUrl: http://mincoinforum.com/index.php/forum/24-mincoin-mining-guides/
+  - linktext:  简约币区块探索者
+    linkUrl: http://cryptoexplore.com 
+ learn:
+  - linktext: GitHub网站简约币源代码
+    linkUrl: https://github.com/mincoin
+
+footer:
+ heading: 联系开发团队
+ email: developers@mincoin.us
+ copyright: © 2017 Copyright 2013-2017 · The MinCoin Developers

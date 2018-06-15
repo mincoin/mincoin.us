@@ -1,0 +1,146 @@
+---
+lang_name: "Русский"
+head:
+  meta:
+    description: "Official MinCoin Website"
+    keywords: "MinCoin"
+    author: "John"
+  title: "MinCoin &#8211; Official MinCoin Website"
+###Banner content
+banner:
+ title: "Высокоскоростная криптовалюта № 1 в мире"
+ subTitle: "Основанная на технологии Блокчейн"
+ image: "https://www.mincoin.us/wp-content/uploads/2017/10/mincoin-mnc-cryptocurrency-home.png"
+ desc: "MinCoin (Min - это сокращение от Minimalist) - это криптовалюта с одноранговым доступом, которая использует скрипт в качестве алгоритма проверки работоспособности. MinCoin была выпущена 3 апреля 2013 года с нулевым предварительным майнингом."
+ buttonUrl: "mincoin-mnc-cryptocurrency-trading-exchanges"
+ buttonText: "Торгуем на бирже криптовалют сейчас"
+###6 icon content
+icons6:
+ - title: "Сообщество"
+   icon: "fa-group"
+   desc: "Найти бесплатную поддержку на этих сообществах сообщества MinCoin: <ul>
+          <li><a href='https://www.mincoinforum.com' target='_blank'>Форум MinCoin</a></li>
+		  <li><a href='https://www.mincoinforum.com/index.php?/topic/4153-mincoin-on-discord/' target='_blank'>Discord канал Mincoin</a></li>
+		  <li><a href='https://www.reddit.com/r/MinCoin/' target='_blank'>Reddit MinCoin</a></li>
+		  <li><a href='https://twitter.com/mincoinus' target='_blank'>Twitter MinCoin</a></li>
+		  <li><a href='https://www.facebook.com/mincoin.us' target='_blank'>MinCoin Facebook</a></li>
+		  <li><a href='https://bitcointalk.org/index.php?topic=165397.0' target='_blank'>Mincoin BitcoinTalk</a></li>
+		  <li><a href='http://webchat.freenode.net/?channels=#mincoin' target='_blank'>IRC FreeNode</a></li>
+		  </ul>"
+ - title: "Ресурсы"
+   icon: "fa-laptop"
+   desc: "Вы можете получить общую информацию, а также перечень услуг и обменников, которые поддерживают MinCoin на MinCoin CoinWiki. Обновленную сетевую статистику можно найти на  <a href='http://cryptoexplore.com/' target='_blank'>MinCoin Block Explorer</a>. Текущая цена MinCoin доступна на  <a href='https://coinmarketcap.com/currencies/mincoin' target='_blank'>CoinMarketCap</a>  "
+ - title: "Программное обеспечение с открытым исходным кодом"
+   icon: "fa-heart "
+   desc: "это проект программного обеспечения с открытым исходным кодом, распространяемый по лицензии MIT/X11, которая дает вам возможность работать, модифицировать и копировать программное обеспечение и распространять модифицированные копии по вашему усмотрению. Программное обеспечение выпущено в открытом процессе, который позволяет производить независимую проверку двоичных файлов и соответствующего исходного кода. Исходный код для MinCoin и смежных проектов доступен на <a href='https://github.com/mincoin' target='_blank'>GitHub</a>."
+ - title: "Технология Blockchain"
+   icon: "fa-link "
+   desc: "Блокчейн MinCoin способен обрабатывать более высокий объем транзакций, чем его двойник Litecoin. Благодаря более частой генерации блоков, сеть поддерживает больше транзакций без необходимости модифицировать программное обеспечение в будущем. В результате, торговцы и пользователи получают более быстрое подтверждение."
+ - title: "Шифрование кошелька"
+   icon: "fa-lock "
+   desc: "Шифрования кошелька позволяет обезопасить ваш кошелек, так, что вы можете просматривать транзакции и баланс вашего счета, но вам необходимо ввести свой пароль, прежде чем тратить MinCoins. Это обеспечивает защиту от кражи баланса кошелька вирусами и троянами, а также проверку работоспособности перед отправкой платежей. Резервное копирование кошелька  <a href='http://mincoinforum.com/index.php/topic/330-how-to-back-up-restore-your-walletdat/' target='_blank'>MinCoin</a>."
+ - title: "Награда майнерам"
+   icon: "fa-money "
+   desc: "В настоящее время, майнеры получают 2 новых MinCoins за блок.Таким образом, в сети MinCoin планируется произвести 10 миллионов MinCoins, что делает MinCoin более редкой монетой, чем биткойн (21 миллиона монет) и Litecoin (84 миллиона монет).<ul>
+          <li><a href='http://mincoinforum.com/index.php/topic/320-solo-mining-mincoin-guide/' target='_blank'>Соло майнинг</a></li>
+		  <li><a href='http://mincoinforum.com/index.php/forum/24-mincoin-mining-guides/' target='_blank'>Руководства для майнинга MNC</a></li>
+		  <li><a href='https://www.mincoinforum.com/index.php?/forum/36-mincoin-mining-pools' target='_blank'>Пулы для майнинга MinCoin</a></li>
+		  </ul>"
+  
+
+socialicon:
+ - title: Facebook
+   icon: fa fa-facebook
+   url: https://www.facebook.com/mincoin.us
+ - title: Twitter
+   icon: ti-twitter
+   url: https://twitter.com/mincoinus
+
+MinCoinDownload:
+ - title: MinCoin для Windows
+   icon: /images/mincoin-windows.png
+   url: http://download.mincoin.us/minion-0.8.8.0/windows/mincoin-0.8.8.0-win32.zip
+   downloadText: mincoin-0.8.8.0-win32.zip
+   buttonText: Download for Windows
+ - title: MinCoin для Linux
+   icon: /images/mincoin-linux.png
+   url: http://download.mincoin.us/minion-0.8.8.0/linux/mincoin-0.8.8.0-linux.tar.gz
+   downloadText: mincoin-0.8.8.0-linux.tar.gz
+   buttonText: Download for Linux
+ - title: MinCoin для Mac OSX
+   icon: /images/mincoin-osx.png
+   url: http://download.mincoin.us/minion-0.8.8.0/mac/Mincoin-0.8.8.0-Mac.dmg
+   downloadText: Mincoin-0.8.8.0-Mac.dmg
+   buttonText: Download for Mac
+   
+contact:
+ contactHeading: Узнать больше о MinCoin
+ buttonText: Техническая документация MinCoin
+ contentUrl: "https://www.mincoinforum.com/index.php?/topic/4178-the-mincoin-white-paper/"
+ 
+news:
+ heading: Новости криптовалют
+ readmoreUrl:  /category/cryptocurrency-news/
+ readmoreText:  Читать больше новостей
+ col1:
+  - linktext: More Cryptocurrency News
+    linkUrl: https://www.mincoin.us/category/cryptocurrency-news/
+ col2:
+  - linktext: Топ 30 мировых криптовалют по версии журнала Форбс
+    linkUrl: https://www.mincoin.us/the-digital-commodity-solution/
+    linkImage: 
+  - linktext: Принстонский университет изучает Альткоин MinCoin
+    linkUrl: https://www.mincoin.us/is-mincoin-the-digital-commodity-solution/
+    linkImage:
+  - linktext: Самый быстрый в мире редкий Альткоин
+    linkUrl: https://www.mincoin.us/mincoin-princeton-university-study/
+    linkImage:
+  - linktext: Руководство для покупателей криптовалюты MinCoin
+    linkUrl: https://www.mincoin.us/mincoin-princeton-university-study/
+    linkImage: 
+  - linktext:  Управляющее резюме технической документации MinCoin
+    linkUrl: https://www.mincoin.us/bitcoin-mincoin-litecoin-the-best-crypto-commodity/
+    linkImage:
+
+extraLinks: 
+ communityHeading: Сообщество Mincoin
+ toolsHeading: Инструменты
+ learnHeading: Узнать о MinCoin
+ community:
+  - linktext: Форум MinCoin
+    linkUrl: https://www.mincoinforum.com
+  - linktext: IRC чат
+    linkUrl: http://webchat.freenode.net/?channels=#mincoin
+  - linktext: Reddit /r/mincoin
+    linkUrl: http://reddit.com/r/mincoin
+  - linktext: Форум BitcoinTalk
+    linkUrl: https://bitcointalk.org/index.php?topic=165397.0
+  - linktext: MinCoin Twitter
+    linkUrl: https://twitter.com/mincoinus
+  - linktext: MinCoin Facebook
+    linkUrl: https://www.facebook.com/mincoin.us
+  - linktext: Discord канал Mincoin
+    linkUrl: https://www.mincoinforum.com/index.php?/topic/4153-mincoin-on-discord
+ tools:
+  - linktext: Резервное копирование кошелька MinCoin
+    linkUrl: http://mincoinforum.com/index.php/topic/330-how-to-back-up-restore-your-walletdat/
+  - linktext: Пулы для майнинга MinCoin
+    linkUrl: https://www.mincoinforum.com/index.php?/forum/36-mincoin-mining-pools
+  - linktext: MinCoin CoinWiki
+    linkUrl: http://coinwik.org/MinCoin
+  - linktext: MinCoin на CoinMarketCap
+    linkUrl: https://coinmarketcap.com/currencies/mincoin 
+  - linktext: Соло майнинг
+    linkUrl: http://mincoinforum.com/index.php/topic/320-solo-mining-mincoin-guide/
+  - linktext: Руководства для майнинга MNC
+    linkUrl: http://mincoinforum.com/index.php/forum/24-mincoin-mining-guides/
+  - linktext: MinCoin Block Explorer
+    linkUrl: http://cryptoexplore.com 
+ learn:
+  - linktext: Исходный код MinCoin на Github
+    linkUrl: https://github.com/mincoin
+
+footer:
+ heading: Связаться с командой разработчиков
+ email: developers@mincoin.us
+ copyright: © 2017 Copyright 2013-2017 · The MinCoin Developers

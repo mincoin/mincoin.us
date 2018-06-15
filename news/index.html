@@ -1,0 +1,41 @@
+---
+layout: post
+title : "MinCoin News"
+pagination: 
+  enabled: true
+---
+
+  <div class="container">
+    <div class="block-wrapper inner-content" >
+	<div class="row">
+	<!--
+	{% for my_page in site.pages %}
+  {% if my_page.title and my_page.autogen == nil %}
+    <h1>{{ my_page.title | escape }}</h1>
+  {% endif %}
+{% endfor %}-->
+	
+	
+      {% for post in paginator.posts %} 
+        
+          <div class="blog-list">
+            <div class="col-md-8 col-md-push-2 col-sm-7 post-content">
+              <h3 class="post-title heading"><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h3>
+			  <p class="published"><i class="fa fa-calendar"></i> {{post.date | date: "%d/%m/%Y"}}</p> 
+              <small>{{post.description}}</small>
+              <p class="post-description">{{post.content | strip_html | truncate:250}} <a href="{{ site.baseurl }}{{ post.url }}" class="more-link">Read More</a></p>
+             
+            </div>
+            <div class="clearfix"></div>
+          </div>
+        
+        {% endfor %}
+		</div>
+      </div>
+    </div>
+	
+    <!-- pagination -->
+	<div class="text-center">
+    {% include pagination.html%}
+    </div>
+

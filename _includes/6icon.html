@@ -1,0 +1,19 @@
+<div class="container-fluid icon6-widget section">
+	<div class="container">
+		<div class="row">				
+			{% for contentIcon in langPath.icons6 %}
+			<div class="col-md-4 col-sm-4 text-center widget-col">
+				<span class="fa-stack fa-4x">
+					<i class="fa fa-circle fa-stack-2x text-primary "></i>
+					<i class="fa {{ contentIcon.icon }} fa-stack-1x fa-inverse"></i>
+				</span>
+				<h4 class="service-heading ">{{ contentIcon.title }}</h4>
+				<p class="text-no-margin text-left text-muted">{{ contentIcon.subTitle }}</p>
+				<div class=" text-left">
+				{{ contentIcon.desc }}
+				</div>
+			</div>
+			{% endfor %} 
+		</div>
+	</div>
+</div>

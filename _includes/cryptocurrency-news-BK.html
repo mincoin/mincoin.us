@@ -1,0 +1,35 @@
+<div class="container-fluid section news">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12 text-center">
+				<h3 class="page-title col-md-9">{{ langPath.news.heading }} </h3>
+				<a href="{{ langPath.news.readmoreUrl }}" class="pull-right btnmore"><button class="gradient">{{ langPath.news.readmoreText }}</button></a>
+			</div>
+			<div class="col-md-9 col-xs-12">
+				<div class="row order-container">
+					<!--<div class="col-md-6 order-xs-1">
+						<ul class="news-list font-sm">
+						{% for newsCol1 in langPath.news.col1 limit:5 %}
+							<li>								
+								<h4><a href="{{ newsCol1.linkUrl }}" title="Cryptocurrency News">{{ newsCol1.linktext }}</a></h4>							
+							</li>			
+						{% endfor %}
+						</ul>
+					</div> -->
+					<div class="col-md-9 col-md-push-3 order-xs-2">
+						<ul class="news-list">
+							{% for newsCol2 in langPath.news.col2 limit:5 %}
+								<li>
+									<h4><a href="{{ newsCol2.linkUrl }}">{{ newsCol2.linktext }}</a> </h4>									
+								</li>		
+							{% endfor %}
+							
+						</ul>
+					</div>
+				</div>
+			</div>
+				
+			<div class="col-md-3"></div>
+		</div>
+	</div>
+</div>

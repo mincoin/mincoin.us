@@ -1,0 +1,146 @@
+---
+lang_name: "中文"
+head:
+  meta:
+    description: "Official MinCoin Website"
+    keywords: "MinCoin"
+    author: "John"
+  title: "MinCoin &#8211; Official MinCoin Website"
+###Banner content
+banner:
+ title: "世界#1 高速加密貨幣"
+ subTitle: "基於區塊鏈技術"
+ image: "https://www.mincoin.us/wp-content/uploads/2017/10/mincoin-mnc-cryptocurrency-home.png"
+ desc: "簡約幣（Min是英文簡約的縮寫）是一種使用點對點技術的加密貨幣，利用電腦演算法進行驗證。簡約幣於2013年4月3日發行，零premine。"
+ buttonUrl: "mincoin-mnc-cryptocurrency-trading-exchanges"
+ buttonText: "現已在加密貨幣交易中心進行交易"
+###6 icon content
+icons6:
+ - title: "社區"
+   icon: "fa-group"
+   desc: "從以下簡約幣社區尋求免費支持：<ul>
+          <li><a href='https://www.mincoinforum.com' target='_blank'> 簡約幣論壇</a></li>
+		  <li><a href='https://www.mincoinforum.com/index.php?/topic/4153-mincoin-on-discord/' target='_blank'>簡約幣發行者頻道</a></li>
+		  <li><a href='https://www.reddit.com/r/MinCoin/' target='_blank'>紅迪網簡約幣</a></li>
+		  <li><a href='https://twitter.com/mincoinus' target='_blank'>推特簡約幣</a></li>
+		  <li><a href='https://www.facebook.com/mincoin.us' target='_blank'>簡約幣臉譜網</a></li>
+		  <li><a href='https://bitcointalk.org/index.php?topic=165397.0' target='_blank'> 簡約幣比特幣訪談</a></li>
+		  <li><a href='http://webchat.freenode.net/?channels=#mincoin' target='_blank'> ICR自由節點</a></li>
+		  </ul>"
+ - title: "資源"
+   icon: "fa-laptop"
+   desc: "請於簡約幣•幣維琪查詢基本資料、服務領域及交易資訊。您可以在簡約幣區塊探索者<a href='http://cryptoexplore.com/' target='_blank'> 查詢最新的網路統計資訊</a>。 簡約幣現價可以在 CoinMarketCap網站<a href='https://coinmarketcap.com/currencies/mincoin' target='_blank'> 的簡約幣專欄進行查詢 </a>。"
+ - title: "開源軟體"
+   icon: "fa-heart "
+   desc: "簡約幣是一個開源軟體專案，證書MIT/X11，您可以對軟體進行運行、修改、複製，並自選發佈軟體的改良版本。軟體發佈過程透明化，允許獨立驗證二進位文檔及相應的原始程式碼。簡約幣的原始程式碼和相關項目可以在 <a href='https://github.com/mincoin' target='_blank'>GitHub</a>網站進行查詢。"
+ - title: "區塊鏈"
+   icon: "fa-link "
+   desc: "簡約幣區塊鏈可處理比萊特幣更大的交易量。因區塊更新頻繁，所以本網站支援的交易量更大，將來不必對軟體做出修改。因此，商戶及用戶可以更快地進行確認。"
+ - title: "加密錢包"
+   icon: "fa-lock "
+   desc: "加密錢包可加強錢包的安全性，您可以流覽交易記錄和帳戶餘額，但在支付簡約幣之前，需要輸入密碼。加密錢包可防止一些盜取資金的病毒及特洛伊木馬病毒，在支付之前還可以進行完整性檢查。 <a href='http://mincoinforum.com/index.php/topic/330-how-to-back-up-restore-your-walletdat/' target='_blank'> 簡約幣錢包備份 </a>。"
+ - title: "挖礦獎勵"
+   icon: "fa-money "
+   desc: "現在每個區塊會給挖礦人2個新簡約幣獎勵。簡約幣網路預計生產1千萬個簡約幣，相較比特幣（210萬）和萊特幣（840萬）更加稀有。<ul>
+          <li><a href='http://mincoinforum.com/index.php/topic/320-solo-mining-mincoin-guide/' target='_blank'>單人挖礦</a></li>
+		  <li><a href='http://mincoinforum.com/index.php/forum/24-mincoin-mining-guides/' target='_blank'>移動網路碼挖礦指南</a></li>
+		  <li><a href='https://www.mincoinforum.com/index.php?/forum/36-mincoin-mining-pools' target='_blank'>簡約幣挖礦池</a></li>
+		  </ul>"
+  
+
+socialicon:
+ - title: Facebook
+   icon: fa fa-facebook
+   url: https://www.facebook.com/mincoin.us
+ - title: Twitter
+   icon: ti-twitter
+   url: https://twitter.com/mincoinus
+
+MinCoinDownload:
+ - title: Windows系統簡約幣
+   icon: /images/mincoin-windows.png
+   url: http://download.mincoin.us/minion-0.8.8.0/windows/mincoin-0.8.8.0-win32.zip
+   downloadText: 簡約幣-0.8.8.0-win32.zip
+   buttonText: Download for Windows
+ - title: Linux系統簡約幣
+   icon: /images/mincoin-linux.png
+   url: http://download.mincoin.us/minion-0.8.8.0/linux/mincoin-0.8.8.0-linux.tar.gz
+   downloadText: 簡約幣--0.8.8.0-linux.tar.gz
+   buttonText: Download for Linux
+ - title: Mac OSX系統簡約幣
+   icon: /images/mincoin-osx.png
+   url: http://download.mincoin.us/minion-0.8.8.0/mac/Mincoin-0.8.8.0-Mac.dmg
+   downloadText: 簡約幣-0.8.8.0-Mac.dmg
+   buttonText: Download for Mac
+   
+contact:
+ contactHeading: 瞭解更多簡約幣內容
+ buttonText: 簡約幣白皮書
+ contentUrl: "https://www.mincoinforum.com/index.php?/topic/4178-the-mincoin-white-paper/"
+ 
+news:
+ heading: 加密貨幣資訊
+ readmoreUrl:  /category/cryptocurrency-news/
+ readmoreText:  閱讀更多資訊
+ col1:
+  - linktext: More Cryptocurrency News
+    linkUrl: https://www.mincoin.us/category/cryptocurrency-news/
+ col2:
+  - linktext: 《福布斯》雜誌全球加密貨幣TOP30
+    linkUrl: https://www.mincoin.us/the-digital-commodity-solution/
+    linkImage: 
+  - linktext:  普林斯頓大學簡約幣替代幣研究
+    linkUrl: https://www.mincoin.us/is-mincoin-the-digital-commodity-solution/
+    linkImage:
+  - linktext:  世界最快稀有替代幣
+    linkUrl: https://www.mincoin.us/mincoin-princeton-university-study/
+    linkImage:
+  - linktext:  簡約幣加密貨幣買家指南
+    linkUrl: https://www.mincoin.us/mincoin-princeton-university-study/
+    linkImage: 
+  - linktext: 簡約幣白皮書執行概要
+    linkUrl: https://www.mincoin.us/bitcoin-mincoin-litecoin-the-best-crypto-commodity/
+    linkImage:
+
+extraLinks: 
+ communityHeading: 簡約幣社區
+ toolsHeading: 工具
+ learnHeading: 瞭解簡約幣
+ community:
+  - linktext:  簡約幣論壇
+    linkUrl: http://mincoinforum.com/
+  - linktext: 線上即時聊天
+    linkUrl: http://webchat.freenode.net/?channels=#mincoin
+  - linktext: 紅迪網簡約幣/紅/簡約幣
+    linkUrl: http://reddit.com/r/mincoin
+  - linktext: 比特幣訪談論壇
+    linkUrl: https://bitcointalk.org/index.php?topic=165397.0
+  - linktext:  簡約幣推特
+    linkUrl: https://twitter.com/mincoinus
+  - linktext: 簡約幣臉譜網
+    linkUrl: https://www.facebook.com/mincoin.us
+  - linktext: 簡約幣發行者頻道
+    linkUrl: https://www.mincoinforum.com/index.php?/topic/4153-mincoin-on-discord
+ tools:
+  - linktext:  簡約幣錢包備份
+    linkUrl: http://mincoinforum.com/index.php/topic/330-how-to-back-up-restore-your-walletdat/
+  - linktext: 簡約幣挖礦池
+    linkUrl: https://www.mincoinforum.com/index.php?/forum/36-mincoin-mining-pools
+  - linktext:  簡約幣•幣維琪
+    linkUrl: http://coinwik.org/MinCoin
+  - linktext: CoinMarketCap網站簡約幣專欄
+    linkUrl: https://coinmarketcap.com/currencies/mincoin 
+  - linktext: 單人挖礦
+    linkUrl: http://mincoinforum.com/index.php/topic/320-solo-mining-mincoin-guide/
+  - linktext: 移動網路碼挖礦指南
+    linkUrl: http://mincoinforum.com/index.php/forum/24-mincoin-mining-guides/
+  - linktext: 簡約幣區塊探索者
+    linkUrl: http://cryptoexplore.com 
+ learn:
+  - linktext: GitHub網站簡約幣原始程式碼
+    linkUrl: https://github.com/mincoin
+
+footer:
+ heading: 聯繫開發團隊
+ email: developers@mincoin.us
+ copyright: © 2017 Copyright 2013-2017 · The MinCoin Developers

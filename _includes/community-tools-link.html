@@ -1,0 +1,92 @@
+<div class="container-fluid section community-tools">    
+	<div class="container">		
+				<div class="row">
+					<div class="col-md-4 col-sm-6 col-links">
+						<p><i class="ti-comment-alt icon"></i></p>
+						<h3> {%  if page.layout == 'default' %}  
+								{{ langPath.extraLinks.communityHeading }} 
+							{%  else if page.layout == 'post' %}  
+								{{ defaultLangPath.extraLinks.communityHeading }}   
+							{% endif %} </h3>  
+						<ul class="news-list font-sm">	
+							{%  if page.layout == 'default' %}  
+								{% for communityLinks in langPath.extraLinks.community %}								
+									<li>								
+										<h4><a href="{{ communityLinks.linkUrl }}" title="{{ communityLinks.linktext }}" target="_blank">{{ communityLinks.linktext }}</a></h4>
+									</li>			
+								{% endfor %}
+							{%  else if page.layout == 'post' %}  
+								{% for communityLinks in defaultLangPath.extraLinks.community %}								
+									<li>								
+										<h4><a href="{{ communityLinks.linkUrl }}" title="{{ communityLinks.linktext }}" target="_blank">{{ communityLinks.linktext }}</a></h4>
+									</li>			
+								{% endfor %}
+							{% endif %}
+						</ul>
+					</div>
+					<div class="col-md-4 col-sm-6 col-links">
+						<p><i class="ti-hummer icon"></i></p>
+						<h3>{{ langPath.extraLinks.toolsHeading }}
+							{%  if page.layout == 'default' %}  
+								{{ langPath.extraLinks.toolsHeading }} 
+							{%  else if page.layout == 'post' %}  
+								{{ defaultLangPath.extraLinks.toolsHeading }}   
+							{% endif %} 
+						
+						</h3>
+						<ul class="news-list font-sm">
+							{%  if page.layout == 'default' %}  
+								{% for toolsLinks in langPath.extraLinks.tools %}								
+									<li>								
+										<h4><a href="{{ toolsLinks.linkUrl }}" title="{{ toolsLinks.linktext }}" target="_blank">{{ toolsLinks.linktext }}</a></h4>
+									</li>			
+								{% endfor %} 
+							{%  else if page.layout == 'post' %}  								
+								{% for toolsLinks in defaultLangPath.extraLinks.tools %}								
+									<li>								
+										<h4><a href="{{ toolsLinks.linkUrl }}" title="{{ toolsLinks.linktext }}" target="_blank">{{ toolsLinks.linktext }}</a></h4>
+									</li>			
+								{% endfor %}
+								
+							{% endif %} 
+						
+						
+							
+						</ul>
+					</div>
+					<div class="col-md-4 col-sm-6 col-links">
+						<p><i class="ti-blackboard icon"></i></p> 
+						<h3>
+							{%  if page.layout == 'default' %}  
+								{{ langPath.extraLinks.learnHeading }} 
+							{%  else if page.layout == 'post' %}  
+								{{ defaultLangPath.extraLinks.learnHeading }}   
+							{% endif %} 
+						
+						</h3>					
+						<ul class="news-list font-sm">	
+							{%  if page.layout == 'default' %}  								
+								{% for learnLinks in langPath.extraLinks.learn %}								
+									<li>								
+										<h4><a href="{{ learnLinks.linkUrl }}" title="{{ learnLinks.linktext }}" target="_blank">{{ learnLinks.linktext }}</a></h4>
+									</li>			
+								{% endfor %}								
+								
+							{%  else if page.layout == 'post' %}  							
+								{% for learnLinks in defaultLangPath.extraLinks.learn %}								
+									<li>								
+										<h4><a href="{{ learnLinks.linkUrl }}" title="{{ learnLinks.linktext }}" target="_blank">{{ learnLinks.linktext }}</a></h4>
+									</li>			
+								{% endfor %}								
+								
+							{% endif %} 
+
+
+						
+							
+						</ul>
+					</div>
+				</div>
+			</div>
+		
+</div>

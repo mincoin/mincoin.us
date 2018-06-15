@@ -1,0 +1,146 @@
+---
+lang_name: "Việt"
+head:
+  meta:
+    description: "Official MinCoin Website"
+    keywords: "MinCoin"
+    author: "John"
+  title: "MinCoin &#8211; Official MinCoin Website"
+###Banner content
+banner:
+ title: "Tiền kỹ thuật số đồng đẳng tốc độ cao số #1 thế giới"
+ subTitle: "Dựa trên công nghệ chuỗi khối"
+ image: "https://www.mincoin.us/wp-content/uploads/2017/10/mincoin-mnc-cryptocurrency-home.png"
+ desc: "MinCoin (Min là từ viết tắt cho Minimalist) là loại tiền kỹ thuật số đồng đẳng sử dụng scrypt là thuật toán bằng chứng công việc. MinCoin được ra mắt vào ngày 3 tháng 4, 2013 với quá trình đào trước bằng 0."
+ buttonUrl: "mincoin-mnc-cryptocurrency-trading-exchanges"
+ buttonText: "Hiện nay đang giao dịch trên CryptoCurrency Exchanges"
+###6 icon content
+icons6:
+ - title: "Cộng đồng"
+   icon: "fa-group"
+   desc: "Tìm hỗ trợ miễn phí trên các nền tảng cộng đồng MinCoin này<ul>
+          <li><a href='https://www.mincoinforum.com' target='_blank'>Diễn đàn MinCoin </a></li>
+		  <li><a href='https://www.mincoinforum.com/index.php?/topic/4153-mincoin-on-discord/' target='_blank'>Kênh MinCoin Discord</a></li>
+		  <li><a href='https://www.reddit.com/r/MinCoin/' target='_blank'>Reddit MinCoin</a></li>
+		  <li><a href='https://twitter.com/mincoinus' target='_blank'>Twitter MinCoin</a></li>
+		  <li><a href='https://www.facebook.com/mincoin.us' target='_blank'>MinCoin Facebook</a></li>
+		  <li><a href='https://bitcointalk.org/index.php?topic=165397.0' target='_blank'>MinCoin Bitcoin Talk</a></li>
+		  <li><a href='http://webchat.freenode.net/?channels=#mincoin' target='_blank'>IRC FreeNode</a></li>
+		  </ul>"
+ - title: "Nguồn lực"
+   icon: "fa-laptop"
+   desc: "Tìm thông tin chung, dịch vụ, và hỗ trợ MinCoin tại MinCoin CoinWiki. Các phân tích mạng lưới cập nhật có thể tìm thấy tại <a href='http://coinwik.org/MinCoin' target='_blank'>MinCoin Block Explorer</a>. Giá hiện tại của MinCoin có sẵn tại mục MinCoin trên trang CoinMarketCap <a href='https://coinmarketcap.com/currencies/mincoin' target='_blank'>MinCoin On CoinMarketCap</a>  "
+ - title: "Phần mềm nguồn"
+   icon: "fa-heart "
+   desc: "MinCoin là dự án phần mềm nguồn mở được phát hành theo giấy phép MIT/X11 mang đến cho bạn khả năng để vận hành, sửa đổi, và sao chép phần mềm và để phân phối, theo lựa chọn của bạn, các bản sao sửa đổi của phần mềm. Phầm mềm được phát hành theo một quá trình minh bạch cho phép kiểm tra độc lập các nhị phân và mã nguồn tương ứng của chúng. Mã nguồn cho MinCoin và các dự án liên quan có sẵn trên  <a href='https://github.com/mincoin' target='_blank'>GitHub</a>."
+ - title: "Công nghệ Blockchain"
+   icon: "fa-link "
+   desc: "Chuối khối MinCoin có khả năng xử lý khối lượng giao dịch lớn hơn bản đối xứng - Litecoin. Do sự sản sinh khối diễn ra thường xuyên hơn, mạng lưới hỗ trợ nhiều giao dịch hơn mà không cần sửa đổi phần mềm trong tương lại. Kết quả là, người buôn bán và người dùng có thời gian xác nhận nhanh hơn."
+ - title: "Mã hóa ví tiền"
+   icon: "fa-lock "
+   desc: "Mã hóa ví tiền cho phép bạn bảo đảm ví tiền của bạn, do đó bạn có thể xem các giao dịch và số dư tài khoản của bạn, nhưng cần phải nhập mật khẩu trước khi chi tiêu MinCoins. Điều này giúp bảo vệ khỏi các virus và Trojan ăn cắp ví tiền cũng như kiểm tra tính đúng của hệ thống trước khi gửi tiền. <a href='http://mincoinforum.com/index.php/topic/330-how-to-back-up-restore-your-walletdat/' target='_blank'>Dự phòng ví tiền MinCoin</a>."
+ - title: "Phần thưởng đào"
+   icon: "fa-money "
+   desc: "Thợ đào hiện được thưởng 2 Mincoin mới trên mỗi khối. Mạng lưới Mincoin do đó được lên lịch trình sản xuất 10 triệu MinCoins, làm cho số lượng mincoin ít hơn nhiều so với Bitcoin (21 triệu coin) và Litecoin (84 triệu coin).<ul>
+          <li><a href='http://mincoinforum.com/index.php/topic/320-solo-mining-mincoin-guide/' target='_blank'>Đào một mình</a></li>
+		  <li><a href='http://mincoinforum.com/index.php/forum/24-mincoin-mining-guides/' target='_blank'>Hướng dẫn đào MNC</a></li>
+		  <li><a href='https://www.mincoinforum.com/index.php?/forum/36-mincoin-mining-pools' target='_blank'>Mỏ đào MinCoin </a></li>
+		  </ul>"
+  
+
+socialicon:
+ - title: Facebook
+   icon: fa fa-facebook
+   url: https://www.facebook.com/mincoin.us
+ - title: Twitter
+   icon: ti-twitter
+   url: https://twitter.com/mincoinus
+
+MinCoinDownload:
+ - title: MinCoin cho Windows
+   icon: /images/mincoin-windows.png
+   url: http://download.mincoin.us/minion-0.8.8.0/windows/mincoin-0.8.8.0-win32.zip
+   downloadText: mincoin-0.8.8.0-win32.zip
+   buttonText: Download for Windows
+ - title: MinCoin cho Linux
+   icon: /images/mincoin-linux.png
+   url: http://download.mincoin.us/minion-0.8.8.0/linux/mincoin-0.8.8.0-linux.tar.gz
+   downloadText: mincoin-0.8.8.0-linux.tar.gz
+   buttonText: Download for Linux
+ - title: MinCoin cho Mac OSX
+   icon: /images/mincoin-osx.png
+   url: http://download.mincoin.us/minion-0.8.8.0/mac/Mincoin-0.8.8.0-Mac.dmg
+   downloadText: Mincoin-0.8.8.0-Mac.dmg
+   buttonText: Download for Mac
+   
+contact:
+ contactHeading: Tìm hiểu thêm về MinCoin
+ buttonText: Sách trắng MinCoin 
+ contentUrl: "https://www.mincoinforum.com/index.php?/topic/4178-the-mincoin-white-paper/"
+ 
+news:
+ heading: Tin tức tiền kỹ thuật số đồng đẳng
+ readmoreUrl:  /category/cryptocurrency-news/
+ readmoreText:  Đọc thêm tin tức
+ col1:
+  - linktext: More Cryptocurrency News
+    linkUrl: https://www.mincoin.us/category/cryptocurrency-news/
+ col2:
+  - linktext: Tạp chí Forbes Top 30 đồng tiền kỹ thuật số đồng đẳng trên thế giới 
+    linkUrl: https://www.mincoin.us/the-digital-commodity-solution/
+    linkImage: 
+  - linktext: Đại học Princeton nghiên cứu MinCoin Altcoin
+    linkUrl: https://www.mincoin.us/is-mincoin-the-digital-commodity-solution/
+    linkImage:
+  - linktext: Altcoin hiếm phát triển nhanh nhất trên thế giới 
+    linkUrl: https://www.mincoin.us/mincoin-princeton-university-study/
+    linkImage:
+  - linktext: Hướng dẫn người mua về tiền kỹ thuật số đồng đẳng MinCoin 
+    linkUrl: https://www.mincoin.us/mincoin-princeton-university-study/
+    linkImage: 
+  - linktext: Tóm tắt tổng quan sách trắng về MinCoin 
+    linkUrl: https://www.mincoin.us/bitcoin-mincoin-litecoin-the-best-crypto-commodity/
+    linkImage:
+
+extraLinks: 
+ communityHeading: Cộng đồng MinCoin 
+ toolsHeading: Công cụ
+ learnHeading: Tìm hiểu về MinCoin
+ community:
+  - linktext: Diễn đàn MinCoin 
+    linkUrl: https://www.mincoinforum.com
+  - linktext: IRC Chat
+    linkUrl: http://webchat.freenode.net/?channels=#mincoin
+  - linktext: Reddit /r/mincoin
+    linkUrl: http://reddit.com/r/mincoin
+  - linktext: Diễn đàn BitcoinTalk 
+    linkUrl: https://bitcointalk.org/index.php?topic=165397.0
+  - linktext: MinCoin Twitter
+    linkUrl: https://twitter.com/mincoinus
+  - linktext: MinCoin Facebook
+    linkUrl: https://www.facebook.com/mincoin.us
+  - linktext: Kênh MinCoin Discord 
+    linkUrl: https://www.mincoinforum.com/index.php?/topic/4153-mincoin-on-discord
+ tools:
+  - linktext: Dự phòng ví tiền MinCoin 
+    linkUrl: http://mincoinforum.com/index.php/topic/330-how-to-back-up-restore-your-walletdat/
+  - linktext: Mỏ đào MinCoin 
+    linkUrl: https://www.mincoinforum.com/index.php?/forum/36-mincoin-mining-pools
+  - linktext: MinCoin CoinWiki
+    linkUrl: http://coinwik.org/MinCoin
+  - linktext: MinCoin On CoinMarketCap
+    linkUrl: https://coinmarketcap.com/currencies/mincoin 
+  - linktext: Đào một mình
+    linkUrl: http://mincoinforum.com/index.php/topic/320-solo-mining-mincoin-guide/
+  - linktext: Hướng dẫn đào MNC
+    linkUrl: http://mincoinforum.com/index.php/forum/24-mincoin-mining-guides/
+  - linktext: MinCoin Block Explorer
+    linkUrl: http://cryptoexplore.com 
+ learn:
+  - linktext: Mã nguồn MinCoin trên Github
+    linkUrl: https://github.com/mincoin
+
+footer:
+ heading: Liên hệ nhóm phát triển 
+ email: developers@mincoin.us
+ copyright: © 2017 Copyright 2013-2017 · The MinCoin Developers

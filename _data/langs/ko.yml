@@ -1,0 +1,146 @@
+---
+lang_name: "한국어"
+head:
+  meta:
+    description: "Official MinCoin Website"
+    keywords: "MinCoin"
+    author: "John"
+  title: "MinCoin &#8211; Official MinCoin Website"
+###Banner content
+banner:
+ title: "세계 최고 속도의 암호화폐"
+ subTitle: "블록체인 기술 기반"
+ image: "https://www.mincoin.us/wp-content/uploads/2017/10/mincoin-mnc-cryptocurrency-home.png"
+ desc: "MinCoin (Min은 미니멀리스트의 약자입니다)은 작업 입증 증명 알고리즘으로써 스크립트를 이용하는 피어 투 피어 암호화폐입니다. MinCoin은 2013년 4월 3일에 제로 프리 마이닝으로 출시되었습니다."
+ buttonUrl: "mincoin-mnc-cryptocurrency-trading-exchanges"
+ buttonText: "이제 암호화폐 거래소에서 거래 중입니다."
+###6 icon content
+icons6:
+ - title: "커뮤니티"
+   icon: "fa-group"
+   desc: "이 MinCoin 커뮤니티 플랫폼에 대한 무료 지원 찾기: <ul>
+          <li><a href='https://www.mincoinforum.com' target='_blank'>MinCoin 포럼</a></li>
+		  <li><a href='https://www.mincoinforum.com/index.php?/topic/4153-mincoin-on-discord/' target='_blank'>MinCoin 디스코드 채널</a></li>
+		  <li><a href='https://www.reddit.com/r/MinCoin/' target='_blank'>레딧 MinCoin</a></li>
+		  <li><a href='https://twitter.com/mincoinus' target='_blank'>트위터 MinCoin</a></li>
+		  <li><a href='https://www.facebook.com/mincoin.us' target='_blank'>MinCoin 페이스북</a></li>
+		  <li><a href='https://bitcointalk.org/index.php?topic=165397.0' target='_blank'>MinCoin 비트코인 톡</a></li>
+		  <li><a href='http://webchat.freenode.net/?channels=#mincoin' target='_blank'>IRC 프리노드</a></li>
+		  </ul>"
+ - title: "리소스"
+   icon: "fa-laptop"
+   desc: "MinCoin Coinwiki에서 MinCoin을 지원해주는 일반 정보, 서비스 및 거래소를 찾아보세요. 최신 네트워크 통계는 MinCoin 블록 탐색기 <a href='http://cryptoexplore.com/' target='_blank'>MinCoin Block Explorer</a>에서 보실 수 있습니다. MinCoin의 현재 시세는 CoinMarketCap에서 MinCoin을 보시면 알 수 있습니다 <a href='https://coinmarketcap.com/currencies/mincoin' target='_blank'>MinCoin On CoinMarketCap</a>"
+ - title: "오픈 소스 소프트웨어"
+   icon: "fa-heart "
+   desc: "MinCoin는 소프트웨어를 실시, 수정 및 복제하고 원하신다면 소프트웨어의 수정된 복제본을 유통할 수 있는 권한을 부여하는 MTI/X11 라이선스 하에 출시된 오픈 소스 소프트웨어 프로젝트입니다. 본 소프트웨어는 이진 파일 및 상응하는 소스 코드의 독립적인 인증을 허용하는 투명한 절차를 통해서 출시되었습니다. MinCoin의 소스 코드 및 관련 프로젝트는 <a href='https://github.com/mincoin' target='_blank'>GitHub</a>에서 보실 수 있습니다."
+ - title: "블록체인"
+   icon: "fa-link "
+   desc: "MinCoin 블록체인은 이의 경쟁 코인인 라이트 코인보다 높은 거래량을 처리할 수 있습니다. 보다 자주 블록을 생성함으로 인해, 네트워크는 향후에 소프트웨어를 수정할 필요 없이 보다 많은 거래량을 지원합니다. 결과적으로 판매 업자와 사용자들은 보다 빠른 확인을 거치게 됩니다. "
+ - title: "지갑 암호화"
+   icon: "fa-lock "
+   desc: "지갑 암호화를 통해서 여러분의 지갑을 안전하게 보관하여, 거래 및 계정 잔액을 볼 수 있지만, MinCoin을 출금하기 전에는 비밀번호를 입력해야 합니다. 이러한 과정을 통해서 결제를 하기 전에 정상 여부를 확인할 뿐 아니라, 지갑을 훔치는 바이러스 및 트로이 목마 바이러스로부터 보호할 수 있게 됩니다. <a href='http://mincoinforum.com/index.php/topic/330-how-to-back-up-restore-your-walletdat/' target='_blank'>MinCoin 지갑 백업</a>."
+ - title: "채굴 보상"
+   icon: "fa-money "
+   desc: "채굴자들은 현재 블록당 2개의 새로운 MinCoin을 제공받고 있습니다. MinCoin 네트워크는 그러므로 천만개의 MinCoin을 생산할 예정이며, 그리하여 MinCoin은 비트코인 (2100만 코인)과 라이트코인 (8400만 코인)에 비해서 매우 희소하게 됩니다.<ul>
+          <li><a href='http://mincoinforum.com/index.php/topic/320-solo-mining-mincoin-guide/' target='_blank'>단독 채굴</a></li>
+		  <li><a href='http://mincoinforum.com/index.php/forum/24-mincoin-mining-guides/' target='_blank'>MNC 채굴 가이드</a></li>
+		  <li><a href='https://www.mincoinforum.com/index.php?/forum/36-mincoin-mining-pools' target='_blank'>MinCoin 채굴 풀</a></li>
+		  </ul>"
+  
+
+socialicon:
+ - title: Facebook
+   icon: fa fa-facebook
+   url: https://www.facebook.com/mincoin.us
+ - title: Twitter
+   icon: ti-twitter
+   url: https://twitter.com/mincoinus
+
+MinCoinDownload:
+ - title: 윈도우용 MinCoin
+   icon: /images/mincoin-windows.png
+   url: http://download.mincoin.us/minion-0.8.8.0/windows/mincoin-0.8.8.0-win32.zip
+   downloadText: mincoin-0.8.8.0-win32.zip
+   buttonText: Download for Windows
+ - title: 리눅스용 MinCoin
+   icon: /images/mincoin-linux.png
+   url: http://download.mincoin.us/minion-0.8.8.0/linux/mincoin-0.8.8.0-linux.tar.gz
+   downloadText: mincoin-0.8.8.0-linux.tar.gz
+   buttonText: Download for Linux
+ - title: Mac OSX용 MinCoin
+   icon: /images/mincoin-osx.png
+   url: http://download.mincoin.us/minion-0.8.8.0/mac/Mincoin-0.8.8.0-Mac.dmg
+   downloadText: Mincoin-0.8.8.0-Mac.dmg
+   buttonText: Download for Mac
+   
+contact:
+ contactHeading: MinCoin에 대해서 더 알아보기
+ buttonText: MinCoin 백서
+ contentUrl: "https://www.mincoinforum.com/index.php?/topic/4178-the-mincoin-white-paper/"
+ 
+news:
+ heading: 가상화폐 뉴스
+ readmoreUrl:  /category/cryptocurrency-news/
+ readmoreText:  뉴스 더 읽어보기
+ col1:
+  - linktext: More Cryptocurrency News
+    linkUrl: https://www.mincoin.us/category/cryptocurrency-news/
+ col2:
+  - linktext: 포브스 선정 글로벌 가상화폐 Top 30
+    linkUrl: https://www.mincoin.us/the-digital-commodity-solution/
+    linkImage: 
+  - linktext: 프린스턴 대학교에서 MinCoin 알트코인 연구
+    linkUrl: https://www.mincoin.us/is-mincoin-the-digital-commodity-solution/
+    linkImage:
+  - linktext: 세계에서 가장 희소한 알트코인
+    linkUrl: https://www.mincoin.us/mincoin-princeton-university-study/
+    linkImage:
+  - linktext: MinCoin 가상화폐 구매자 가이드
+    linkUrl: https://www.mincoin.us/mincoin-princeton-university-study/
+    linkImage: 
+  - linktext: MinCoin 백서 핵심 요약
+    linkUrl: https://www.mincoin.us/bitcoin-mincoin-litecoin-the-best-crypto-commodity/
+    linkImage:
+
+extraLinks: 
+ communityHeading: MinCoin 커뮤니티
+ toolsHeading: 툴
+ learnHeading: MinCoin에 대해서 더 알아보기
+ community:
+  - linktext: MinCoin 포럼
+    linkUrl: http://mincoinforum.com/
+  - linktext: IRC 채팅
+    linkUrl: http://webchat.freenode.net/?channels=#mincoin
+  - linktext: 레딧 /r/mincoin
+    linkUrl: http://reddit.com/r/mincoin
+  - linktext: 비트코인톡 포럼
+    linkUrl: https://bitcointalk.org/index.php?topic=165397.0
+  - linktext: MinCoin 트위터
+    linkUrl: https://twitter.com/mincoinus
+  - linktext: MinCoin 페이스북
+    linkUrl: https://www.facebook.com/mincoin.us
+  - linktext: MinCoin 디스코드 채널
+    linkUrl: https://www.mincoinforum.com/index.php?/topic/4153-mincoin-on-discord
+ tools:
+  - linktext: MinCoin 지갑 백업
+    linkUrl: http://mincoinforum.com/index.php/topic/330-how-to-back-up-restore-your-walletdat/
+  - linktext: MinCoin 채굴 풀
+    linkUrl: https://www.mincoinforum.com/index.php?/forum/36-mincoin-mining-pools
+  - linktext: MinCoin CoinWiki
+    linkUrl: http://coinwik.org/MinCoin
+  - linktext: CoinMarketCap에서의 MinCoin
+    linkUrl: https://coinmarketcap.com/currencies/mincoin 
+  - linktext: 단독 채굴
+    linkUrl: http://mincoinforum.com/index.php/topic/320-solo-mining-mincoin-guide/
+  - linktext: MNC 채굴 가이드
+    linkUrl: http://mincoinforum.com/index.php/forum/24-mincoin-mining-guides/
+  - linktext: MinCoin 블록 탐색기
+    linkUrl: http://cryptoexplore.com 
+ learn:
+  - linktext: Github에서의 MinCoin 소스코드
+    linkUrl: https://github.com/mincoin
+
+footer:
+ heading: 개발팀 문의하기
+ email: developers@mincoin.us
+ copyright: © 2017 Copyright 2013-2017 · The MinCoin Developers

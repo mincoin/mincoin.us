@@ -1,0 +1,158 @@
+---
+lang_name: "English"
+head:
+  meta:
+    description: "Official MinCoin Website"
+    keywords: "MinCoin"
+    author: "John"
+  title: "MinCoin Cryptocurrency - The Official Website of the MinCoin Altcoin"
+###Banner content
+banner:
+ title: "World's #1 <br> High Speed Cryptocurrency"   
+ subTitle: "Based on Blockchain Technology"
+ image: "https://www.mincoin.us/wp-content/uploads/2017/10/mincoin-mnc-cryptocurrency-home.png"
+ desc: "MinCoin (Min is short for Minimalist) is a peer-to-peer cryptocurrency using scrypt as a proof-of-work algorithm. MinCoin was released on April 3rd, 2013 with zero premine."
+ buttonUrl: "mincoin-mnc-cryptocurrency-trading-exchanges"
+ buttonText: "Now Trading on Exchanges"
+###6 icon content
+icons6:
+ - title: "Community"
+   icon: "fa-group"
+   desc: "Find free support on these MinCoin community platforms: <ul>
+          <li><a href='https://www.mincoinforum.com' target='_blank'>MinCoin Forum</a></li>
+		  <li><a href='https://www.mincoinforum.com/index.php?/topic/4153-mincoin-on-discord/' target='_blank'>MinCoin Discord Channel</a></li>
+		  <li><a href='https://www.reddit.com/r/MinCoin/' target='_blank'>Reddit MinCoin</a></li>
+		  <li><a href='https://twitter.com/MinCoinus' target='_blank'>Twitter MinCoin</a></li>
+		  <li><a href='https://www.facebook.com/mincoin.us' target='_blank'>MinCoin Facebook</a></li>
+		  <li><a href='https://bitcointalk.org/index.php?topic=165397.0' target='_blank'>MinCoin BitcoinTalk</a></li>
+		  <li><a href='http://webchat.freenode.net/?channels=#mincoin' target='_blank'>Freenode Web Chat</a></li>
+		  </ul>"
+ - title: "Resources"
+   icon: "fa-laptop"
+   desc: "Find general information, services and exchanges supporting MinCoin at the <a href='http://coinwik.org/MinCoin' target='_blank'>MinCoin CoinWiki</a>. Up-to-date network statistics can be found at <a href='http://cryptoexplore.com/' target='_blank'>MinCoin Block Explorer</a>. MinCoin's current pricing data is updated every 5 minutes on <a href='https://coinmarketcap.com/currencies/mincoin' target='_blank'>CoinMarketCap</a>  "
+ - title: "Open Source Software"
+   icon: "fa-heart "
+   desc: "MinCoin is an open source software project released under the MIT/X11 license which gives you the power to run, modify, and copy the software and to distribute, at your option, modified copies of the software. The software is released in a transparent process that allows for independent verification of binaries and their corresponding source code. Source code for MinCoin and related projects are available on <a href='https://github.com/mincoin' target='_blank'>GitHub</a>."
+ - title: "Blockchain Technology"
+   icon: "fa-link "
+   desc: "The MinCoin blockchain is capable of handling higher transaction volume than its counterpart - Litecoin. Due to more frequent block generation, the network supports more transactions without a need to modify the software in the future. As a result, merchants and users get faster confirmation times."
+ - title: "Wallet Encryption"
+   icon: "fa-lock "
+   desc: "Wallet encryption allows you to secure your wallet, so that you can view transactions and your account balance, but are required to enter your password before spending MinCoins. This provides protection from wallet-stealing viruses and trojans as well as a sanity check before sending payments.  <a href='http://mincoinforum.com/index.php/topic/330-how-to-back-up-restore-your-walletdat/' target='_blank'>MinCoin Wallet Backup</a>."
+ - title: "Mining Reward"
+   icon: "fa-money "
+   desc: "Miners are currently awarded with 2 new MinCoins per block. The MinCoin network is therefore scheduled to produce 10 million MinCoins, which makes MinCoin significantly more rare than Bitcoin (21 million coins) and Litecoin (84 million coins).<ul>
+          <li><a href='http://mincoinforum.com/index.php/topic/320-solo-mining-mincoin-guide/' target='_blank'>Solo Mining</a></li>
+		  <li><a href='http://mincoinforum.com/index.php/forum/24-mincoin-mining-guides/' target='_blank'>MNC Mining Guides</a></li>
+		  <li><a href='https://www.mincoinforum.com/index.php?/forum/36-mincoin-mining-pools' target='_blank'>MinCoin Mining Pools</a></li>
+		  </ul>"
+  
+
+socialicon:
+ - title: Facebook
+   icon: fa fa-facebook
+   url: https://www.facebook.com/mincoin.us
+ - title: Twitter
+   icon: ti-twitter
+   url: https://twitter.com/mincoinus
+
+MinCoinDownload:
+ - title: MinCoin for Windows
+   icon: /images/mincoin-windows.png
+   url: http://download.mincoin.us/minion-0.8.8.0/windows/mincoin-0.8.8.0-win32.zip
+   downloadText: mincoin-0.8.8.0-win32.zip
+   buttonText: Download for Windows
+ - title: MinCoin for Linux
+   icon: /images/mincoin-linux.png
+   url: http://download.mincoin.us/minion-0.8.8.0/linux/mincoin-0.8.8.0-linux.tar.gz
+   downloadText: mincoin-0.8.8.0-linux.tar.gz
+   buttonText: Download for Linux
+ - title: MinCoin for Mac OSX
+   icon: /images/mincoin-osx.png
+   url: http://download.mincoin.us/minion-0.8.8.0/mac/Mincoin-0.8.8.0-Mac.dmg
+   downloadText: Mincoin-0.8.8.0-Mac.dmg
+   buttonText: Download for Mac
+   
+contact:
+ contactHeading: Learn More About MinCoin
+ buttonText: MinCoin Whitepaper
+ contentUrl: "https://www.mincoinforum.com/index.php?/topic/4178-the-mincoin-white-paper/"
+ 
+news:
+ heading: Cryptocurrency News
+ readmoreUrl:  /category/cryptocurrency-news/
+ readmoreText:  Read More News
+ col1:
+  - linktext: More Cryptocurrency News
+    linkUrl: https://www.mincoin.us/category/cryptocurrency-news/
+ col2:
+  - linktext: Is MinCoin The Digital Commodity Solution?
+    linkUrl: https://www.mincoin.us/the-digital-commodity-solution/
+    linkImage: https://www.mincoin.us/wp-content/uploads/2016/06/mincoin-crypto-coin-logo-color-300x300.jpg
+  - linktext: Is MinCoin The Digital Commodity Solution?
+    linkUrl: https://www.mincoin.us/is-mincoin-the-digital-commodity-solution/
+    linkImage:
+  - linktext: New Service Providers, Accepting MinCoin.
+    linkUrl: https://www.mincoin.us/mincoin-princeton-university-study/
+    linkImage:
+  - linktext: MinCoin, Princeton University Conducts A Study
+    linkUrl: https://www.mincoin.us/mincoin-princeton-university-study/
+    linkImage: 
+  - linktext: Bitcoin,MinCoin,Litecoin, Best Crypto-Commodity?
+    linkUrl: https://www.mincoin.us/bitcoin-mincoin-litecoin-the-best-crypto-commodity/
+    linkImage:
+  - linktext: MinCoin, The Crypto-Commodity That Could.
+    linkUrl: https://www.mincoin.us/mincoin_information/
+    linkImage:
+  - linktext: MinCoin API v1.1 – Now Available
+    linkUrl: https://www.mincoin.us/mincoin-api-v1-1-now-available/
+    linkImage:
+  - linktext: MinCoin Rallies Off Of Historical Lows
+    linkUrl: https://www.mincoin.us/mincoin-rallies-off-of-historical-lows/
+    linkImage:
+  - linktext: MinCoin Wiki Now Available
+    linkUrl: https://www.mincoin.us/mincoin-wiki-now-available/
+    linkImage:
+
+extraLinks: 
+ communityHeading: MinCoin Community
+ toolsHeading: Tools
+ learnHeading: Learn About MinCoin
+ community:
+  - linktext: MinCoin Forum
+    linkUrl: https://www.mincoinforum.com
+  - linktext: IRC Chat
+    linkUrl: http://webchat.freenode.net/?channels=#mincoin
+  - linktext: Reddit /r/mincoin
+    linkUrl: http://reddit.com/r/mincoin
+  - linktext: BitcoinTalk Forum
+    linkUrl: https://bitcointalk.org/index.php?topic=165397.0
+  - linktext: MinCoin Twitter
+    linkUrl: https://twitter.com/mincoinus
+  - linktext: MinCoin Facebook
+    linkUrl: https://www.facebook.com/mincoin.us
+  - linktext: MinCoin Discord Channel
+    linkUrl: https://www.mincoinforum.com/index.php?/topic/4153-mincoin-on-discord
+ tools:
+  - linktext: MinCoin Wallet Backup
+    linkUrl: http://mincoinforum.com/index.php/topic/330-how-to-back-up-restore-your-walletdat/
+  - linktext: MinCoin Mining Pools
+    linkUrl: https://www.mincoinforum.com/index.php?/forum/36-mincoin-mining-pools
+  - linktext: MinCoin CoinWiki
+    linkUrl: http://coinwik.org/MinCoin
+  - linktext: MinCoin On CoinMarketCap
+    linkUrl: https://coinmarketcap.com/currencies/mincoin 
+  - linktext: Solo Mining
+    linkUrl: http://mincoinforum.com/index.php/topic/320-solo-mining-mincoin-guide/
+  - linktext: MNC Mining Guides
+    linkUrl: http://mincoinforum.com/index.php/forum/24-mincoin-mining-guides/
+  - linktext: MinCoin Block Explorer
+    linkUrl: http://cryptoexplore.com 
+ learn:
+  - linktext: MinCoin Source Code on Github
+    linkUrl: https://github.com/mincoin
+
+footer:
+ heading: Contact
+ email: developers@mincoin.us
+ copyright: © 2017 Copyright 2013-2017 · The MinCoin Developers

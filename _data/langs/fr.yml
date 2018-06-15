@@ -1,0 +1,121 @@
+---
+lang_name: "Français"
+head:
+  meta:
+    description: "Official MinCoin Website"
+    keywords: "MinCoin"
+    author: "John"
+  title: "MinCoin &#8211; Official MinCoin Website"
+###Banner content
+banner:
+ title: "Worlds # 1 Crypto-monnaie à grande vitesse "
+ subTitle: "Based On Blockchain Technology"
+ image: "https://www.mincoin.us/wp-content/uploads/2017/10/mincoin-mnc-cryptocurrency-home.png"
+ desc: "MinCoin (Min est l'abréviation de Minimalist) est une crypto-monnaie peer-to-peer utilisant scrypt comme un algorithme de preuve de travail. MinCoin a été publié le 3 avril 2013 avec zéro prémine."
+ buttonUrl: "mincoin-mnc-cryptocurrency-trading-exchanges"
+ buttonText: "Now Trading on Exchanges"
+
+socialicon:
+ - title: Facebook
+   icon: fa fa-facebook
+   url: https://www.facebook.com/mincoin.us
+ - title: Twitter
+   icon: ti-twitter
+   url: https://twitter.com/mincoinus
+
+MinCoinDownload:
+ - title: MinCoin for Windows
+   icon: /images/mincoin-windows.png
+   url: http://download.mincoin.us/minion-0.8.8.0/windows/mincoin-0.8.8.0-win32.zip
+   downloadText: mincoin-0.8.8.0-win32.zip
+   buttonText: Download for Windows
+ - title: MinCoin for Linux
+   icon: /images/mincoin-linux.png
+   url: http://download.mincoin.us/minion-0.8.8.0/linux/mincoin-0.8.8.0-linux.tar.gz
+   downloadText: mincoin-0.8.8.0-linux.tar.gz
+   buttonText: Download for Linux
+ - title: MinCoin for Mac OSX
+   icon: /images/mincoin-osx.png
+   url: http://download.mincoin.us/minion-0.8.8.0/mac/Mincoin-0.8.8.0-Mac.dmg
+   downloadText: Mincoin-0.8.8.0-Mac.dmg
+   buttonText: Download for Mac
+   
+contact:
+ contactHeading: Contact the Dev Team
+ buttonText: Contact Our Team
+ contentUrl: /contact/
+ 
+news:
+ heading: Cryptocurrency News
+ readmoreUrl:  /category/cryptocurrency-news/
+ readmoreText:  Read More News
+ col1:
+  - linktext: More Cryptocurrency News
+    linkUrl: https://www.mincoin.us/category/cryptocurrency-news/
+ col2:
+  - linktext: Is MinCoin The Digital Commodity Solution?
+    linkUrl: https://www.mincoin.us/the-digital-commodity-solution/
+    linkImage: https://www.mincoin.us/wp-content/uploads/2016/06/mincoin-crypto-coin-logo-color-300x300.jpg
+  - linktext: Is MinCoin The Digital Commodity Solution?
+    linkUrl: https://www.mincoin.us/is-mincoin-the-digital-commodity-solution/
+    linkImage:
+  - linktext: New Service Providers, Accepting MinCoin.
+    linkUrl: https://www.mincoin.us/mincoin-princeton-university-study/
+    linkImage:
+  - linktext: MinCoin, Princeton University Conducts A Study
+    linkUrl: https://www.mincoin.us/mincoin-princeton-university-study/
+    linkImage: 
+  - linktext: Bitcoin,MinCoin,Litecoin, Best Crypto-Commodity?
+    linkUrl: https://www.mincoin.us/bitcoin-mincoin-litecoin-the-best-crypto-commodity/
+    linkImage:
+  - linktext: MinCoin, The Crypto-Commodity That Could.
+    linkUrl: https://www.mincoin.us/mincoin_information/
+    linkImage:
+  - linktext: MinCoin API v1.1 – Now Available
+    linkUrl: https://www.mincoin.us/mincoin-api-v1-1-now-available/
+    linkImage:
+  - linktext: MinCoin Rallies Off Of Historical Lows
+    linkUrl: https://www.mincoin.us/mincoin-rallies-off-of-historical-lows/
+    linkImage:
+  - linktext: MinCoin Wiki Now Available
+    linkUrl: https://www.mincoin.us/mincoin-wiki-now-available/
+    linkImage:
+
+extraLinks: 
+ communityHeading: MinCoin Community
+ toolsHeading: Tools
+ learnHeading: Learn About MinCoin
+ community:
+  - linktext: MinCoin Forum
+    linkUrl: http://mincoinforum.com/
+  - linktext: IRC Chat
+    linkUrl: http://webchat.freenode.net/?channels=#mincoin
+  - linktext: Reddit /r/mincoin
+    linkUrl: http://reddit.com/r/mincoin
+  - linktext: BitcoinTalk Forum
+    linkUrl: https://bitcointalk.org/index.php?topic=165397.0
+  - linktext: MinCoin Twitter
+    linkUrl: https://twitter.com/mincoinus
+  - linktext: MinCoin Facebook
+    linkUrl: https://www.facebook.com/mincoin.us
+ tools:
+  - linktext: MinCoin Wallet Backup
+    linkUrl: http://mincoinforum.com/index.php/topic/330-how-to-back-up-restore-your-walletdat/
+  - linktext: Mining Calcs &amp; Profitability
+    linkUrl: http://mincoinforum.com/index.php/forum/38-mining-calcs-and-profitability-tables/
+  - linktext: MinCoin CoinWiki
+    linkUrl: http://coinwik.org/MinCoin
+  - linktext: Mining Calculator
+    linkUrl: http://www.coinwarz.com/calculators/mincoin-mining-calculator
+  - linktext: Solo Mining
+    linkUrl: http://mincoinforum.com/index.php/topic/320-solo-mining-mincoin-guide/
+  - linktext: MNC Mining Guides
+    linkUrl: http://mincoinforum.com/index.php/forum/24-mincoin-mining-guides/
+ learn:
+  - linktext: MinCoin Source Code on Github
+    linkUrl: https://github.com/mincoin
+
+footer:
+ heading: Contact
+ email: developers@mincoin.us
+ copyright: © 2017 Copyright 2013-2017 · The MinCoin Developers

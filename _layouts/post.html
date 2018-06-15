@@ -1,0 +1,35 @@
+<!doctype html>
+{% include head.html %}
+<body>
+{% include header-blog.html%}
+{% include banner-blog.html%}
+
+<div class="container">
+
+<article class="post"> 
+{% if page.url != "/news/" or page.url != "/category/cryptocurrency-news/"  %} 
+ <time datetime="{{ page.date |  date: "%-d %B %Y"    }}" class="post-date">{{ page.date |  date: "%-d %B %Y"  }}</time>
+ {% endif %}
+  {{ content }}
+</article>
+
+ <div class="clearfix"></div>
+
+{% include related-post.html%}
+ 
+           <ul class="pager hide {% if page.pageShow == "true"  %} hide {% endif %} "  >
+            {% if page.previous.url != " " %}
+            <li class="previous"><a href="{{page.previous.url}}">← Pre</a></li>
+            {% endif %}
+            {% if page.next.url != " " %}
+            <li class="next"><a href="{{page.next.url}}">Next →</a></li>
+            {% endif %}
+          </ul>
+		
+
+		  
+</div>
+{% include footer-new.html %}  
+{% include tracking.html %}
+</body>
+</html>

@@ -1,0 +1,146 @@
+---
+lang_name: "Javanese"
+head:
+  meta:
+    description: "Official MinCoin Website"
+    keywords: "MinCoin"
+    author: "John"
+  title: "MinCoin &#8211; Official MinCoin Website"
+###Banner content
+banner:
+ title: "Cryptocurrency Paling Cepet #1 Sak Ndunyo"
+ subTitle: "Nganggo Teknologi Blockchain"
+ image: "https://www.mincoin.us/wp-content/uploads/2017/10/mincoin-mnc-cryptocurrency-home.png"
+ desc: "MinCoin (Min singkatane Minimalist) iku cryptocurrency sing peer-to-peer nganggo scrypt minangka alogaritma proof-of-work. MinCoin muncul kawitan tanggal 3 April 3 taun 2013 karo premine kosong."
+ buttonUrl: "mincoin-mnc-cryptocurrency-trading-exchanges"
+ buttonText: "Sak iki dagang nang Bursa CryptoCurrency"
+###6 icon content
+icons6:
+ - title: "Komunitas"
+   icon: "fa-group"
+   desc: "Golek dhukungan gratis ing platform komunitas MinCoin iki: <ul>
+          <li><a href='https://www.mincoinforum.com' target='_blank'>Forume MinCoin</a></li>
+		  <li><a href='https://www.mincoinforum.com/index.php?/topic/4153-mincoin-on-discord/' target='_blank'>Salurane Prakara MinCoin</a></li>
+		  <li><a href='https://www.reddit.com/r/MinCoin/' target='_blank'>Reddit MinCoin</a></li>
+		  <li><a href='https://twitter.com/mincoinus' target='_blank'>Twitter MinCoin</a></li>
+		  <li><a href='https://www.facebook.com/mincoin.us' target='_blank'>MinCoin Facebook</a></li>
+		  <li><a href='https://bitcointalk.org/index.php?topic=165397.0' target='_blank'>MinCoin Bitcoin Talk</a></li>
+		  <li><a href='http://webchat.freenode.net/?channels=#mincoin' target='_blank'>IRC FreeNode</a></li>
+		  </ul>"
+ - title: "Sumber daya"
+   icon: "fa-laptop"
+   desc: "Temukno informasi umum, layanan, lan bursa sing ndukung MinCoin nang MinCoin CoinWiki. Satistik jejaring paling anyar iso ditemukno nang <a href='http://cryptoexplore.com/' target='_blank'>MinCoin Block Explorer</a>.  Rego MinCoin sak iki ana ing MinCoin nang   <a href='https://coinmarketcap.com/currencies/mincoin' target='_blank'> CoinMarketCap</a>  "
+ - title: "Piranti Alus Open Source"
+   icon: "fa-heart "
+   desc: "MinCoin iku ngunu proyek piranti alus open source sing digawe nganggo lisensi MIT/X11 sing ngijini kowe supaya bisa ngendalikake, modifikasi, lan niru piranti alus kuwi lan kowe bisa mbagi modifikasi tiruan piranti alus iki sak senengmu. Piranti alus iki disebarne kanti polah kan jelas sing ngijinake verifikasi ijenan tumrap binari-binari lan source code sing onok hubungan. Source code kanggo MinCoin lan proyek sing onok kaitane iso ditemukno nang .<a href='https://github.com/mincoin' target='_blank'>GitHub</a>."
+ - title: "Teknologi Blockchain"
+   icon: "fa-link "
+   desc: "Blockchain MinCoin iso nandangi transaksi sing jumlahe luwih akeh tinimbang liyane - Litecoin. Amerga blok luwih kerep diciptakne, jejaring luwih akeh nyokong transaksi tanpa butuh modifikasi piranti alus kuwi sak lawase. Saka kuwi, para merchant lan user iso oleh wayah konfirmasi luwih cepet."
+ - title: "Engkripsi kanggo Wallet"
+   icon: "fa-lock "
+   desc: "Engkripsi kanggo wallet nyebabke kowe iso ngamanke walletmu, supaya kowe iso nonton transaksi lan saldo rekeningmu, tapi kowe kudu nglebokake sandimu sakdurunge mbelanjakne MinCoins. Tumindak ini menehi proteksi tumrap trojan lan virus sing nyolong wallet uga kanggo mriksa kejelasanmu sak durunge ngelakoni pembayaran <a href='http://mincoinforum.com/index.php/topic/330-how-to-back-up-restore-your-walletdat/' target='_blank'>Cadangan Wallet MinCoin</a>."
+ - title: "Hadiah Mining"
+   icon: "fa-money "
+   desc: "Para miner sak iki oleh hadiah 2 MinCoins anyar per blok. Jejaringane MinCoin iku ngunu dijadwale mroduksi 10 yuta MinCoins, iki sing nyebabake MinCoin luwih langka saka Bitcoin (21 yuta koin) lan Litecoin (84 yuta koin). <ul>
+          <li><a href='http://mincoinforum.com/index.php/topic/320-solo-mining-mincoin-guide/' target='_blank'>Mining Ijen</a></li>
+		  <li><a href='http://mincoinforum.com/index.php/forum/24-mincoin-mining-guides/' target='_blank'>Pedomane Mining MNC</a></li>
+		  <li><a href='https://www.mincoinforum.com/index.php?/forum/36-mincoin-mining-pools' target='_blank'>Pool-pool kanggo Mining MinCoin</a></li>
+		  </ul>"
+  
+
+socialicon:
+ - title: Facebook
+   icon: fa fa-facebook
+   url: https://www.facebook.com/mincoin.us
+ - title: Twitter
+   icon: ti-twitter
+   url: https://twitter.com/mincoinus
+
+MinCoinDownload:
+ - title: MinCoin kanggo Windows
+   icon: /images/mincoin-windows.png
+   url: http://download.mincoin.us/minion-0.8.8.0/windows/mincoin-0.8.8.0-win32.zip
+   downloadText: mincoin-0.8.8.0-win32.zip
+   buttonText: Download for Windows
+ - title: MinCoin kanggo Linux
+   icon: /images/mincoin-linux.png
+   url: http://download.mincoin.us/minion-0.8.8.0/linux/mincoin-0.8.8.0-linux.tar.gz
+   downloadText: mincoin-0.8.8.0-linux.tar.gz
+   buttonText: Download for Linux
+ - title: MinCoin kanggo Mac OSX
+   icon: /images/mincoin-osx.png
+   url: http://download.mincoin.us/minion-0.8.8.0/mac/Mincoin-0.8.8.0-Mac.dmg
+   downloadText: Mincoin-0.8.8.0-Mac.dmg
+   buttonText: Download for Mac
+   
+contact:
+ contactHeading: Sinau Luwih Akeh Soal MinCoin
+ buttonText: Buku putihe MinCoin
+ contentUrl: "https://www.mincoinforum.com/index.php?/topic/4178-the-mincoin-white-paper/"
+ 
+news:
+ heading: Kabar Cryptocurrency
+ readmoreUrl:  /category/cryptocurrency-news/
+ readmoreText:  Maca Kabar Liyane
+ col1:
+  - linktext: More Cryptocurrency News
+    linkUrl: https://www.mincoin.us/category/cryptocurrency-news/
+ col2:
+  - linktext: Majalah Forbes 30 Cryptocurrencies Paling Top Sak Ndunyo
+    linkUrl: https://www.mincoin.us/the-digital-commodity-solution/
+    linkImage: 
+  - linktext: Penelitiane Princeton University Tumrap MinCoin Altcoin
+    linkUrl: https://www.mincoin.us/is-mincoin-the-digital-commodity-solution/
+    linkImage:
+  - linktext: Altcoin Langka Paling Cepet Sak Ndunyo
+    linkUrl: https://www.mincoin.us/mincoin-princeton-university-study/
+    linkImage:
+  - linktext: Pedomane Para Buyer Cryptocurrency Tumrap MinCoin
+    linkUrl: https://www.mincoin.us/mincoin-princeton-university-study/
+    linkImage: 
+  - linktext: Rangkuman Eksekutipe Buku Putih MinCoin
+    linkUrl: https://www.mincoin.us/bitcoin-mincoin-litecoin-the-best-crypto-commodity/
+    linkImage:
+
+extraLinks: 
+ communityHeading: Komunitas MinCoin
+ toolsHeading: Piranti
+ learnHeading: Sinau Soal MinCoin
+ community:
+  - linktext: Forume MinCoin
+    linkUrl: https://www.mincoinforum.com
+  - linktext: Jagongan IRC
+    linkUrl: http://webchat.freenode.net/?channels=#mincoin
+  - linktext: Reddit /r/mincoin
+    linkUrl: http://reddit.com/r/mincoin
+  - linktext: Forume BitcoinTalk
+    linkUrl: https://bitcointalk.org/index.php?topic=165397.0
+  - linktext: MinCoin Twitter
+    linkUrl: https://twitter.com/mincoinus
+  - linktext: MinCoin Facebook
+    linkUrl: https://www.facebook.com/mincoin.us
+  - linktext: Salurane Prakara MinCoin
+    linkUrl: https://www.mincoinforum.com/index.php?/topic/4153-mincoin-on-discord
+ tools:
+  - linktext: Cadangan Wallet MinCoin
+    linkUrl: http://mincoinforum.com/index.php/topic/330-how-to-back-up-restore-your-walletdat/
+  - linktext: Pool-pool kanggo Mining MinCoin
+    linkUrl: https://www.mincoinforum.com/index.php?/forum/36-mincoin-mining-pools
+  - linktext: MinCoin CoinWiki
+    linkUrl: http://coinwik.org/MinCoin
+  - linktext: MinCoin Nang CoinMarketCap
+    linkUrl: https://coinmarketcap.com/currencies/mincoin 
+  - linktext: Mining Ijen
+    linkUrl: http://mincoinforum.com/index.php/topic/320-solo-mining-mincoin-guide/
+  - linktext: Pedomane Mining MNC
+    linkUrl: http://mincoinforum.com/index.php/forum/24-mincoin-mining-guides/
+  - linktext: MinCoin Block Explorer
+    linkUrl: http://cryptoexplore.com 
+ learn:
+  - linktext: MinCoin Source Code nang Github
+    linkUrl: https://github.com/mincoin
+
+footer:
+ heading: Hubungi Tim Pangembang
+ email: developers@mincoin.us
+ copyright: © 2017 Copyright 2013-2017 · The MinCoin Developers

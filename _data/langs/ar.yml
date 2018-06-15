@@ -1,0 +1,146 @@
+---
+lang_name: "العَرَبِيَّة"
+head:
+  meta:
+    description: "Official MinCoin Website"
+    keywords: "MinCoin"
+    author: "John"
+  title: "MinCoin &#8211; Official MinCoin Website"
+###Banner content
+banner:
+ title: "ÃÓÑÚ ÚãáÉ ÑÞãíÉ ãÔÝÑÉ Íæá ÇáÚÇáã"
+ subTitle: "ÊÚÊãÏ Úáì ÊÞäíÉ ÓáÓáÉ ÇáßÊá ÇáÈáæßÔíä"
+ image: "https://www.mincoin.us/wp-content/uploads/2017/10/mincoin-mnc-cryptocurrency-home.png"
+ desc: "ÊÚÊÈÑ ãíäßæíä (æÇáÊí ÌÇÁ ÇÓãåÇ ãä ÇÎÊÕÇÑ ßáãÉ ÇáÍÏ ÇáÃÏäì ÈÇááÛÉ ÇáÅäßáíÒíÉþý ýþ þMinimalistþ) ÚãáÉ ÑÞãíÉ ãÔÝÑÉ ÊÚãá ÈØÑíÞÉ ÇáäÏý- ýþ ááäÏ ÍíË ÊÓÊÎÏã ÎæÇÑÒãíÇÊ ÈÑãÌíÉ áÅËÈÇÊ ÕÍÉ ÇáÚãáíÇÊ¡ ÕÏÑÊ ãíäßæíä Ýí 3 äíÓÇä ÚÇã  2013 ÈÍÌã ÊÚÏíä ãÓÈÞ íÓÇæí ÇáÕÝÑ.þ"
+ buttonUrl: "mincoin-mnc-cryptocurrency-trading-exchanges"
+ buttonText: "ãÏÑÌÉ ááÊÏÇæá Ýí ãäÕÇÊ ÊÈÇÏá ÇáÚãáÇÊ ÇáÑÞãíÉ þ"
+###6 icon content
+icons6:
+ - title: "ÇáãÌÊãÚ þ"
+   icon: "fa-group"
+   desc: "íãßäß ÇáÍÕæá Úáì ãÓÇÚÏÉ ãÌÇäíÉ ãä ãÌÊãÚÇÊ ãíäßæíä ÇáÊÇáíÉ:þ <ul>
+          <li><a href='https://www.mincoinforum.com' target='_blank'>ãäÊÏì ãíäßæíä</a></li>
+		  <li><a href='https://www.mincoinforum.com/index.php?/topic/4153-mincoin-on-discord/' target='_blank'>ÞäÇÉ ãíäßæíä Úáì ÏÓßæÑÏ</a></li>
+		  <li><a href='https://www.reddit.com/r/MinCoin/' target='_blank'>ÍÓÇÈ ãíäßæíä Úáì ÑíÏíÊ</a></li>
+		  <li><a href='https://twitter.com/mincoinus' target='_blank'>ÍÓÇÈ ãíäßæíä Úáì ÊæíÊÑ</a></li>
+		  <li><a href='https://www.facebook.com/mincoin.us' target='_blank'>ÍÓÇÈ ãíäßæíä Úáì ÝíÓÈæß</a></li>
+		  <li><a href='https://bitcointalk.org/index.php?topic=165397.0' target='_blank'>ÍÓÇÈ ãíäßæíä Úáì ÈíÊßæíä Êæß þ</a></li>
+		  <li><a href='http://webchat.freenode.net/?channels=#mincoin' target='_blank'>ÇáÊæÇÕá ÚÈÑ  </a></li>
+		  </ul>"
+ - title: "ÇáãÑÇÌÚ"
+   icon: "fa-laptop"
+   desc: "íæÌÏ ãÌãæÚÉ ãä ÇáãÚáæãÇÊ ÇáÚÇãÉ¡ æÇáÎÏãÇÊ¡ æãäÕÇÊ ÇáÊÏÇæá ÇáÊí ÊÏÚã ÚãáÉ ãíäßæíä Ýí ãæÞÚ ßæíä æíßí. ßãÇ ÊÊæÝÑ ÇÍÕÇÆíÇÊ ãÍÏËÉ ÈÇÓÊãÑÇÑ Úä ÇáÚãáÉ Ýí ãÓÊßÔÝ ßÊá <a href='http://cryptoexplore.com/' target='_blank'>Çáãäíßæíä Úáì ÇáÑÇÈØ </a>. Åä ÓÚÑ ÚãáÉ ãíäßæÇä ÇáÍÇáí ãæÌæÏ Ýí ãíäßæÇä æßÐáß Ýí ãæÞÚ ßæíä ãÇÑßÊ <a href='https://coinmarketcap.com/currencies/mincoin' target='_blank'> ßÇÈ Úáì ÇáÑÇÈØ </a>  "
+ - title: "ÈÑãÌíÇÊ ãÝÊæÍÉ ÇáãÕÏÑ"
+   icon: "fa-heart "
+   desc: "ãíäßæíä åæ ãÔÑæÚ ÈÑãÌíÇÊ ãÝÊæÍ ÇáãÕÏÑ ÃØáÞ ÈÊæÇÝÞ ãÚ ÑÎÕÉ ãÚåÏ ãÇÓÇÊÔæÓÊÓ ááÊßäæáæÌíÇ / ÅßÓ 11 æÇáÊí ÊãäÍß ÇáÞÏÑÉ Úáì ÊÔÛíá æÊÚÏíá æäÓÎ ÇáÈÑäÇãÌ æÊæÒíÚ äÓÎ ãÚÏáÉ ãäå ÍÓÈ ÇÎÊíÇÑß. ßÇäÊ ÚãáíÉ ÅÕÏÇÑ ÇáÈÑäÇãÌ ÔÝÇÝÉ æÊÓãÍ ÈÇáÊÍÞÞ ÇáãÓÊÞá ãä ÇáÊØÈíÞÇÊ ÇáãÌãÚÉ (ÇáËäÇÆíÇÊ) æÇáÔíÝÑÉ ÇáÈÑãÌíÉ ááãÕÏÑ ÇáãÞÇÈá áåÇ. ÊÊæÝÑ ÔíÝÑÉ ÇáãÕÏÑ áÚãáÉ ãíäßæíä æÇáãÔÇÑíÚ ÐÇÊ ÇáÕáÉ áÇØáÇÚ ÇáÌãíÚ Úáì ãæÞÚ ÌíÊ åÇÈ <a href='https://github.com/mincoin' target='_blank'>GitHub</a>."
+ - title: "ÓáÓáÉ ÇáßÊáþý/ýÇáÈáæßÔíä"
+   icon: "fa-link "
+   desc: "ÊÓÊÚãá ãíäßæíä ÓáÓáÉ ßÊá / ÈáæßÔíä ÞÇÏÑÉ Úáì ÇáÊÚÇãá ãÚ ÍÌã ÕÝÞÇÊ ÃÚáì ãä äÙíÑåÇ áíÊßæíä. äÙÑÇ áÊæáíÏ ßÊá ÈÊßÑÇÑ ÃßÈÑ¡ æÊÏÚã ÔÈßÊåÇ ãÚÇãáÇÊ ÃßËÑ Ïæä ÇáÍÇÌÉ áÊÚÏíá ÇáÈÑäÇãÌ Ýí ÇáãÓÊÞÈá. æäÊíÌÉ áÐáß¡ íÍÕá ÇáÊÌÇÑ æÇáãÊÚÇãáíä Úáì ÊÃßíÏÇÊ ÈÒãä ÃÓÑÚ.þ"
+ - title: "ÊÔÝíÑ ÇáãÍÝÙÉ"
+   icon: "fa-lock "
+   desc: "ÚãáíÉ ÇáÊÔÝíÑ ÊÓãÍ áß ÈÊÃãíä ãÍÝÙÊß¡ æÊãßäß ãä ÇÓÊÚÑÇÖ ÌãíÚ ÚãáíÇÊß æÑÕíÏ ÍÓÇÈß¡ ÊÐßÑ Ãäß ÓÊÍÊÇÌ áÅÏÎÇá ßáãÉ ÇáãÑæÑ ÇáÎÇÕÉ Èß ÞÈá ÇáÔÑæÚ Ýí ÅäÝÇÞ ÚãáÉ ãíäßæíä. æåÐÇ íæÝÑ ÇáÍãÇíÉ ãä ÝíÑæÓÇÊ ÓÑÞÉ ÇáãÍÝÙÉ æÃÍÕäÉ ØÑæÇÏÉ æßÐáß ÊäÝíÐ ÊÍÞÞ ÓáÇãÉ æÕÍÉ ÇáÚãáíÉ ÞÈá ÅÑÓÇá ÇáãÏÝæÚÇÊ. <a href='http://mincoinforum.com/index.php/topic/330-how-to-back-up-restore-your-walletdat/' target='_blank'>ÇáäÓÎ ÇáÇÍÊíÇØí áãÍÝÙÉ ãíäßæíä.þ  </a>"
+ - title: "ãßÇÝÃÉ ÇáÊÚÏíä"
+   icon: "fa-money "
+   desc: "ÍÇáíÇ íÊã ãäÍ ÇáÚÇãáíä Ýí ÊÚÏíä ÇáÚãáÉ ÞØÚÊíä ãíäßæíä Úä ÇáßÊáÉ ÇáæÇÍÏÉ. æãä ÇáãÞÑÑ Ãä ÊäÊÌ ÔÈßÉ ÇáÚãáÉ 10 ãáÇííä ãíäßæíä¡ ããÇ íÌÚá åÐå ÇáÚãáÉ ÃßËÑ äÏÑÉ ÈßËíÑ ãä ÇáÈíÊßæíä (ÇáÊí ÊãÊáß 21 ãáíæä ÞØÚÉ äÞÏíÉ) æ áíÊßæíä (84 ãáíæä ÞØÚÉ äÞÏíÉ).þ<ul>
+          <li><a href='http://mincoinforum.com/index.php/topic/320-solo-mining-mincoin-guide/' target='_blank'>ÇáÊÚÏíä ÇáãäÝÑÏ</a></li>
+		  <li><a href='http://mincoinforum.com/index.php/forum/24-mincoin-mining-guides/' target='_blank'>Ïáíá ÊÚÏíä ÇáÚãáÉ þ</a></li>
+		  <li><a href='https://www.mincoinforum.com/index.php?/forum/36-mincoin-mining-pools' target='_blank'>ÇáÊÚÏíä ÇáÌãÇÚí áãíäßæíä</a></li>
+		  </ul>"
+  
+
+socialicon:
+ - title: Facebook
+   icon: fa fa-facebook
+   url: https://www.facebook.com/mincoin.us
+ - title: Twitter
+   icon: ti-twitter
+   url: https://twitter.com/mincoinus
+
+MinCoinDownload:
+ - title: MinCoin for Windows
+   icon: /images/mincoin-windows.png
+   url: http://download.mincoin.us/minion-0.8.8.0/windows/mincoin-0.8.8.0-win32.zip
+   downloadText: ãíäßæíä áäÙÇã ÇáÊÔÛíá æíäÏæÒþ
+   buttonText: Download for Windows
+ - title: MinCoin for Linux
+   icon: /images/mincoin-linux.png
+   url: http://download.mincoin.us/minion-0.8.8.0/linux/mincoin-0.8.8.0-linux.tar.gz
+   downloadText: ãíäßæíä áäÙÇã ÇáÊÔÛíá áíäßÓþ
+   buttonText: Download for Linux
+ - title: MinCoin for Mac OSX
+   icon: /images/mincoin-osx.png
+   url: http://download.mincoin.us/minion-0.8.8.0/mac/Mincoin-0.8.8.0-Mac.dmg
+   downloadText: ãíäßæíä áäÙÇã ÇáÊÔÛíá ãÇß Ãæ.ÅÓ .10þ
+   buttonText: Download for Mac
+   
+contact:
+ contactHeading: ÇÚÑÝ ÇáãÒíÏ Úä ãíäßæíä
+ buttonText: ÇáãáÝ ÇáÊÞäí áÚãáÉ ãíäßæíä
+ contentUrl: "#"
+ 
+news:
+ heading: ÇÎÈÇÑ ÇáÚãáÇÊ ÇáÑÞãíÉ ÇáãÔÝÑÉþ
+ readmoreUrl:  /category/cryptocurrency-news/
+ readmoreText:  ÇÞÑÃ ÇáãÒíÏ ãä ÇáÃÎÈÇÑ
+ col1:
+  - linktext: More Cryptocurrency News
+    linkUrl: https://www.mincoin.us/category/cryptocurrency-news/
+ col2:
+  - linktext: ýÞÇÆãÉ ãÌáÉ ÝæÑÈÓ áÜ ÃÚáì 30 ÚãáÉ ÑÞãíÉ ãÔÝÑÉ Íæá ÇáÚÇáã
+    linkUrl: https://www.mincoin.us/the-digital-commodity-solution/
+    linkImage: 
+  - linktext: ÈÍË Úä ãíäßæíä - ÃáÊßæíä ãä ÞÓã ÇáÏÑÇÓÇÊ Ýí ÌÇãÚÉ ÈÑíäÓÊæä þ
+    linkUrl: https://www.mincoin.us/is-mincoin-the-digital-commodity-solution/
+    linkImage:
+  - linktext: ÃÓÑÚ ÃáÊßæíä æÃßËÑåã äÏÑÉ Ýí ÇáÚÇáã þ
+    linkUrl: https://www.mincoin.us/mincoin-princeton-university-study/
+    linkImage:
+  - linktext: Ïáíá ÇáÔÑÇÁ áÚãáÉ ãíäßæíä ÇáÑÞãíÉ ÇáãÔÝÑÉ
+    linkUrl: https://www.mincoin.us/mincoin-princeton-university-study/
+    linkImage: 
+  - linktext: ãáÎÕ ÇáãáÝ ÇáÊÞäí áÚãáÉ ãíäßæíä
+    linkUrl: https://www.mincoin.us/bitcoin-mincoin-litecoin-the-best-crypto-commodity/
+    linkImage:
+
+extraLinks: 
+ communityHeading: ãÌÊãÚ Çáãíäßæíä
+ toolsHeading: ÇáÃÏæÇÊ
+ learnHeading: ÊÚÑÝ ÃßËÑ Úáì ãäíßæíä
+ community:
+  - linktext: ãäÊÏì ãíäßæíä
+    linkUrl: http://mincoinforum.com/
+  - linktext: ÏÑÏÔÉ ÚÈÑ þIRC
+    linkUrl: http://webchat.freenode.net/?channels=#mincoin
+  - linktext: ÍÓÇÈäÇ ÇáÑÓãí Úáì ÑíÏíÊþ
+    linkUrl: http://reddit.com/r/mincoin
+  - linktext: ÍÓÇÈäÇ Úáì ÈíÊßæíä Êæß þ
+    linkUrl: https://bitcointalk.org/index.php?topic=165397.0
+  - linktext: ÍÓÇÈ ãíäßæíä Úáì ÊæíÊÑ
+    linkUrl: https://twitter.com/mincoinus
+  - linktext: ÍÓÇÈäÇ Úáì ÝíÓÈæßþ
+    linkUrl: https://www.facebook.com/mincoin.us
+  - linktext: ÞäÇÉ ãíäßæíä Úáì ÏÓßæÑÏ
+    linkUrl: https://www.mincoinforum.com/index.php?/topic/4153-mincoin-on-discord
+ tools:
+  - linktext: ÇáäÓÎ ÇáÇÍÊíÇØí áãÍÝÙÉ ãíäßæíä
+    linkUrl: http://mincoinforum.com/index.php/topic/330-how-to-back-up-restore-your-walletdat/
+  - linktext: ÇáÊÚÏíä ÇáÌãÇÚí áãíäßæíä
+    linkUrl: https://www.mincoinforum.com/index.php?/forum/36-mincoin-mining-pools
+  - linktext: ãæÞÚ æíßí ßæíä þ
+    linkUrl: http://coinwik.org/MinCoin
+  - linktext: ãæÞÚ ßæíä ãÇÑßÊ ßÇÈ þ
+    linkUrl: https://coinmarketcap.com/currencies/mincoin 
+  - linktext: ÇáÊÚÏíä ÇáãäÝÑÏ
+    linkUrl: http://mincoinforum.com/index.php/topic/320-solo-mining-mincoin-guide/
+  - linktext: Ïáíá ÊÚÏíä ÇáÚãáÉ
+    linkUrl: http://mincoinforum.com/index.php/forum/24-mincoin-mining-guides/
+  - linktext: þ ãÓÊßÔÝ ßÊá Çáãäíßæíä
+    linkUrl: http://cryptoexplore.com 
+ learn:
+  - linktext: ÔíÝÑÉ ÇáãÕÏÑ áÚãáÉ Çáãäíßæíä Ýí ãæÞÚ ÌíÊ åÇÈ
+    linkUrl: https://github.com/mincoin
+
+footer:
+ heading: ÇÊÕá ÈÝÑíÞ ÇáãØæÑíä þ
+ email: developers@mincoin.us
+ copyright: © 2017 Copyright 2013-2017 · The MinCoin Developers

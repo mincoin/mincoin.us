@@ -1,0 +1,64 @@
+{% assign maxRelated = 5 %}
+  {% assign minCommonTags =  1 %}
+  {% assign maxRelatedCounter = 0 %}
+   {% assign sameTagCount = 0 %}
+    {% assign commonTags = '' %}
+	
+{% if page.layout == 'post' and page.url != '/category/cryptocurrency-news/' and  page.url != '/category/cryptocurrency-news/index.html'   %}	
+<div class="container-fluid section news" >
+	<div class="container">
+		
+			
+				<div class="row order-container" >
+				<div class="col-md-12 text-center">
+				<h3 class="page-title ">Related Posts </h3>				
+			</div>
+					<div class="col-md-9 col-sm-12 col-md-push-3 order-xs-2">
+				
+				
+  {% for post in site.posts %}
+   
+
+    {% for tag in post.tags %}
+	
+	
+	
+      {% if post.url != page.url %}
+        {% if page.tags contains tag %}
+          {% assign sameTagCount = sameTagCount | plus: 1 %}
+          {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
+          {% assign commonTags = commonTags | append: tagmarkup %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+ <ul class="news-list">	
+    {% if sameTagCount >= minCommonTags %}
+    
+	 <li>
+         <h4> <a href="{{ site.baseurl }}{{ post.url }}">
+              {{ post.title }} 
+          </a>
+		  </h4>
+		 </li>
+		  
+		 
+		  {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+		  {% if maxRelatedCounter >= maxRelated %}
+			{% break %}
+		  {% endif %}
+	  
+    {% endif %}
+	
+	</ul>
+  {% endfor %}
+					
+					
+					
+						
+					</div>
+				</div>
+			<div class="col-md-3"></div>
+		
+	</div>
+</div>
+{% endif %}

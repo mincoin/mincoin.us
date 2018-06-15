@@ -1,0 +1,31 @@
+<div class="container-fluid download-widget section">
+	<div class="container">
+		<div class="row">
+			{%  if page.layout == 'default' %} 
+				{% for download in  langPath.MinCoinDownload %}
+					<div class="col-md-4 col-sm-4 text-center">
+						<p><img src="{{ download.icon }}" class="img-responsive"></p>
+						<h6>{{ download.title }}</h6>
+						<p><a href="{{ download.url }}">{{ download.downloadText }}</a></p>
+						<p><a href="{{ download.url }}"><button class="gradient">{{ download.buttonText }}</button></a></p>
+					</div>				
+				{% endfor %}
+			 {% endif %}
+			
+			{%  if page.layout == 'post' %}  
+				{% for download in  defaultLangPath.MinCoinDownload %}				
+					<div class="col-md-4 col-sm-4 text-center">
+						<p><img src="{{ download.icon }}" class="img-responsive"></p>
+						<h6>{{ download.title }}</h6>
+						<p><a href="{{ download.url }}">{{ download.downloadText }}</a></p>
+						<p><a href="{{ download.url }}"><button class="gradient">{{ download.buttonText }}</button></a></p>
+					</div>				
+				{% endfor %}
+			{% endif %}
+					
+			
+			
+			
+		</div>
+	</div>
+</div>

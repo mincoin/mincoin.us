@@ -10,7 +10,7 @@ head:
 banner:
  title: "Dünyanın #1 Yüksek Hızlı Kripto Parası"
  subTitle: "Blok Zinciri Teknolojisi Temelli"
- image: "https://www.mincoin.us/wp-content/uploads/2017/10/mincoin-mnc-cryptocurrency-home.png"
+ image: "/images/mincoin_watermark-02.png"
  desc: "MinCoin (Min, Minimalist sözcüğünün kısaltmasıdır) yapılan işleri kanıtlayan algoritma olarak scrypt'i kullanan bir eşler arası kripto paradır. MinCoin 3 Nisan 2013'te hiç madencilik yapılmadan piyasaya sürüldü."
  buttonUrl: "mincoin-mnc-cryptocurrency-trading-exchanges"
  buttonText: "Şimdi Kripto Para Borsalarında işlem görüyor"

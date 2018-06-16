@@ -10,7 +10,7 @@ head:
 banner:
  title: "世界#1 高速加密貨幣"
  subTitle: "基於區塊鏈技術"
- image: "https://www.mincoin.us/wp-content/uploads/2017/10/mincoin-mnc-cryptocurrency-home.png"
+ image: "/images/mincoin_watermark-02.png"
  desc: "簡約幣（Min是英文簡約的縮寫）是一種使用點對點技術的加密貨幣，利用電腦演算法進行驗證。簡約幣於2013年4月3日發行，零premine。"
  buttonUrl: "mincoin-mnc-cryptocurrency-trading-exchanges"
  buttonText: "現已在加密貨幣交易中心進行交易"

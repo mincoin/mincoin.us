@@ -10,7 +10,7 @@ head:
 banner:
  title: "Tiền kỹ thuật số đồng đẳng tốc độ cao số #1 thế giới"
  subTitle: "Dựa trên công nghệ chuỗi khối"
- image: "https://www.mincoin.us/wp-content/uploads/2017/10/mincoin-mnc-cryptocurrency-home.png"
+ image: "/images/mincoin_watermark-02.png"
  desc: "MinCoin (Min là từ viết tắt cho Minimalist) là loại tiền kỹ thuật số đồng đẳng sử dụng scrypt là thuật toán bằng chứng công việc. MinCoin được ra mắt vào ngày 3 tháng 4, 2013 với quá trình đào trước bằng 0."
  buttonUrl: "mincoin-mnc-cryptocurrency-trading-exchanges"
  buttonText: "Hiện nay đang giao dịch trên CryptoCurrency Exchanges"

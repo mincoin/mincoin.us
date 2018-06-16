@@ -10,7 +10,7 @@ head:
 banner: #TRANSLATE HERE [title, subTitle , desc and buttonText ]
  title: "De snelste <br> cryptocurrency ter wereld "
  subTitle: "Gebaseerd op blockchain-technologie"
- image: "/images/mincoin_watermark-02.png"
+ image: "/images/mincoin-mnc-cryptocurrency-home.png"
  desc: "MinCoin (Min staat voor Minimalist) is een peer-to-peer cryptocurrency die gebruik maakt van Scrypt als Proof of Work-algoritme. MinCoin is uitgebracht op 3 april 2013 en is niet gepremined."
  buttonUrl: "mincoin-mnc-cryptocurrency-trading-exchanges"
  buttonText: "Nu beschikbaar op cryptocurrency exchanges"

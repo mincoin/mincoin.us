@@ -43,7 +43,7 @@ MinCoin/Bitcoin Trading Pair
 
 ![MinCoin/Bitcoin Trading Pair](/images/post/mincoin-bitcoin-trading-pair.png "MinCoin/Bitcoin Trading Pair")
 
-## Exchange #2: CryptoHub.online
+## Exchange #3: CryptoHub.online
 
 [https://cryptohub.online/](https://cryptohub.online/) 
 

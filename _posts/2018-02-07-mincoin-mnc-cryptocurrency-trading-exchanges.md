@@ -10,30 +10,50 @@ tags:
 pageShow: 'true'
 ---
 
-## Exchange #1: MinCoin is now trading on TradeSatoshi
+## Exchange #1: TradeSatoshi
 
-[https://tradesatoshi.com/Exchange?market=MNC_BTC](https://tradesatoshi.com/Exchange?market=MNC_BTC) 
+[https://tradesatoshi.com/](https://tradesatoshi.com/) 
 
 **Sign up for a new account today!**
 
 
 > We are Happy to Announce that MinCoin is Now Listed For Trading @ Tradesatoshi.com !! 
 
-![Mincoin-MNC-LTC-tradesatoshi-cryptocurrency](/images/post/Mincoin-MNC-LTC-tradesatoshi-cryptocurrency2017-10-22.png "Mincoin-MNC-LTC-tradesatoshi-cryptocurrency")
+![Mincoin-MNC-LTC-tradesatoshi-cryptocurrency](/images/post/tradesatoshi.png "Mincoin-MNC-LTC-tradesatoshi-cryptocurrency")
 
 You can now Buy – Sell – Trade Your MinCoin with 3 Trading Pairs!!
 
 
-MNC/BTC Trading Pair Here: [https://tradesatoshi.com/Exchange?market=MNC_BTC](https://tradesatoshi.com/Exchange?market=MNC_BTC)  
+Mincoin / Bitcoin Trading Pair: [https://tradesatoshi.com/Exchange?market=MNC_BTC](https://tradesatoshi.com/Exchange?market=MNC_BTC)  
 
-MNC/DOGE Trading Pair Here: [https://tradesatoshi.com/Exchange?market=MNC_DOGE](https://tradesatoshi.com/Exchange?market=MNC_DOGE)    
+Mincoin / Litecoin Trading Pair: [https://tradesatoshi.com/Exchange?market=MNC_LTC](https://tradesatoshi.com/Exchange?market=MNC_LTC)    
 
-MNC/LTC Trading Pair Here: [https://tradesatoshi.com/Exchange/?market=MNC_LTC](https://tradesatoshi.com/Exchange/?market=MNC_LTC)    
+Mincoin / Dogecoin Trading Pair: [https://tradesatoshi.com/Exchange?market=MNC_DOGE](https://tradesatoshi.com/Exchange?market=MNC_DOGE)    
 
-And a MinCoin Faucet Here: [https://tradesatoshi.com/Faucet](https://tradesatoshi.com/Faucet)  
 
-## Exchange #2: MinCoin is now trading on Cryptohub
+## Exchange #2: BiteBTC
 
-[https://cryptohub.online/market/MNC/](https://cryptohub.online/market/MNC/) 
+[https://bitebtc.com/](https://bitebtc.com/) 
+
+Mincoin / Bitcoin Trading Pair: [https://bitebtc.com/trade/mnc_btc](https://bitebtc.com/trade/mnc_btc)    
+
+![imageproxy.jpg](/images/post/imageproxy.jpg "imageproxy.jpg")
+
+MinCoin/Bitcoin Trading Pair
+
+![MinCoin/Bitcoin Trading Pair](/images/post/mincoin-bitcoin-trading-pair.png "MinCoin/Bitcoin Trading Pair")
+
+## Exchange #2: CryptoHub.online
+
+[https://cryptohub.online/](https://cryptohub.online/) 
+
+Mincoin / Bitcoin Trading Pair: [https://cryptohub.online/market/MNC/](https://cryptohub.online/market/MNC/)    
+
+![MNC/BTC Trading Pair](/images/post/imageproxy2.png "MNC/BTC Trading Pair")
+
+![Experience The CryptoHub.Online Advantage Today!](/images/post/cryptoHub.png "Experience The CryptoHub.Online Advantage Today!")
+
+
+
 
 

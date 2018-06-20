@@ -13,7 +13,7 @@ DOWNLOAD: The-MinCoin-Cryptocurrency-Whitepaper
 
 [https://github.com/mincoin/mincoin-whitepaper](https://github.com/mincoin/mincoin-whitepaper)
 
-[https://www.mincoin.us/wp-content/uploads/2018/01/The-MinCoin-Cryptocurrency-Whitepaper.pdf](https://www.mincoin.us/wp-content/uploads/2018/01/The-MinCoin-Cryptocurrency-Whitepaper.pdf)
+[https://github.com/mincoin/mincoin-whitepaper/tree/master/docs](https://github.com/mincoin/mincoin-whitepaper/tree/master/docs)
 
 
 

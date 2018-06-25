@@ -30,12 +30,12 @@
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->	
 	{% if page.layout == 'default' %}
-		<title>{% if page.title %}{{langPath.head.title}}{% else %}{{ langPath.head.title }}{% endif %}</title>
+		<title>{% if page.title %}{{langPath.head.title}}{% else %}{{ langPath.head.title }}{% endif %}  </title>
 		<!-- Jekyll SEO Tag Plugin -->
 		{% seo %}
 	{% endif %}
 	{%  if page.layout == 'post' %}	
-		<title>{{ page.title }} - MinCoin Cryptocurrency News  </title>
+		<title>{{ page.title }} - MinCoin Cryptocurrency News    </title>
 		<!-- Jekyll SEO Tag Plugin -->
 		{% seo title=false %}
 	
@@ -43,9 +43,9 @@
 	
 	{% for lang in site.lang_codes %}
 		{% if lang =='en'%} 
-			<link rel="alternate" href="https://www.mincoinfoundation.com" hreflang="{{lang}}">
+			<link rel="alternate" href="{{site.url}}" hreflang="{{lang}}">
 		{% else if %} 
-			<link rel="alternate" href="https://www.mincoinfoundation.com/{{lang}}" hreflang="{{lang}}">
+			<link rel="alternate" href="{{site.url}}/{{lang}}" hreflang="{{lang}}">
 		{% endif %}
 	{% endfor %}
 	
@@ -76,6 +76,6 @@
       }
   }());
 </script>
-		
+		<p class="hide">{{site.baseurl}}</p>
 </head>
 

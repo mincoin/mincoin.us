@@ -26,17 +26,17 @@ socialicon:
 MinCoinDownload:
  - title: MinCoin for Windows
    icon: /images/mincoin-windows.png
-   url: http://download.mincoin.us/minion-0.8.8.0/windows/mincoin-0.8.8.0-win32.zip
+   url: http://download.mincoin.us/mincoin-0.8.8.0/windows/mincoin-0.8.8.0-win32.zip
    downloadText: mincoin-0.8.8.0-win32.zip
    buttonText: Download for Windows
  - title: MinCoin for Linux
    icon: /images/mincoin-linux.png
-   url: http://download.mincoin.us/minion-0.8.8.0/linux/mincoin-0.8.8.0-linux.tar.gz
+   url: http://download.mincoin.us/mincoin-0.8.8.0/linux/mincoin-0.8.8.0-linux.tar.gz
    downloadText: mincoin-0.8.8.0-linux.tar.gz
    buttonText: Download for Linux
  - title: MinCoin for Mac OSX
    icon: /images/mincoin-osx.png
-   url: http://download.mincoin.us/minion-0.8.8.0/mac/Mincoin-0.8.8.0-Mac.dmg
+   url: http://download.mincoin.us/mincoin-0.8.8.0/mac/Mincoin-0.8.8.0-Mac.dmg
    downloadText: Mincoin-0.8.8.0-Mac.dmg
    buttonText: Download for Mac
    

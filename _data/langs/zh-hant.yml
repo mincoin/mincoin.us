@@ -59,17 +59,17 @@ socialicon:
 MinCoinDownload:
  - title: Windows系統簡約幣
    icon: /images/mincoin-windows.png
-   url: http://download.mincoin.us/minion-0.8.8.0/windows/mincoin-0.8.8.0-win32.zip
+   url: http://download.mincoin.us/mincoin-0.8.8.0/windows/mincoin-0.8.8.0-win32.zip
    downloadText: 簡約幣-0.8.8.0-win32.zip
    buttonText: Download for Windows
  - title: Linux系統簡約幣
    icon: /images/mincoin-linux.png
-   url: http://download.mincoin.us/minion-0.8.8.0/linux/mincoin-0.8.8.0-linux.tar.gz
+   url: http://download.mincoin.us/mincoin-0.8.8.0/linux/mincoin-0.8.8.0-linux.tar.gz
    downloadText: 簡約幣--0.8.8.0-linux.tar.gz
    buttonText: Download for Linux
  - title: Mac OSX系統簡約幣
    icon: /images/mincoin-osx.png
-   url: http://download.mincoin.us/minion-0.8.8.0/mac/Mincoin-0.8.8.0-Mac.dmg
+   url: http://download.mincoin.us/mincoin-0.8.8.0/mac/Mincoin-0.8.8.0-Mac.dmg
    downloadText: 簡約幣-0.8.8.0-Mac.dmg
    buttonText: Download for Mac
    

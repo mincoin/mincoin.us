@@ -45,7 +45,7 @@
 		{% if lang =='en'%} 
 			<link rel="alternate" href="{{site.url}}" hreflang="{{lang}}">
 		{% else if %} 
-			<link rel="alternate" href="{{site.url}}/{{lang}}" hreflang="{{lang}}">
+			<link rel="alternate" href="{{site.url}}{{lang}}" hreflang="{{lang}}">
 		{% endif %}
 	{% endfor %}
 	

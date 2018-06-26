@@ -2,48 +2,48 @@
 lang_name: "Deutsch"
 head:
   meta:
-    description: "Official MinCoin Website"
+    description: "Offizielle MinCoin Website"
     keywords: "MinCoin"
     author: "John"
-  title: "MinCoin &#8211; Official MinCoin Website"
+  title: "MinCoin Kryptowährung - Die offizielle Website von MinCoin"
 ###Banner content
 banner:
- title: "Weltweite Nummer 1 Hochgeschwindigkeitskryptowährung"
+ title: "Weltweite #1 <br> Hochgeschwindigkeits Kryptowährung"   
  subTitle: "Basierend auf der Blockchain-Technologie"
  image: "/images/mincoin-mnc-cryptocurrency-home.png"
- desc: "MinCoin (Min ist die Abkürzung für Minimalist) ist eine Peer-to-Peer-Kryptowährung, die Scrypt als Arbeitsbeweis-Algorithmus verwendet. MinCoin wurde am 3. April 2013 mit null Premine veröffentlicht."
+ desc: "MinCoin (Min steht für Minimalist) ist eine Peer-to-Peer-Kryptowährung, die Scrypt als Proof-of-Work-Algorithmus verwendet. MinCoin wurde am 3. April 2013 ohne Premining veröffentlicht."
  buttonUrl: "mincoin-mnc-cryptocurrency-trading-exchanges"
- buttonText: "Jetzt mit CryptoCurrency Exchanges handeln"
+ buttonText: "Jetzt mit Mincoin handeln"
 ###6 icon content
 icons6:
  - title: "Gemeinschaft"
    icon: "fa-group"
-   desc: "Zoek gratis ondersteuning op deze MinCoin-communityplatforms <ul>
+   desc: "Finden Sie kostenlosen Support auf diesen MinCoin-Community-Plattformen: <ul>
           <li><a href='https://www.mincoinforum.com' target='_blank'>MinCoin Forum</a></li>
 		  <li><a href='https://www.mincoinforum.com/index.php?/topic/4153-mincoin-on-discord/' target='_blank'>MinCoin Discord Kanal</a></li>
 		  <li><a href='https://www.reddit.com/r/MinCoin/' target='_blank'>Reddit MinCoin</a></li>
-		  <li><a href='https://twitter.com/mincoinus' target='_blank'>Twitter MinCoin</a></li>
+		  <li><a href='https://twitter.com/MinCoinus' target='_blank'>Twitter MinCoin</a></li>
 		  <li><a href='https://www.facebook.com/mincoin.us' target='_blank'>MinCoin Facebook</a></li>
-		  <li><a href='https://bitcointalk.org/index.php?topic=165397.0' target='_blank'>MinCoin Bitcoin Diskussion</a></li>
-		  <li><a href='http://webchat.freenode.net/?channels=#mincoin' target='_blank'>IRC FreeNode</a></li>
+		  <li><a href='https://bitcointalk.org/index.php?topic=165397.0' target='_blank'>MinCoin BitcoinTalk</a></li>
+		  <li><a href='http://webchat.freenode.net/?channels=#mincoin' target='_blank'>Freenode Web Chat</a></li>
 		  </ul>"
  - title: "Ressourcen"
    icon: "fa-laptop"
-   desc: "Es stehen Ihnen allgemeine Informationen, Dienstleistungen und Austausche zur Verfügung, die MinCoin im  MinCoin CoinWiki unterstützen. Aktuelle Netzwerkstatistiken finden Sie im <a href='http://cryptoexplore.com/' target='_blank'>MinCoin Block Explorer</a>. Der aktuelle Preis von MinCoin ist verfügbar bei  <a href='https://coinmarketcap.com/currencies/mincoin' target='_blank'>MinCoin On CoinMarketCap</a>  "
- - title: "Freier Zugang zur Software"
+   desc: "Allgemeine Informationen, Dienste und Börsen, die MinCoin unterstützen, finden Sie im <a href='http://coinwik.org/MinCoin' target='_blank'>MinCoin CoinWiki</a>. Aktuelle Netzwerkstatistiken finden Sie unter <a href='http://cryptoexplore.com/' target='_blank'>MinCoin Block Explorer</a>. Die aktuellen Preise von MinCoin werden alle 5 Minuten aktualisiert bei <a href='https://coinmarketcap.com/currencies/mincoin' target='_blank'>CoinMarketCap</a>  "
+ - title: "Open-Source-Software"
    icon: "fa-heart "
-   desc: "MinCoin ist ein Open-Source-Software-Projekt, das unter der MIT / X11-Lizenz veröffentlicht wurde und Ihnen somit die Möglichkeit gibt, die Software auszuführen, zu modifizieren und zu kopieren und nach Ihrer Wahl modifizierte Kopien der Software zu verteilen. Die Software wird in einem transparenten Prozess veröffentlicht, der eine unabhängige Verifizierung der Binärdateien und ihres entsprechenden Quellcodes ermöglicht. Quellcode für MinCoin und verwandte Projekte sind auf <a href='https://github.com/mincoin' target='_blank'>GitHub</a> verfügbar."
- - title: "Blockchain-technologie"
+   desc: "MinCoin ist ein Open-Source-Softwareprojekt, das unter der MIT/X11-Lizenz veröffentlicht wurde und Ihnen die Möglichkeit gibt, die Software auszuführen, zu modifizieren und zu kopieren und nach Ihrer Wahl modifizierte Kopien der Software zu verteilen. Die Software wird in einem transparenten Prozess freigegeben, der eine unabhängige Überprüfung der Binärdateien und des zugehörigen Quellcodes ermöglicht. Der Quellcode für MinCoin und verwandte Projekte ist verfügbar unter <a href='https://github.com/mincoin' target='_blank'>GitHub</a>."
+ - title: "Blockchain Technology"
    icon: "fa-link "
-   desc: "Die MinCoin Blockchain ist in der Lage, ein höheres Transaktionsvolumen zu bewältigen, als ihr Gegenstück Litecoin. Aufgrund der häufigeren Blockgenerierung unterstützt das Netzwerk mehr Transaktionen, ohne dass die Software zukünftig geändert werden muss. Dadurch erhalten Händler und Benutzer schnellere Bestätigungszeiten."
- - title: "Wallet-Verschlüsselung"
+   desc: "Die MinCoin Blockchain ist in der Lage, ein höheres Transaktionsvolumen zu bewältigen als ihr Gegenstück - Litecoin. Durch die häufigere Blockgenerierung unterstützt das Netzwerk mehr Transaktionen, ohne dass die Software in Zukunft geändert werden muss. Händler und Anwender erhalten dadurch schnellere Bestätigungszeiten."
+ - title: "Wallet Verschlüsselung"
    icon: "fa-lock "
-   desc: "Mit der Wallet-Verschlüsselung können Sie Ihre Brieftasche sichern, so dass Sie zwar Transaktionen und Ihr Kontoguthaben einsehen können, jedoch Ihr Passwort eingeben müssen, bevor Sie MinCoins ausgeben. Dies bietet Schutz vor Viren und Trojanern, die Brieftaschen befallen. Außerdem bietet es eine Plausibilitätsprüfung vor dem Senden von Zahlungen. Ein sogenanntes <a href='http://mincoinforum.com/index.php/topic/330-how-to-back-up-restore-your-walletdat/' target='_blank'>MinCoin Wallet Backup</a>."
+   desc: "Die Wallet-Verschlüsselung ermöglicht es Ihnen, Ihr Wallet zu sichern, so dass Sie Transaktionen und Ihren Kontostand einsehen können, aber Ihr Passwort eingeben müssen, bevor Sie MinCoins ausgeben können. Dies bietet Schutz vor Wallet-Diebstahl von Viren und Trojanern sowie eine Überprüfung der Sicherheit vor dem Versand von Zahlungen.  <a href='http://mincoinforum.com/index.php/topic/330-how-to-back-up-restore-your-walletdat/' target='_blank'>MinCoin Wallet Sicherung</a>."
  - title: "Mining-Belohnung"
    icon: "fa-money "
-   desc: "Miner erhalten derzeit 2 neue MinCoins pro Block. Das MinCoin-Netzwerk soll daher 10 Millionen MinCoins produzieren, was den Mincoin deutlich seltener macht als Bitcoin (21 Millionen Münzen) und Litecoin (84 Millionen Münzen).<ul>
+   desc: "Miner erhalten derzeit 2 neue MinCoins pro Block. Das MinCoin-Netzwerk wird 10 Millionen MinCoins produzieren, was MinCoin deutlich seltener macht als Bitcoin (21 Millionen Coins) und Litecoin (84 Millionen Coins).<ul>
           <li><a href='http://mincoinforum.com/index.php/topic/320-solo-mining-mincoin-guide/' target='_blank'>Solo Mining</a></li>
-		  <li><a href='http://mincoinforum.com/index.php/forum/24-mincoin-mining-guides/' target='_blank'>MNC-Mining Guides</a></li>
+		  <li><a href='http://mincoinforum.com/index.php/forum/24-mincoin-mining-guides/' target='_blank'>MNC Mining Anleitungen</a></li>
 		  <li><a href='https://www.mincoinforum.com/index.php?/forum/36-mincoin-mining-pools' target='_blank'>MinCoin Mining Pools</a></li>
 		  </ul>"
   
@@ -61,45 +61,57 @@ MinCoinDownload:
    icon: /images/mincoin-windows.png
    url: http://download.mincoin.us/mincoin-0.8.8.0/windows/mincoin-0.8.8.0-win32.zip
    downloadText: mincoin-0.8.8.0-win32.zip
-   buttonText: Download for Windows
+   buttonText: Download für Windows
  - title: MinCoin für Linux
    icon: /images/mincoin-linux.png
    url: http://download.mincoin.us/mincoin-0.8.8.0/linux/mincoin-0.8.8.0-linux.tar.gz
    downloadText: mincoin-0.8.8.0-linux.tar.gz
-   buttonText: Download for Linux
+   buttonText: Download für Linux
  - title: MinCoin für Mac OSX
    icon: /images/mincoin-osx.png
    url: http://download.mincoin.us/mincoin-0.8.8.0/mac/Mincoin-0.8.8.0-Mac.dmg
    downloadText: Mincoin-0.8.8.0-Mac.dmg
-   buttonText: Download for Mac
+   buttonText: Download für Mac
    
 contact:
- contactHeading: Mehr Infos über MinCoin
+ contactHeading: Erfahren Sie mehr über MinCoin
  buttonText: MinCoin Whitepaper
  contentUrl: "https://www.mincoinforum.com/index.php?/topic/4178-the-mincoin-white-paper/"
  
 news:
- heading: Kryptowährung News
+ heading: Kryptowährung Nachrichten
  readmoreUrl:  /category/cryptocurrency-news/
- readmoreText:  Lesen Sie mehr Nachrichten
+ readmoreText:  Mehr Nachrichten
  col1:
-  - linktext: More Cryptocurrency News
+  - linktext: Mehr Nachrichten
     linkUrl: https://www.mincoin.us/category/cryptocurrency-news/
  col2:
-  - linktext: Forbes Magazine Top 30 globale Kryptowährungen
+  - linktext: Ist MinCoin die digitale Lösung?
     linkUrl: https://www.mincoin.us/the-digital-commodity-solution/
-    linkImage: 
-  - linktext: Princeton Universität MinCoin Altcoin Studien
+    linkImage: https://www.mincoin.us/wp-content/uploads/2016/06/mincoin-crypto-coin-logo-color-300x300.jpg
+  - linktext: Ist MinCoin die digitale Lösung?
     linkUrl: https://www.mincoin.us/is-mincoin-the-digital-commodity-solution/
     linkImage:
-  - linktext: Weltschnellster seltener Altcoin
+  - linktext: Neue Dienstleister, die MinCoin akzeptieren.
     linkUrl: https://www.mincoin.us/mincoin-princeton-university-study/
     linkImage:
-  - linktext: MinCoin Kryptowährungen-Führer
+  - linktext: MinCoin, Princeton University führt eine Studie durch
     linkUrl: https://www.mincoin.us/mincoin-princeton-university-study/
     linkImage: 
-  - linktext: MinCoin Whitepaper Zusammenfassung
+  - linktext: Bitcoin, MinCoin, Litecoin? Beste Kryptowährung?
     linkUrl: https://www.mincoin.us/bitcoin-mincoin-litecoin-the-best-crypto-commodity/
+    linkImage:
+  - linktext: MinCoin, die Kryptowährung, die es könnte.
+    linkUrl: https://www.mincoin.us/mincoin_information/
+    linkImage:
+  - linktext: MinCoin API v1.1 – jetzt verfügbar.
+    linkUrl: https://www.mincoin.us/mincoin-api-v1-1-now-available/
+    linkImage:
+  - linktext: MinCoin erholt sich von historischen Tiefständen
+    linkUrl: https://www.mincoin.us/mincoin-rallies-off-of-historical-lows/
+    linkImage:
+  - linktext: MinCoin Wiki jetzt verfügbar
+    linkUrl: https://www.mincoin.us/mincoin-wiki-now-available/
     linkImage:
 
 extraLinks: 
@@ -109,9 +121,9 @@ extraLinks:
  community:
   - linktext: MinCoin Forum
     linkUrl: https://www.mincoinforum.com
-  - linktext: IRC-Chat
+  - linktext: IRC Chat
     linkUrl: http://webchat.freenode.net/?channels=#mincoin
-  - linktext: Reddit / r / Mincoin
+  - linktext: Reddit /r/mincoin
     linkUrl: http://reddit.com/r/mincoin
   - linktext: BitcoinTalk Forum
     linkUrl: https://bitcointalk.org/index.php?topic=165397.0
@@ -119,28 +131,28 @@ extraLinks:
     linkUrl: https://twitter.com/mincoinus
   - linktext: MinCoin Facebook
     linkUrl: https://www.facebook.com/mincoin.us
-  - linktext: MinCoin Zwietracht Kanal
+  - linktext: MinCoin Discord Kanal
     linkUrl: https://www.mincoinforum.com/index.php?/topic/4153-mincoin-on-discord
  tools:
-  - linktext: MinCoin Wallet Backup
+  - linktext: MinCoin Wallet Sicherung
     linkUrl: http://mincoinforum.com/index.php/topic/330-how-to-back-up-restore-your-walletdat/
   - linktext: MinCoin Mining Pools
     linkUrl: https://www.mincoinforum.com/index.php?/forum/36-mincoin-mining-pools
-  - linktext: MinCoin MünzWiki
+  - linktext: MinCoin CoinWiki
     linkUrl: http://coinwik.org/MinCoin
-  - linktext: MinCoin auf CoinMarketCap
+  - linktext: MinCoin beu CoinMarketCap
     linkUrl: https://coinmarketcap.com/currencies/mincoin 
   - linktext: Solo Mining
     linkUrl: http://mincoinforum.com/index.php/topic/320-solo-mining-mincoin-guide/
-  - linktext: MNC-Mining Guides
+  - linktext: MNC Mining Anleitungen
     linkUrl: http://mincoinforum.com/index.php/forum/24-mincoin-mining-guides/
   - linktext: MinCoin Block Explorer
     linkUrl: http://cryptoexplore.com 
  learn:
-  - linktext: MinCoin Quellcode auf Github
+  - linktext: MinCoin Quelltext bei Github
     linkUrl: https://github.com/mincoin
 
 footer:
- heading: Kontaktieren Sie das Entwicklerteam
+ heading: Kontakt
  email: developers@mincoin.us
- copyright: © 2017 Copyright 2013-2017 · The MinCoin Developers
+ copyright: © 2017 Copyright 2013-2017 - Die MinCoin Entwickler

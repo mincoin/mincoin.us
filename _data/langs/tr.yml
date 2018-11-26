@@ -59,18 +59,18 @@ socialicon:
 MinCoinDownload:
  - title: MinCoin Windows versiyonu
    icon: /images/mincoin-windows.png
-   url: http://download.mincoin.us/mincoin-0.8.8.0/windows/mincoin-0.8.8.0-win32.zip
-   downloadText: mincoin-0.8.8.0-win32.zip
+   url: https://www.mincoinforum.com/bin/mincoin-core-0.13.0/mincoin-0.13.0-win64.zip
+   downloadText: mincoin-0.13.0-win64.zip
    buttonText: Download for Windows
  - title: MinCoin Linux versiyonu
    icon: /images/mincoin-linux.png
-   url: http://download.mincoin.us/mincoin-0.8.8.0/linux/mincoin-0.8.8.0-linux.tar.gz
-   downloadText: mincoin-0.8.8.0-linux.tar.gz
-   buttonText: Mincoin-0.8.8.0-Mac.dmg
+   url: https://www.mincoinforum.com/bin/mincoin-core-0.13.0/mincoin-0.13.0-x86_64-linux-gnu.tar.gz
+   downloadText: mincoin-0.13.0-x86_64-linux-gnu.tar.gz
+   buttonText: mincoin-0.13.0-osx.dmg
  - title: MinCoin Mac OSX versiyonu
    icon: /images/mincoin-osx.png
-   url: http://download.mincoin.us/mincoin-0.8.8.0/mac/Mincoin-0.8.8.0-Mac.dmg
-   downloadText: Mincoin-0.8.8.0-Mac.dmg
+   url: https://www.mincoinforum.com/bin/mincoin-core-0.13.0/mincoin-0.13.0-osx.dmg
+   downloadText: mincoin-0.13.0-osx.dmg
    buttonText: Download for Mac
    
 contact:

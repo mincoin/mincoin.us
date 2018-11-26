@@ -45,19 +45,3 @@ Mincoin / Bitcoin Trading Pair: [https://bitebtc.com/trade/mnc_btc](https://bite
 MinCoin/Bitcoin Trading Pair
 
 ![MinCoin/Bitcoin Trading Pair](/images/post/mincoin-bitcoin-trading-pair.png "MinCoin/Bitcoin Trading Pair")
-
-## Exchange #3: CryptoHub.online
-{: class='mb40 mt50'}
-
-[https://cryptohub.online/](https://cryptohub.online/){:target="_blank"}
-
-Mincoin / Bitcoin Trading Pair: [https://cryptohub.online/market/MNC/](https://cryptohub.online/market/MNC/){:target="_blank"}   
-
-![MNC/BTC Trading Pair](/images/post/imageproxy2.png "MNC/BTC Trading Pair")
-
-
-
-
-
-
-

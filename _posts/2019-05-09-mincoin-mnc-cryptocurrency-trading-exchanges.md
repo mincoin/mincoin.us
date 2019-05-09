@@ -10,6 +10,25 @@ tags:
 pageShow: 'true'
 ---
 
+## Newest Exchange: Nova
+{: class='mb40'}
+
+
+[https://novaexchange.com/](https://novaexchange.com/){:target="_blank"}
+
+**It's awesome!   Open your account now.**
+
+
+> MinCoin was listed @nova_exchange on May 8th, 2019 !!
+
+![Nova Standard Crypto Exchange](/images/post/nova_logo_on_clear_black_copy.png "Nova Standard Crypto Exchange")
+
+The MNC/BTC market is now open!!
+
+
+Mincoin / Bitcoin Trading Pair: [https://novaexchange.com/market/BTC_MNC/](https://novaexchange.com/market/BTC_MNC/){:target="_blank"}
+
+
 ## Exchange #1: TradeSatoshi
 {: class='mb40'}
 

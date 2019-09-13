@@ -1,7 +1,7 @@
 ---
 ---
 @import url("font-awesome.min.css");
-@import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
 a:focus{outline:none;}
 h1,h2,h3,h4,h5,h6{font-family: 'Montserrat', sans-serif;}
 h1{font-size:30px}

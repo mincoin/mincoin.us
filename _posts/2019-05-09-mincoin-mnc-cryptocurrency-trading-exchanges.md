@@ -10,23 +10,36 @@ tags:
 pageShow: 'true'
 ---
 
-## Newest Exchange: Nova
+## Newest Exchange: Unnamed
 {: class='mb40'}
 
 
-[https://novaexchange.com/](https://novaexchange.com/){:target="_blank"}
+[https://www.unnamed.exchange/](https://www.unnamed.exchange/){:target="_blank"}
 
 **It's awesome!   Open your account now.**
 
 
-> Mincoin was listed @nova_exchange on May 8th, 2019 !!
-
-![Nova Standard Crypto Exchange](/images/post/nova_logo_on_clear_black_copy.png "Nova Standard Crypto Exchange")
-
-The MNC/BTC market is now open!!
+> Mincoin was listed on Unammed Exchange on August 16th, 2019 !!
 
 
-Mincoin / Bitcoin Trading Pair: [https://novaexchange.com/market/BTC_MNC/](https://novaexchange.com/market/BTC_MNC/){:target="_blank"}
+
+The MNC/BTC, MNC/LTC and MNC/DOGE markets are now open!!
+
+
+Mincoin / Bitcoin Trading Pair: [https://www.unnamed.exchange/Exchange?market=MNC_BTC](https://www.unnamed.exchange/Exchange?market=MNC_BTC){:target="_blank"}
+
+Mincoin / Litecoin Trading Pair: [https://www.unnamed.exchange/Exchange?market=MNC_LTC](https://www.unnamed.exchange/Exchange?market=MNC_LTC){:target="_blank"}
+
+Mincoin / Doge Trading Pair: [https://www.unnamed.exchange/Exchange?market=MNC_DOGE](https://www.unnamed.exchange/Exchange?market=MNC_DOGE){:target="_blank"}
+
+
+>
+
+>
+
+>
+
+
 
 
 ## Exchange #1: TradeSatoshi
@@ -52,15 +65,17 @@ Mincoin / Litecoin Trading Pair: [https://tradesatoshi.com/Exchange?market=MNC_L
 Mincoin / Dogecoin Trading Pair: [https://tradesatoshi.com/Exchange?market=MNC_DOGE](https://tradesatoshi.com/Exchange?market=MNC_DOGE){:target="_blank"}
 
 
-## Exchange #2: BiteBTC
+## Exchange #2: Nova Exchange
 {: class='mb40 mt40'}
 
-[https://bitebtc.com/](https://bitebtc.com/){:target="_blank"}
+[https://novaexchange.com/](https://novaexchange.com/){:target="_blank"}
 
-Mincoin / Bitcoin Trading Pair: [https://bitebtc.com/trade/mnc_btc](https://bitebtc.com/trade/mnc_btc){:target="_blank"}
+**Sign up for a new account today!**
 
-![imageproxy.jpg](/images/post/imageproxy.jpg "imageproxy.jpg")
 
-Mincoin/Bitcoin Trading Pair
+> We are Happy to Announce that Mincoin is Now Listed For Trading @ Tradesatoshi.com !!
 
-![Mincoin/Bitcoin Trading Pair](/images/post/mincoin-bitcoin-trading-pair.png "Mincoin/Bitcoin Trading Pair")
+![imageproxy.jpg](/images/post/ne.jpg "imageproxy.jpg")
+
+Mincoin / Bitcoin Trading Pair: [https://novaexchange.com/market/BTC_MNC/](https://novaexchange.com/market/BTC_MNC/){:target="_blank"}
+

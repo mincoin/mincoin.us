@@ -73,7 +73,7 @@ Mincoin / Dogecoin Trading Pair: [https://tradesatoshi.com/Exchange?market=MNC_D
 **Sign up for a new account today!**
 
 
-> We are Happy to Announce that Mincoin is Now Listed For Trading @ Tradesatoshi.com !!
+> We are Happy to Announce that Mincoin is Now Listed For Trading @ Novaexchange.com !!
 
 ![imageproxy.jpg](/images/post/ne.jpg "imageproxy.jpg")
 

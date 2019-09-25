@@ -1,13 +1,13 @@
 ---
 layout: post
 title : "Cryptocurrency News"
-pagination: 
+pagination:
   enabled: true
   categories: CryptocurrencyNews
-  permalink: /:num/ 
-  trail: 
+  permalink: /:num/
+  trail:
     before: 2 # The number of links before the current page
-    after: 2  # The number of links after the current page  
+    after: 2  # The number of links after the current page
 ---
 
   <div class="container">
@@ -18,10 +18,10 @@ pagination:
 		   <div class="blog-list">
 				<div class="col-md-8 col-md-push-2 col-sm-7 post-content">
 				  <h3 class="post-title heading"><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h3>
-				  
+
 				  <small>{{post.description}}</small>
 				  <p class="post-description">{{post.content | strip_html | truncate:250}} <a href="{{ site.baseurl }}{{ post.url }}" class="more-link">Read More</a></p>
-				 
+
 				</div>
 				<div class="clearfix"></div>
 			</div>
@@ -30,7 +30,7 @@ pagination:
 
 
 
-      
+
 		</div>
       </div>
     </div>
@@ -48,7 +48,7 @@ pagination:
 
 
 	{% if paginator.total_pages > 1 %}
-	
+
 
 	<ul class="pager" >
 	  {% if paginator.previous_page %}
@@ -65,6 +65,5 @@ pagination:
 	{% endif %}
     </div>
 
-	
-	
-	
+
+

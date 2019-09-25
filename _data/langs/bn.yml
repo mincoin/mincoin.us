@@ -2,51 +2,51 @@
 lang_name: "বাংলা'"
 head:
   meta:
-    description: "Official MinCoin Website"
-    keywords: "MinCoin"
+    description: "Official Mincoin Website"
+    keywords: "Mincoin"
     author: "John"
-  title: "MinCoin &#8211; Official MinCoin Website"
+  title: "Mincoin &#8211; Official Mincoin Website"
 ###Banner content
 banner:
  title: "বিশ্বের #১ দ্রুত গতিসম্পন্ন ক্রিপ্টোকারেন্সি"
  subTitle: "ব্লকচেইন প্রযুক্তি ভিত্তিক "
  image: "/images/mincoin-mnc-cryptocurrency-home.png"
- desc: "MinCoin (Min যা Minimalist বা অতি সহজ বুঝাতে) একটি এক কম্পিউটার থেকে অন্য কম্পিউটারে স্বয়ংক্রিয়ভাবে নেটওয়ার্ক শেয়ারিং ক্রিপ্টোকারেন্সি যা কোড ভিত্তিক স্ক্রিপ্ট বা পাসওয়ার্ড ব্যবহারের মাধ্যমে কাজের প্রমাণ বহন করে। "
+ desc: "Mincoin (Min যা Minimalist বা অতি সহজ বুঝাতে) একটি এক কম্পিউটার থেকে অন্য কম্পিউটারে স্বয়ংক্রিয়ভাবে নেটওয়ার্ক শেয়ারিং ক্রিপ্টোকারেন্সি যা কোড ভিত্তিক স্ক্রিপ্ট বা পাসওয়ার্ড ব্যবহারের মাধ্যমে কাজের প্রমাণ বহন করে। "
  buttonUrl: "mincoin-mnc-cryptocurrency-trading-exchanges"
  buttonText: "বর্তমানে ক্রিপ্টোকারেন্সি একচেঞ্জের মাধ্যমে লেন-দেন হচ্ছে। "
 ###6 icon content
 icons6:
  - title: "সম্প্রদায়"
    icon: "fa-group"
-   desc: "নিম্নবর্ণিত MinCoin গোষ্ঠী হতে ফ্রি সাপোর্ট নিন:  <ul>
-          <li><a href='https://www.mincoinforum.com' target='_blank'>MinCoin ফোরাম </a></li>
-		  <li><a href='https://www.mincoinforum.com/index.php?/topic/4153-mincoin-on-discord/' target='_blank'>MinCoin বিবাদ চ্যানেল</a></li>
-		  <li><a href='https://www.reddit.com/r/MinCoin/' target='_blank'>MinCoin রেডিট</a></li>
-		  <li><a href='https://twitter.com/mincoinus' target='_blank'>MinCoin টু্ইটার</a></li>
-		  <li><a href='https://www.facebook.com/mincoin.us' target='_blank'>MinCoin ফেসবুক</a></li>
-		  <li><a href='https://bitcointalk.org/index.php?topic=165397.0' target='_blank'>MinCoin বিটকয়েন টক্ </a></li>
+   desc: "নিম্নবর্ণিত Mincoin গোষ্ঠী হতে ফ্রি সাপোর্ট নিন:  <ul>
+          <li><a href='https://www.mincoinforum.com' target='_blank'>Mincoin ফোরাম </a></li>
+		  <li><a href='https://www.mincoinforum.com/index.php?/topic/4153-mincoin-on-discord/' target='_blank'>Mincoin বিবাদ চ্যানেল</a></li>
+		  <li><a href='https://www.reddit.com/r/MinCoin/' target='_blank'>Mincoin রেডিট</a></li>
+		  <li><a href='https://twitter.com/MinCoinus' target='_blank'>Mincoin টু্ইটার</a></li>
+		  <li><a href='https://www.facebook.com/mincoin.us' target='_blank'>Mincoin ফেসবুক</a></li>
+		  <li><a href='https://bitcointalk.org/index.php?topic=165397.0' target='_blank'>Mincoin বিটকয়েন টক্ </a></li>
 		  <li><a href='http://webchat.freenode.net/?channels=#mincoin' target='_blank'>IRC FreeNode বা ইন্টারনেট ভিত্তিক মেসেজিং নেটওয়ার্ক</a></li>
 		  </ul>"
  - title: "সংগ্রহ ভান্ডার"
    icon: "fa-laptop"
-   desc: "MinCoin CoinWiki হতে সাধারণ তথ্য, সেবা এবং লেন-দেন দেখুন যা MinCoin ব্যবহারের ক্ষেত্রে সহায়তা করে থাকে।  <a href='http://cryptoexplore.com/' target='_blank'>MinCoin Block Explorer</a>. হতে মিনিকয়েনের সর্বশেষ পরিসংখ্যান জানা যাবে।  মিনিকয়েনের বর্তমান মূল্য জানা যাবে  <a href='https://coinmarketcap.com/currencies/mincoin' target='_blank'>MinCoin On CoinMarketCap</a>  হতে। "
+   desc: "Mincoin CoinWiki হতে সাধারণ তথ্য, সেবা এবং লেন-দেন দেখুন যা Mincoin ব্যবহারের ক্ষেত্রে সহায়তা করে থাকে।  <a href='https://www.mincoinexplorer.com/' target='_blank'>Mincoin Block Explorer</a>. হতে মিনিকয়েনের সর্বশেষ পরিসংখ্যান জানা যাবে।  মিনিকয়েনের বর্তমান মূল্য জানা যাবে  <a href='https://coinmarketcap.com/currencies/mincoin' target='_blank'>Mincoin On CoinMarketCap</a>  হতে। "
  - title: "উন্মুক্ত উৎসের সফটওয়্যার"
    icon: "fa-heart "
-   desc: "Mলাইসেন্স MIT/X11 অনুযায়ী MinCoin  একটি উন্মুক্ত উৎস ভিত্তিক সফটওয়্যার প্রকল্প যার ব্যবহার, উন্নয়ন এবং ইচ্ছামাফিক সফট্ওয়্যারটি কপি করা এবং উন্নীত কপি বিতরণের জন্য আপনাকে প্রাধিকার প্রদান করা হয়েছে।  এই সফট্ওয়্যারটি এমনি একটি স্বচ্ছ পদ্ধতিতে ছাড়া হয়েছে যা আপনাকে এর বাইনারি সংখ্যা এবং এর উৎসের কোড স্বাধীনভাবে যাচাই করার সুযোগ দিয়েছে।  MinCoin এবং অন্যান্য সংশ্লিষ্ট প্রকল্পগুলির সোর্স কোড  <a href='https://github.com/mincoin' target='_blank'>GitHub</a> থেকে পাওয়া যাবে। ."
+   desc: "Mলাইসেন্স MIT/X11 অনুযায়ী Mincoin একটি উন্মুক্ত উৎস ভিত্তিক সফটওয়্যার প্রকল্প যার ব্যবহার, উন্নয়ন এবং ইচ্ছামাফিক সফট্ওয়্যারটি কপি করা এবং উন্নীত কপি বিতরণের জন্য আপনাকে প্রাধিকার প্রদান করা হয়েছে।  এই সফট্ওয়্যারটি এমনি একটি স্বচ্ছ পদ্ধতিতে ছাড়া হয়েছে যা আপনাকে এর বাইনারি সংখ্যা এবং এর উৎসের কোড স্বাধীনভাবে যাচাই করার সুযোগ দিয়েছে।  Mincoin এবং অন্যান্য সংশ্লিষ্ট প্রকল্পগুলির সোর্স কোড  <a href='https://github.com/mincoin' target='_blank'>GitHub</a> থেকে পাওয়া যাবে। ."
  - title: "ব্লকচাইন প্রযুক্তি"
    icon: "fa-link "
-   desc: "MinCoin এর ব্লকচেইন MinCoin এর অপর প্রতিযোগি Litecoin এর তুলনায় অধিক পরিমান লেন-দেন সম্পন্নে সক্ষম।  বারংবার ব্লক জেনারেশনের কারণে সফটওয়্যারটিতে পরবর্তীতে উন্নয়ন কার্য়ক্রম ছাড়াই অধিক পরিমান লেন-দেনের ক্ষেত্রে নেটওয়ার্কটি সহায়তা করে থাকে।  ফলশ্রুতিতে, ব্যবসায়ী ও ব্যবহারকারীগণ স্বল্প সময়ের মধ্যেই কনফার্মেশন পেয়ে থাকেন।   "
+   desc: "Mincoin এর ব্লকচেইন Mincoin এর অপর প্রতিযোগি Litecoin এর তুলনায় অধিক পরিমান লেন-দেন সম্পন্নে সক্ষম।  বারংবার ব্লক জেনারেশনের কারণে সফটওয়্যারটিতে পরবর্তীতে উন্নয়ন কার্য়ক্রম ছাড়াই অধিক পরিমান লেন-দেনের ক্ষেত্রে নেটওয়ার্কটি সহায়তা করে থাকে।  ফলশ্রুতিতে, ব্যবসায়ী ও ব্যবহারকারীগণ স্বল্প সময়ের মধ্যেই কনফার্মেশন পেয়ে থাকেন।   "
  - title: "ওয়ালেট সুরক্ষা "
    icon: "fa-lock "
-   desc: "ওয়ালেটে পাসওয়ার্ড প্রদান আপনার ওয়ালেটকে নিরাপদ রাখে, যাতে করে  আপনি আপনার লেন-দেনের রেকর্ড ও এ্যাকাউন্টের ব্যালেন্স দেখতে পান, কিন্তু MinCoins ব্যয়ের ক্ষেত্রে আপনার পাসওয়ার্ড ব্যবহারের প্রয়োজন হবে।   এটা আপনাকে ওয়ালেট চোর ভাইরাস ও ট্রজান হতে সুরক্ষা করবে এবং পেমেন্ট করার পূর্বে তা ধীর-স্থিরভাবে যাচাই করার সুযোগ দিবে।   <a href='http://mincoinforum.com/index.php/topic/330-how-to-back-up-restore-your-walletdat/' target='_blank'>MinCoin Wallet Backup</a>."
+   desc: "ওয়ালেটে পাসওয়ার্ড প্রদান আপনার ওয়ালেটকে নিরাপদ রাখে, যাতে করে  আপনি আপনার লেন-দেনের রেকর্ড ও এ্যাকাউন্টের ব্যালেন্স দেখতে পান, কিন্তু mincoins ব্যয়ের ক্ষেত্রে আপনার পাসওয়ার্ড ব্যবহারের প্রয়োজন হবে।   এটা আপনাকে ওয়ালেট চোর ভাইরাস ও ট্রজান হতে সুরক্ষা করবে এবং পেমেন্ট করার পূর্বে তা ধীর-স্থিরভাবে যাচাই করার সুযোগ দিবে।   <a href='http://mincoinforum.com/index.php/topic/330-how-to-back-up-restore-your-walletdat/' target='_blank'>Mincoin Wallet Backup</a>."
  - title: "মাইনিং পুরস্কার"
    icon: "fa-money "
-   desc: "বর্তমানে মাইনারগণকে ব্লক প্রতি ২টি নুতন MinCoin দিয়ে পুরস্কৃত করা হয়।  এভাবে MinCoin নেটওয়ার্কে ১০ মিলিয়ন MinCoin উত্তোলন করার পরিকল্পনা করা হয়েছে যা সত্যিকারার্থে বিটকয়েনের  (২1 মিলিয়ন কয়েন) ও লাইটকয়েনের (৮৪ মিলিয়ন কয়েন) তুলনায় মিনকয়েনকে দুস্প্রাপ্য তুলবে।  <ul>
+   desc: "বর্তমানে মাইনারগণকে ব্লক প্রতি ২টি নুতন Mincoin দিয়ে পুরস্কৃত করা হয়।  এভাবে Mincoin নেটওয়ার্কে ১০ মিলিয়ন Mincoin উত্তোলন করার পরিকল্পনা করা হয়েছে যা সত্যিকারার্থে বিটকয়েনের  (২1 মিলিয়ন কয়েন) ও লাইটকয়েনের (৮৪ মিলিয়ন কয়েন) তুলনায় মিনকয়েনকে দুস্প্রাপ্য তুলবে।  <ul>
           <li><a href='http://mincoinforum.com/index.php/topic/320-solo-mining-mincoin-guide/' target='_blank'> একক মাইনিং</a></li>
 		  <li><a href='http://mincoinforum.com/index.php/forum/24-mincoin-mining-guides/' target='_blank'>MNC মাইনিং গাইড</a></li>
-		  <li><a href='https://www.mincoinforum.com/index.php?/forum/36-mincoin-mining-pools' target='_blank'>MinCoin মাইনিং পুল</a></li>
+		  <li><a href='https://www.mincoinforum.com/index.php?/forum/36-mincoin-mining-pools' target='_blank'>Mincoin মাইনিং পুল</a></li>
 		  </ul>"
-  
+
 
 socialicon:
  - title: Facebook
@@ -54,30 +54,30 @@ socialicon:
    url: https://www.facebook.com/mincoin.us
  - title: Twitter
    icon: ti-twitter
-   url: https://twitter.com/mincoinus
+   url: https://twitter.com/MinCoinus
 
-MinCoinDownload:
- - title: উইন্ডোজ এ ব্যবহারের জন্য MinCoin
+MincoinDownload:
+ - title: উইন্ডোজ এ ব্যবহারের জন্য Mincoin
    icon: /images/mincoin-windows.png
    url: https://www.mincoinforum.com/bin/mincoin-core-0.14.3/mincoin-0.14.3-win64.zip
    downloadText: mincoin-0.14.3-win64.zip
    buttonText: Download for Windows
- - title: লিনাক্সে ব্যবহারের জন্য MinCoin  
+ - title: লিনাক্সে ব্যবহারের জন্য Mincoin
    icon: /images/mincoin-linux.png
    url: https://www.mincoinforum.com/bin/mincoin-core-0.14.3/mincoin-0.14.3-x86_64-linux-gnu.tar.gz
    downloadText: mincoin-0.14.3-x86_64-linux-gnu.tar.gz
    buttonText: Download for Linux
- - title: Mac OSX এ ব্যবহারের জন্য MinCoin
+ - title: Mac OSX এ ব্যবহারের জন্য Mincoin
    icon: /images/mincoin-osx.png
    url: https://www.mincoinforum.com/bin/mincoin-core-0.14.3/mincoin-0.14.3-osx.dmg
    downloadText: mincoin-0.14.3-osx.dmg
    buttonText: Download for Mac
-   
+
 contact:
- contactHeading: MinCoin এর বিষয়ে আরো জানুন
- buttonText: MinCoin শ্বেতপত্র
+ contactHeading: Mincoin এর বিষয়ে আরো জানুন
+ buttonText: Mincoin শ্বেতপত্র
  contentUrl: "https://www.mincoinforum.com/index.php?/topic/4178-the-mincoin-white-paper/"
- 
+
 news:
  heading: ক্রিপ্টোকারেন্সি সংবাদ
  readmoreUrl:  /category/cryptocurrency-news/
@@ -88,62 +88,62 @@ news:
  col2:
   - linktext:  ফর্বস ম্যাগাজিন অনুযায়ী বিশ্বের শীর্ষ ৩০ ক্রিপ্টোকারেন্সি
     linkUrl: https://www.mincoin.us/the-digital-commodity-solution/
-    linkImage: 
-  - linktext: ্রিন্সটন ইউনিভার্সিটিতে বিকল্প ক্রিপ্টোকারেন্সি MinCoin নিয়ে গবেষণ
+    linkImage:
+  - linktext: ্রিন্সটন ইউনিভার্সিটিতে বিকল্প ক্রিপ্টোকারেন্সি Mincoin নিয়ে গবেষণ
     linkUrl: https://www.mincoin.us/is-mincoin-the-digital-commodity-solution/
     linkImage:
   - linktext:   বিশ্বের দ্রুততম দুস্পাপ্রাপ্য বিকল্প ক্রিপ্টোকারেন্সি
     linkUrl: https://www.mincoin.us/mincoin-princeton-university-study/
     linkImage:
-  - linktext: MinCoin ক্রিপ্টোকারেন্সি ক্রয়কারীগণের জন্য গাইড
+  - linktext: Mincoin ক্রিপ্টোকারেন্সি ক্রয়কারীগণের জন্য গাইড
     linkUrl: https://www.mincoin.us/mincoin-princeton-university-study/
-    linkImage: 
-  - linktext: MinCoin ক্রিপ্টোকারেন্সি ক্রয়কারীগণের জন্য গাইড
+    linkImage:
+  - linktext: Mincoin ক্রিপ্টোকারেন্সি ক্রয়কারীগণের জন্য গাইড
     linkUrl: https://www.mincoin.us/bitcoin-mincoin-litecoin-the-best-crypto-commodity/
     linkImage:
-  - linktext:  MinCoin শ্বেতপত্র নির্বাহক সারসংক্ষেপ
+  - linktext:  Mincoin শ্বেতপত্র নির্বাহক সারসংক্ষেপ
     linkUrl: https://www.mincoin.us/mincoin_information/
     linkImage:
 
-extraLinks: 
- communityHeading: MinCoin গোষ্ঠী
+extraLinks:
+ communityHeading: Mincoin গোষ্ঠী
  toolsHeading: টুলস্
- learnHeading: MinCoin এর বিষয়ে জানুন
+ learnHeading: Mincoin এর বিষয়ে জানুন
  community:
-  - linktext:  MinCoin ফোরাম
+  - linktext:  Mincoin ফোরাম
     linkUrl: http://mincoinforum.com/
   - linktext: IRC আলাপচারিতা
     linkUrl: http://webchat.freenode.net/?channels=#mincoin
-  - linktext: Reddit /r/মিনকয়েন
-    linkUrl: http://reddit.com/r/mincoin
+  - linktext: reddit /r/মিনকয়েন
+    linkUrl: http://reddit.com/r/MinCoin
   - linktext: BitcoinTalk ফোরাম
     linkUrl: https://bitcointalk.org/index.php?topic=165397.0
-  - linktext: MinCoin টুইটার
-    linkUrl: https://twitter.com/mincoinus
-  - linktext:  MinCoin ফেসবুক
+  - linktext: Mincoin টুইটার
+    linkUrl: https://twitter.com/MinCoinus
+  - linktext:  Mincoin ফেসবুক
     linkUrl: https://www.facebook.com/mincoin.us
-  - linktext: MinCoin বিবাদ চ্যানেল
+  - linktext: Mincoin বিবাদ চ্যানেল
     linkUrl: https://www.mincoinforum.com/index.php?/topic/4153-mincoin-on-discord
  tools:
-  - linktext: MinCoin ওয়ালেট ব্যাকআপ
+  - linktext: Mincoin ওয়ালেট ব্যাকআপ
     linkUrl: http://mincoinforum.com/index.php/topic/330-how-to-back-up-restore-your-walletdat/
-  - linktext: MinCoin মাইনিং পুলস
+  - linktext: Mincoin মাইনিং পুলস
     linkUrl: https://www.mincoinforum.com/index.php?/forum/36-mincoin-mining-pools
-  - linktext: MinCoin এর CoinWiki
-    linkUrl: http://coinwik.org/MinCoin
-  - linktext: CoinMarketCap এ MinCoin 
-    linkUrl: https://coinmarketcap.com/currencies/mincoin 
+  - linktext: Mincoin এর CoinWiki
+    linkUrl: https://coinwik.org/Mincoin
+  - linktext: CoinMarketCap এ Mincoin
+    linkUrl: https://coinmarketcap.com/currencies/mincoin
   - linktext:  একক মাইনিং
     linkUrl: http://mincoinforum.com/index.php/topic/320-solo-mining-mincoin-guide/
   - linktext: MNC মাইনিং গাইড
     linkUrl: http://mincoinforum.com/index.php/forum/24-mincoin-mining-guides/
-  - linktext: MinCoin ব্লক অনুসন্ধান
-    linkUrl: http://cryptoexplore.com 
+  - linktext: Mincoin ব্লক অনুসন্ধান
+    linkUrl: https://www.mincoinexplorer.com/
  learn:
-  - linktext: Github এ MinCoin এর সোর্স কোড
+  - linktext: Github এ Mincoin এর সোর্স কোড
     linkUrl: https://github.com/mincoin
 
 footer:
  heading: নিয়ন্ত্রন কর্তৃপক্ষের সাথে যোগাযোগ
  email: developers@mincoin.us
- copyright: © 2019 Copyright 2013-2019 · The MinCoin Developers
+ copyright: © 2019 Copyright 2013-2019 · The Mincoin Developers

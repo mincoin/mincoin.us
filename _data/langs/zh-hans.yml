@@ -2,10 +2,10 @@
 lang_name: "繁體中文"
 head:
   meta:
-    description: "Official MinCoin Website"
-    keywords: "MinCoin"
+    description: "Official Mincoin Website"
+    keywords: "Mincoin"
     author: "John"
-  title: "MinCoin &#8211; Official MinCoin Website"
+  title: "Mincoin &#8211; Official Mincoin Website"
 ###Banner content
 banner:
  title: "世界#1 高速加密货币"
@@ -22,14 +22,14 @@ icons6:
           <li><a href='https://www.mincoinforum.com' target='_blank'> 简约币论坛</a></li>
 		  <li><a href='https://www.mincoinforum.com/index.php?/topic/4153-mincoin-on-discord/' target='_blank'>简约币发行者频道</a></li>
 		  <li><a href='https://www.reddit.com/r/MinCoin/' target='_blank'>红迪网简约币</a></li>
-		  <li><a href='https://twitter.com/mincoinus' target='_blank'> 推特简约币</a></li>
+		  <li><a href='https://twitter.com/MinCoinus' target='_blank'> 推特简约币</a></li>
 		  <li><a href='https://www.facebook.com/mincoin.us' target='_blank'>简约币脸谱网</a></li>
 		  <li><a href='https://bitcointalk.org/index.php?topic=165397.0' target='_blank'>简约币比特币访谈</a></li>
 		  <li><a href='http://webchat.freenode.net/?channels=#mincoin' target='_blank'>ICR自由节点</a></li>
 		  </ul>"
  - title: "资源"
    icon: "fa-laptop"
-   desc: "请于简约币•币维基查询基本资料、服务领域及交易信息。您可以在简约币区块探索者<a href='http://cryptoexplore.com/' target='_blank'>查询最新的网络统计信息</a>。 简约币现价可以在 CoinMarketCap网站<a href='https://coinmarketcap.com/currencies/mincoin' target='_blank'> 的简约币专栏进行查询</a>。 "
+   desc: "请于简约币•币维基查询基本资料、服务领域及交易信息。您可以在简约币区块探索者<a href='https://www.mincoinexplorer.com/' target='_blank'>查询最新的网络统计信息</a>。 简约币现价可以在 CoinMarketCap网站<a href='https://coinmarketcap.com/currencies/mincoin' target='_blank'> 的简约币专栏进行查询</a>。 "
  - title: "开源软件"
    icon: "fa-heart "
    desc: "简约币是一个开源软件项目，证书MIT/X11，您可以对软件进行运行、修改、复制，并自选发布软件的改良版本。软件发布过程透明化，允许独立验证二进制文档及相应的源代码。简约币的源代码和相关项目可以在<a href='https://github.com/mincoin' target='_blank'>GitHub</a>网站进行查询。"
@@ -46,7 +46,7 @@ icons6:
 		  <li><a href='http://mincoinforum.com/index.php/forum/24-mincoin-mining-guides/' target='_blank'> 移动网络码挖矿指南</a></li>
 		  <li><a href='https://www.mincoinforum.com/index.php?/forum/36-mincoin-mining-pools' target='_blank'>简约币挖矿池</a></li>
 		  </ul>"
-  
+
 
 socialicon:
  - title: Facebook
@@ -54,9 +54,9 @@ socialicon:
    url: https://www.facebook.com/mincoin.us
  - title: Twitter
    icon: ti-twitter
-   url: https://twitter.com/mincoinus
+   url: https://twitter.com/MinCoinus
 
-MinCoinDownload:
+MincoinDownload:
  - title: Windows系统简约币
    icon: /images/mincoin-windows.png
    url: https://www.mincoinforum.com/bin/mincoin-core-0.14.3/mincoin-0.14.3-win64.zip
@@ -72,12 +72,12 @@ MinCoinDownload:
    url: https://www.mincoinforum.com/bin/mincoin-core-0.14.3/mincoin-0.14.3-osx.dmg
    downloadText: 简约币-0.13.0-osx.dmg
    buttonText: Download for Mac
-   
+
 contact:
  contactHeading: 了解更多简约币内容
  buttonText: 简约币白皮书
  contentUrl: "https://www.mincoinforum.com/index.php?/topic/4178-the-mincoin-white-paper/"
- 
+
 news:
  heading: 加密货币资讯
  readmoreUrl:  /category/cryptocurrency-news/
@@ -97,12 +97,12 @@ news:
     linkImage:
   - linktext: 简约币加密货币买家指南
     linkUrl: https://www.mincoin.us/mincoin-princeton-university-study/
-    linkImage: 
+    linkImage:
   - linktext:  简约币白皮书执行概要
     linkUrl: https://www.mincoin.us/bitcoin-mincoin-litecoin-the-best-crypto-commodity/
-    
 
-extraLinks: 
+
+extraLinks:
  communityHeading: 简约币社区
  toolsHeading: 工具
  learnHeading: 了解简约币
@@ -112,11 +112,11 @@ extraLinks:
   - linktext: 线上实时聊天
     linkUrl: http://webchat.freenode.net/?channels=#mincoin
   - linktext: 红迪网简约币/红/简约币
-    linkUrl: http://reddit.com/r/mincoin
+    linkUrl: http://reddit.com/r/MinCoin
   - linktext:  比特币访谈论坛
     linkUrl: https://bitcointalk.org/index.php?topic=165397.0
   - linktext: 简约币推特
-    linkUrl: https://twitter.com/mincoinus
+    linkUrl: https://twitter.com/MinCoinus
   - linktext:  简约币脸谱网
     linkUrl: https://www.facebook.com/mincoin.us
   - linktext: 简约币发行者频道
@@ -127,15 +127,15 @@ extraLinks:
   - linktext: 简约币挖矿池
     linkUrl: https://www.mincoinforum.com/index.php?/forum/36-mincoin-mining-pools
   - linktext: 简约币•币维基
-    linkUrl: http://coinwik.org/MinCoin
+    linkUrl: https://coinwik.org/Mincoin
   - linktext:  CoinMarketCap网站简约币专栏
-    linkUrl: https://coinmarketcap.com/currencies/mincoin 
+    linkUrl: https://coinmarketcap.com/currencies/mincoin
   - linktext:  单人挖矿
     linkUrl: http://mincoinforum.com/index.php/topic/320-solo-mining-mincoin-guide/
   - linktext:  移动网络码挖矿指南
     linkUrl: http://mincoinforum.com/index.php/forum/24-mincoin-mining-guides/
   - linktext:  简约币区块探索者
-    linkUrl: http://cryptoexplore.com 
+    linkUrl: https://www.mincoinexplorer.com/
  learn:
   - linktext: GitHub网站简约币源代码
     linkUrl: https://github.com/mincoin
@@ -143,4 +143,4 @@ extraLinks:
 footer:
  heading: 联系开发团队
  email: developers@mincoin.us
- copyright: © 2019 Copyright 2013-2019 · The MinCoin Developers
+ copyright: © 2019 Copyright 2013-2019 · The Mincoin Developers

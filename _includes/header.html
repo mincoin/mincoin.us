@@ -15,21 +15,21 @@
 {% assign langCodes = site.lang_codes %}
 {% if pageLangCodes %}{% assign langCodes = pageLangCodes %}
 {% endif %}
- 
+
 <header class="navbar  mincoin-header" role="banner">
   <div class="container">
     <div class="navbar-header col-xs-5">
-     <!-- <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse"> 
-      	<span class="sr-only">Toggle navigation</span> 
-        <span class="icon-bar"></span> 
-        <span class="icon-bar"></span> 
-        <span class="icon-bar"></span> 
+     <!-- <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
       </button> -->
       <a href="{{ site.baseurl }}/" class="navbar-brand col-md-7">
       	<img src="{{ site.logo }}" alt="Boxupp Blog" class="img-responsive"><!--{{site.name}} -->
-      </a> 
+      </a>
     </div>
-    <nav class="collapse navbar-collapse bs-navbar-collapse pull-right" role="navigation">     
+    <nav class="collapse navbar-collapse bs-navbar-collapse pull-right" role="navigation">
        <ul class="nav navbar-nav">
       {% for p in site.navigation %}
         <li {% if p.url == page.url %}class="active"{% endif %} >
@@ -37,8 +37,8 @@
         </li>
       {% endfor %}
     </ul>
-      
-      
+
+
     </nav>
 	<div class="social-icon pull-right">
 		<ul>
@@ -48,9 +48,9 @@
 		</ul>
 	</div>
 	<div class=" navbar-collapse pull-right langs-dropdown" id="bs-slide-dropdown">
-        <ul class="nav navbar-nav">           
+        <ul class="nav navbar-nav">
         	<li class="dropdown">
-			  <a href="#" class="dropdown-toggle" data-toggle="dropdown">{{langPath.lang_name}}  <span class="caret"></span></a>				
+			  <a href="#" class="dropdown-toggle" data-toggle="dropdown">{{langPath.lang_name}}  <span class="caret"></span></a>
 			  <ul class="dropdown-menu" role="menu">
 				{% for lang in langCodes %}
 				{% if lang != page.lang %}
@@ -58,11 +58,11 @@
 					<a href="{% if lang =='en'%} {{basePath}}/ {% else if %} {{basePath}}/{{lang}}/{{pageName}} {% endif %}">{{site.langs[lang]}}</a>
 				  </li>
 				{% endif %}
-			  {% endfor %}              
-			 </ul>                
+			  {% endfor %}
+			 </ul>
             </li>
         </ul>
 		</div>
-  
+
   </div>
 </header>

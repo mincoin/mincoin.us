@@ -2,51 +2,51 @@
 lang_name: "Türkçe"
 head:
   meta:
-    description: "Official MinCoin Website"
-    keywords: "MinCoin"
+    description: "Official Mincoin Website"
+    keywords: "Mincoin"
     author: "John"
-  title: "MinCoin &#8211; Official MinCoin Website"
+  title: "Mincoin &#8211; Official Mincoin Website"
 ###Banner content
 banner:
  title: "Dünyanın #1 Yüksek Hızlı Kripto Parası"
  subTitle: "Blok Zinciri Teknolojisi Temelli"
  image: "/images/mincoin-mnc-cryptocurrency-home.png"
- desc: "MinCoin (Min, Minimalist sözcüğünün kısaltmasıdır) yapılan işleri kanıtlayan algoritma olarak scrypt'i kullanan bir eşler arası kripto paradır. MinCoin 3 Nisan 2013'te hiç madencilik yapılmadan piyasaya sürüldü."
+ desc: "Mincoin (Min, Minimalist sözcüğünün kısaltmasıdır) yapılan işleri kanıtlayan algoritma olarak scrypt'i kullanan bir eşler arası kripto paradır. Mincoin 3 Nisan 2013'te hiç madencilik yapılmadan piyasaya sürüldü."
  buttonUrl: "mincoin-mnc-cryptocurrency-trading-exchanges"
  buttonText: "Şimdi Kripto Para Borsalarında işlem görüyor"
 ###6 icon content
 icons6:
  - title: "Topluluk"
    icon: "fa-group"
-   desc: "Bu MinCoin topluluk platformlarında ücretsiz destek bulun: <ul>
-          <li><a href='https://www.mincoinforum.com' target='_blank'>MinCoin Forum</a></li>
-		  <li><a href='https://www.mincoinforum.com/index.php?/topic/4153-mincoin-on-discord/' target='_blank'>MinCoin Discord Kanalı </a></li>
-		  <li><a href='https://www.reddit.com/r/MinCoin/' target='_blank'>Reddit MinCoin</a></li>
-		  <li><a href='https://twitter.com/mincoinus' target='_blank'>Twitter MinCoin</a></li>
-		  <li><a href='https://www.facebook.com/mincoin.us' target='_blank'>MinCoin Facebook</a></li>
-		  <li><a href='https://bitcointalk.org/index.php?topic=165397.0' target='_blank'>MinCoin BitcoinTalk</a></li>
+   desc: "Bu Mincoin topluluk platformlarında ücretsiz destek bulun: <ul>
+          <li><a href='https://www.mincoinforum.com' target='_blank'>Mincoin Forum</a></li>
+		  <li><a href='https://www.mincoinforum.com/index.php?/topic/4153-mincoin-on-discord/' target='_blank'>Mincoin Discord Kanalı </a></li>
+		  <li><a href='https://www.reddit.com/r/MinCoin/' target='_blank'>reddit Mincoin</a></li>
+		  <li><a href='https://twitter.com/MinCoinus' target='_blank'>Twitter Mincoin</a></li>
+		  <li><a href='https://www.facebook.com/mincoin.us' target='_blank'>Mincoin Facebook</a></li>
+		  <li><a href='https://bitcointalk.org/index.php?topic=165397.0' target='_blank'>Mincoin BitcoinTalk</a></li>
 		  <li><a href='http://webchat.freenode.net/?channels=#mincoin' target='_blank'>IRC FreeNode</a></li>
 		  </ul>"
  - title: "Kaynaklar"
    icon: "fa-laptop"
-   desc: "MinCoin CoinWiki sitesinde genel bilgi, hizmetler ve MinCoin'i destekleyen borsalar yer almaktadır. Güncel ağ istatistikleri MinCoin Blok Keşif Aracı'nda <a href='http://cryptoexplore.com/' target='_blank'>MinCoin Block Explorer</a> bulunabilir .MinCoin'in şimdiki fiyatı MinCoin CoinMarketCap'te <a href='https://coinmarketcap.com/currencies/mincoin' target='_blank'>MinCoin On CoinMarketCap</a> mevcuttur."
+   desc: "Mincoin CoinWiki sitesinde genel bilgi, hizmetler ve Mincoin'i destekleyen borsalar yer almaktadır. Güncel ağ istatistikleri Mincoin Blok Keşif Aracı'nda <a href='https://www.mincoinexplorer.com/' target='_blank'>Mincoin Block Explorer</a> bulunabilir .Mincoin'in şimdiki fiyatı Mincoin CoinMarketCap'te <a href='https://coinmarketcap.com/currencies/mincoin' target='_blank'>Mincoin On CoinMarketCap</a> mevcuttur."
  - title: "Açık Kaynak Yazılım"
    icon: "fa-heart "
-   desc: "MinCoin size yazılımı çalıştırma, değiştirme, kopyalama ve isteğe bağlı olarak yazılımın değiştirilmiş kopyalarını dağıtma yetkisi veren MIT/X11 lisansı altında yayımlanan bir açık kaynak yazılım projesidir. Yazılım, ikili dosyaların ve bu dosyalara karşılık gelen kaynak kodların bağımsız olarak doğrulanmasına olanak tanıyan şeffaf bir süreç içerisinde piyasaya sürülmüştür. MinCoin'in kaynak kodu ve diğer benzer projeler  <a href='https://github.com/mincoin' target='_blank'>GitHub</a>'da bulunmaktadır."
+   desc: "Mincoin size yazılımı çalıştırma, değiştirme, kopyalama ve isteğe bağlı olarak yazılımın değiştirilmiş kopyalarını dağıtma yetkisi veren MIT/X11 lisansı altında yayımlanan bir açık kaynak yazılım projesidir. Yazılım, ikili dosyaların ve bu dosyalara karşılık gelen kaynak kodların bağımsız olarak doğrulanmasına olanak tanıyan şeffaf bir süreç içerisinde piyasaya sürülmüştür. Mincoin'in kaynak kodu ve diğer benzer projeler  <a href='https://github.com/mincoin' target='_blank'>GitHub</a>'da bulunmaktadır."
  - title: "Blok Zinciri"
    icon: "fa-link "
-   desc: "MinCoin blok zinciri, benzer nitelikteki Litecoin'den daha yüksek işlem hacmine sahiptir. Daha sık blok üretiminden dolayı ağ, ileride yazılımı değiştirmeye gerek kalmadan daha fazla işlemi desteklemektedir. Bundan dolayı da ticaret yapanlar ve kullanıcılar daha hızlı onay süreleriyle karşılaşırlar."
+   desc: "Mincoin blok zinciri, benzer nitelikteki Litecoin'den daha yüksek işlem hacmine sahiptir. Daha sık blok üretiminden dolayı ağ, ileride yazılımı değiştirmeye gerek kalmadan daha fazla işlemi desteklemektedir. Bundan dolayı da ticaret yapanlar ve kullanıcılar daha hızlı onay süreleriyle karşılaşırlar."
  - title: "Cüzdan Şifrelemesi"
    icon: "fa-lock "
-   desc: "Cüzdan şifrelemesi, cüzdanınızı güvenli bir şekilde kullanmanıza olanak sağlar, böylece işlemlerinizi ve hesap bakiyenizi görüntülebilirsiniz; MinCoin'lerinizi harcamak için de şifrenizi girmeniz gerekmektedir. Bu sayede cüzdan çalan virüslerden ve truva atlarından korunmuş olursunuz, ödeme göndermeden önce de doğruluk testi güvenliğinizi sağlar. <a href='http://mincoinforum.com/index.php/topic/330-how-to-back-up-restore-your-walletdat/' target='_blank'>MinCoin Cüzdan Yedeği</a>."
+   desc: "Cüzdan şifrelemesi, cüzdanınızı güvenli bir şekilde kullanmanıza olanak sağlar, böylece işlemlerinizi ve hesap bakiyenizi görüntülebilirsiniz; Mincoin'lerinizi harcamak için de şifrenizi girmeniz gerekmektedir. Bu sayede cüzdan çalan virüslerden ve truva atlarından korunmuş olursunuz, ödeme göndermeden önce de doğruluk testi güvenliğinizi sağlar. <a href='http://mincoinforum.com/index.php/topic/330-how-to-back-up-restore-your-walletdat/' target='_blank'>Mincoin Cüzdan Yedeği</a>."
  - title: "Madencilik Ödülü"
    icon: "fa-money "
-   desc: "Madenciler her blok için 2 yeni MinCoin'le ödüllendirilir. MinCoin ağı bu nedenle 10 milyon MinCoin üretecek şekilde planlanmıştır, bu da mincoin'in Bitcoin'den (21 milyon coin) ve Litecoin'den (84 milyon coin) çok daha nadir olmasına neden olmaktadır.<ul>
+   desc: "Madenciler her blok için 2 yeni Mincoin'le ödüllendirilir. Mincoin ağı bu nedenle 10 milyon Mincoin üretecek şekilde planlanmıştır, bu da mincoin'in Bitcoin'den (21 milyon coin) ve Litecoin'den (84 milyon coin) çok daha nadir olmasına neden olmaktadır.<ul>
           <li><a href='http://mincoinforum.com/index.php/topic/320-solo-mining-mincoin-guide/' target='_blank'>Tek Başına Madencilik</a></li>
 		  <li><a href='http://mincoinforum.com/index.php/forum/24-mincoin-mining-guides/' target='_blank'>MNC Madencilik Rehberleri</a></li>
-		  <li><a href='https://www.mincoinforum.com/index.php?/forum/36-mincoin-mining-pools' target='_blank'>MinCoin Madencilik Havuzları</a></li>
+		  <li><a href='https://www.mincoinforum.com/index.php?/forum/36-mincoin-mining-pools' target='_blank'>Mincoin Madencilik Havuzları</a></li>
 		  </ul>"
-  
+
 
 socialicon:
  - title: Facebook
@@ -54,30 +54,30 @@ socialicon:
    url: https://www.facebook.com/mincoin.us
  - title: Twitter
    icon: ti-twitter
-   url: https://twitter.com/mincoinus
+   url: https://twitter.com/MinCoinus
 
-MinCoinDownload:
- - title: MinCoin Windows versiyonu
+MincoinDownload:
+ - title: Mincoin Windows versiyonu
    icon: /images/mincoin-windows.png
    url: https://www.mincoinforum.com/bin/mincoin-core-0.14.3/mincoin-0.14.3-win64.zip
    downloadText: mincoin-0.14.3-win64.zip
    buttonText: Download for Windows
- - title: MinCoin Linux versiyonu
+ - title: Mincoin Linux versiyonu
    icon: /images/mincoin-linux.png
    url: https://www.mincoinforum.com/bin/mincoin-core-0.14.3/mincoin-0.14.3-x86_64-linux-gnu.tar.gz
    downloadText: mincoin-0.14.3-x86_64-linux-gnu.tar.gz
    buttonText: mincoin-0.14.3-osx.dmg
- - title: MinCoin Mac OSX versiyonu
+ - title: Mincoin Mac OSX versiyonu
    icon: /images/mincoin-osx.png
    url: https://www.mincoinforum.com/bin/mincoin-core-0.14.3/mincoin-0.14.3-osx.dmg
    downloadText: mincoin-0.14.3-osx.dmg
    buttonText: Download for Mac
-   
+
 contact:
- contactHeading: MinCoin Hakkında Daha Fazla Bilgi Edinin
- buttonText: MinCoin Tanıtım Bülteni
+ contactHeading: Mincoin Hakkında Daha Fazla Bilgi Edinin
+ buttonText: Mincoin Tanıtım Bülteni
  contentUrl: "https://www.mincoinforum.com/index.php?/topic/4178-the-mincoin-white-paper/"
- 
+
 news:
  heading: Kripto Para Haberleri
  readmoreUrl:  /category/cryptocurrency-news/
@@ -88,59 +88,59 @@ news:
  col2:
   - linktext: Forbes Dergisi İlk 30 Küresel Kripto Para Listesi
     linkUrl: https://www.mincoin.us/the-digital-commodity-solution/
-    linkImage: 
-  - linktext: Princeton Üniversitesi MinCoin Altcoin Hakkında Çalışma Yapıyor
+    linkImage:
+  - linktext: Princeton Üniversitesi Mincoin Altcoin Hakkında Çalışma Yapıyor
     linkUrl: https://www.mincoin.us/is-mincoin-the-digital-commodity-solution/
     linkImage:
   - linktext: Dünyanın En Hızlı Nadir Altcoin'i
     linkUrl: https://www.mincoin.us/mincoin-princeton-university-study/
     linkImage:
-  - linktext: MinCoin Kripto Para Alıcı Rehberi
+  - linktext: Mincoin Kripto Para Alıcı Rehberi
     linkUrl: https://www.mincoin.us/mincoin-princeton-university-study/
-    linkImage: 
-  - linktext: MinCoin Tanıtım Bülteni Yönetici Özeti
+    linkImage:
+  - linktext: Mincoin Tanıtım Bülteni Yönetici Özeti
     linkUrl: https://www.mincoin.us/bitcoin-mincoin-litecoin-the-best-crypto-commodity/
     linkImage:
 
-extraLinks: 
- communityHeading: MinCoin Topluluğu
+extraLinks:
+ communityHeading: Mincoin Topluluğu
  toolsHeading: Araçlar
- learnHeading: MinCoin Hakkında Bilgi Edinin
+ learnHeading: Mincoin Hakkında Bilgi Edinin
  community:
-  - linktext: MinCoin Forum
+  - linktext: Mincoin Forum
     linkUrl: http://mincoinforum.com/
   - linktext: IRC Sohbet
     linkUrl: http://webchat.freenode.net/?channels=#mincoin
-  - linktext: Reddit /r/mincoin
-    linkUrl: http://reddit.com/r/mincoin
+  - linktext: reddit /r/MinCoin
+    linkUrl: http://reddit.com/r/MinCoin
   - linktext: BitcoinTalk Forums
     linkUrl: https://bitcointalk.org/index.php?topic=165397.0
-  - linktext: MinCoin Twitter
-    linkUrl: https://twitter.com/mincoinus
-  - linktext: MinCoin Facebook
+  - linktext: Mincoin Twitter
+    linkUrl: https://twitter.com/MinCoinus
+  - linktext: Mincoin Facebook
     linkUrl: https://www.facebook.com/mincoin.us
-  - linktext: MinCoin Discord Kanalı
+  - linktext: Mincoin Discord Kanalı
     linkUrl: https://www.mincoinforum.com/index.php?/topic/4153-mincoin-on-discord
  tools:
-  - linktext: MinCoin Cüzdan Yedeği
+  - linktext: Mincoin Cüzdan Yedeği
     linkUrl: http://mincoinforum.com/index.php/topic/330-how-to-back-up-restore-your-walletdat/
-  - linktext: MinCoin Madencilik Havuzları
+  - linktext: Mincoin Madencilik Havuzları
     linkUrl: https://www.mincoinforum.com/index.php?/forum/36-mincoin-mining-pools
-  - linktext: MinCoin CoinWiki
-    linkUrl: http://coinwik.org/MinCoin
-  - linktext: MinCoin CoinMarketCap
-    linkUrl: https://coinmarketcap.com/currencies/mincoin 
+  - linktext: Mincoin CoinWiki
+    linkUrl: https://coinwik.org/Mincoin
+  - linktext: Mincoin CoinMarketCap
+    linkUrl: https://coinmarketcap.com/currencies/mincoin
   - linktext: Tek Başına Madencilik
     linkUrl: http://mincoinforum.com/index.php/topic/320-solo-mining-mincoin-guide/
   - linktext: MNC Madencilik Rehberleri
     linkUrl: http://mincoinforum.com/index.php/forum/24-mincoin-mining-guides/
-  - linktext: MinCoin Blok Keşif Aracı
-    linkUrl: http://cryptoexplore.com 
+  - linktext: Mincoin Blok Keşif Aracı
+    linkUrl: https://www.mincoinexplorer.com/
  learn:
-  - linktext: Github'da MinCoin Kaynak Kodu
+  - linktext: Github'da Mincoin Kaynak Kodu
     linkUrl: https://github.com/mincoin
 
 footer:
  heading: Yazılımın Geliştiricileriyle İletişim Kurun
  email: developers@mincoin.us
- copyright: © 2019 Copyright 2013-2019 · The MinCoin Developers
+ copyright: © 2019 Copyright 2013-2019 · The Mincoin Developers

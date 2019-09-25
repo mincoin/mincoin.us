@@ -4,48 +4,48 @@
 	</section>
 </div>
 <footer>
-	<div class="container"> 
+	<div class="container">
 		<div class="col-md-6">
 			<h3 class="">
-				
-				{%  if page.layout == 'default' %}  
+
+				{%  if page.layout == 'default' %}
 					{{langPath.footer.heading}}
-					
-				{%  else if page.layout == 'post' %} 
-					{{defaultLangPath.footer.heading}}						
-				{% endif %} 
-			
+
+				{%  else if page.layout == 'post' %}
+					{{defaultLangPath.footer.heading}}
+				{% endif %}
+
 			</h3>
-			<p><a href="mailto:{{langPath.footer.email}}" ><i class="ti-email"></i>  {%  if page.layout == 'default' %}  
+			<p><a href="mailto:{{langPath.footer.email}}" ><i class="ti-email"></i>  {%  if page.layout == 'default' %}
 					{{langPath.footer.email}}
-					
-				{%  else if page.layout == 'post' %} 
-					{{defaultLangPath.footer.email}}						
+
+				{%  else if page.layout == 'post' %}
+					{{defaultLangPath.footer.email}}
 				{% endif %} </a></p>
 		</div>
 		<div class="col-md-6">
 			<div class="social-icon footer">
 				<ul>
-				
-					
-					{%  if page.layout == 'default' %}  
+
+
+					{%  if page.layout == 'default' %}
 						{% for social in langPath.socialicon %}
 							<li><a href="{{ social.url }}" target="_blank"><i class="{{ social.icon }}"></i> </a> </li>
 						{% endfor %}
-						
-					{%  else if page.layout == 'post' %} 
+
+					{%  else if page.layout == 'post' %}
 						{% for social in defaultLangPath.socialicon %}
 							<li><a href="{{ social.url }}" target="_blank"><i class="{{ social.icon }}"></i> </a> </li>
 						{% endfor %}
-						
-					{% endif %} 
-					
+
+					{% endif %}
+
 				</ul>
 			</div>
 		</div>
 	</div>
-	<div class="container copyright"> 
+	<div class="container copyright">
     	<p style="display:none;">{{langPath.footer.copyright}}  {{ "now" | date: "%Y" }} </p>
-		<p>Copyright 2013-{{ "now" | date: "%Y" }} · The MinCoin Developers </p>
+		<p>Copyright 2013-{{ "now" | date: "%Y" }} · The Mincoin Developers </p>
     </div>
 </footer>

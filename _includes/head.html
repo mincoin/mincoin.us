@@ -2,18 +2,18 @@
 {% assign pageName = '' %}
 {% assign langPath = site.data.langs[page.lang] %}
 {% assign defaultLangPath = site.data.langs.en %}
-<head>	
+<head>
 
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
     <!-- Blog Settings -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="keywords" content="{{ langPath.head.keywords }}">	
-	<meta name="author" content="{% if page.author %}{{langPath.head.author}}{% else %}{{ langPath.head.author }}{% endif %}">	 
-	<meta name="description" content="{{langPath.head.meta.description}}">	
+    <meta name="keywords" content="{{ langPath.head.keywords }}">
+	<meta name="author" content="{% if page.author %}{{langPath.head.author}}{% else %}{{ langPath.head.author }}{% endif %}">
+	<meta name="description" content="{{langPath.head.meta.description}}">
 	<link rel="shortcut icon" href="/images/fav.ico">
-	
-	
+
+
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"
   integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
   crossorigin="anonymous"></script>
@@ -23,34 +23,34 @@
     <link rel="stylesheet" href="{{ site.baseurl }}/css/themify-icons.css">
     <!-- Blog CSS file -->
 	<link href="{{ site.baseurl}}/css/style.css" rel="stylesheet" />
-    
+
     <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700" rel="stylesheet">
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->	
+    <![endif]-->
 	{% if page.layout == 'default' %}
 		<title>{% if page.title %}{{langPath.head.title}}{% else %}{{ langPath.head.title }}{% endif %}  </title>
 		<!-- Jekyll SEO Tag Plugin -->
 		{% seo %}
 	{% endif %}
-	{%  if page.layout == 'post' %}	
-		<title>{{ page.title }} - MinCoin Cryptocurrency News    </title>
+	{%  if page.layout == 'post' %}
+		<title>{{ page.title }} - Mincoin Cryptocurrency News    </title>
 		<!-- Jekyll SEO Tag Plugin -->
 		{% seo title=false %}
-	
+
 	{% endif %}
-	
+
 	{% for lang in site.lang_codes %}
-		{% if lang =='en'%} 
+		{% if lang =='en'%}
 			<link rel="alternate" href="{{site.url}}" hreflang="{{lang}}">
-		{% else if %} 
+		{% else if %}
 			<link rel="alternate" href="{{site.url}}{{lang}}" hreflang="{{lang}}">
 		{% endif %}
 	{% endfor %}
-	
-	
-	
+
+
+
 	<!-- Language Redirect -->
 <script>
     (function () {

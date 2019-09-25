@@ -2,51 +2,51 @@
 lang_name: "日本語"
 head:
   meta:
-    description: "Official MinCoin Website"
-    keywords: "MinCoin"
+    description: "Official Mincoin Website"
+    keywords: "Mincoin"
     author: "John"
-  title: "MinCoin &#8211; Official MinCoin Website"
+  title: "Mincoin &#8211; Official Mincoin Website"
 ###Banner content
 banner:
  title: "世界ナンバーワンのハイスピード暗号通貨"
  subTitle: "ブロックチェーンテクノロジーに基づく"
  image: "/images/mincoin-mnc-cryptocurrency-home.png"
- desc: "MinCoin（MinとはMinimalist「最小限の」の略です）は、ピアトゥピアの実証済みのアルゴリズムを使用した暗号通貨です。MinCoinは2013年4月3日に設立されました。"
+ desc: "Mincoin（MinとはMinimalist「最小限の」の略です）は、ピアトゥピアの実証済みのアルゴリズムを使用した暗号通貨です。Mincoinは2013年4月3日に設立されました。"
  buttonUrl: "mincoin-mnc-cryptocurrency-trading-exchanges"
  buttonText: "今すぐトレードを開始する"
 ###6 icon content
 icons6:
  - title: "コミュニテ"
    icon: "fa-group"
-   desc: "次のMinCoinコミュニティの中から無料サポートを探す： <ul>
-          <li><a href='https://www.mincoinforum.com' target='_blank'>MinCoinフォーラム</a></li>
-		  <li><a href='https://www.mincoinforum.com/index.php?/topic/4153-mincoin-on-discord/' target='_blank'>MinCoinディスコードチャンネル</a></li>
-		  <li><a href='https://www.reddit.com/r/MinCoin/' target='_blank'>Reddit MinCoin</a></li>
-		  <li><a href='https://twitter.com/mincoinus' target='_blank'>Twitter MinCoin</a></li>
-		  <li><a href='https://www.facebook.com/mincoin.us' target='_blank'>MinCoin Facebook</a></li>
-		  <li><a href='https://bitcointalk.org/index.php?topic=165397.0' target='_blank'>MinCoinビットコイントーク</a></li>
+   desc: "次のMincoinコミュニティの中から無料サポートを探す： <ul>
+          <li><a href='https://www.mincoinforum.com' target='_blank'>Mincoinフォーラム</a></li>
+		  <li><a href='https://www.mincoinforum.com/index.php?/topic/4153-mincoin-on-discord/' target='_blank'>Mincoinディスコードチャンネル</a></li>
+		  <li><a href='https://www.reddit.com/r/MinCoin/' target='_blank'>reddit Mincoin</a></li>
+		  <li><a href='https://twitter.com/MinCoinus' target='_blank'>Twitter Mincoin</a></li>
+		  <li><a href='https://www.facebook.com/mincoin.us' target='_blank'>Mincoin Facebook</a></li>
+		  <li><a href='https://bitcointalk.org/index.php?topic=165397.0' target='_blank'>Mincoinビットコイントーク</a></li>
 		  <li><a href='http://webchat.freenode.net/?channels=#mincoin' target='_blank'>IRCフリーノード</a></li>
 		  </ul>"
  - title: "リソース"
    icon: "fa-laptop"
-   desc: "　MintCoin CoinWikiにてMinCoinをサポートする一般的な情報、サービス、そして両替方法などを調べる。. <a href='http://cryptoexplore.com/' target='_blank'>MinCoinブロックエクスプロー</a>ラーで最新のネットワーク統計を探すことができるでしょう。 MinCoinの現在の価格をMinCoinオンコインマーケットキャップで知ることができます。  <a href='https://coinmarketcap.com/currencies/mincoin' target='_blank'>MinCoin On CoinMarketCap</a>  "
+   desc: "　MintCoin CoinWikiにてMincoinをサポートする一般的な情報、サービス、そして両替方法などを調べる。. <a href='https://www.mincoinexplorer.com/' target='_blank'>Mincoinブロックエクスプロー</a>ラーで最新のネットワーク統計を探すことができるでしょう。 Mincoinの現在の価格をMincoinオンコインマーケットキャップで知ることができます。  <a href='https://coinmarketcap.com/currencies/mincoin' target='_blank'>Mincoin On CoinMarketCap</a>  "
  - title: "オープンソースソフトウェア"
    icon: "fa-heart "
-   desc: "MinCoinは、MIT/X11のライセンスを受けてリリースされたオープンソースソフトウェアプロジェクトであり、ソフトウェアの実行、編集、コピーや配布が可能で、必要に応じてソフトの編集をしコピーすることができます。当ソフトウェアは透明性があるプロセスで公開されており、バイナリーと関係するソースコードの個人の検証を可能としています。MinCoinのソースコードと関係プロジェクトは<a href='https://github.com/mincoin' target='_blank'>GitHub</a>にて確認可能です。"
+   desc: "Mincoinは、MIT/X11のライセンスを受けてリリースされたオープンソースソフトウェアプロジェクトであり、ソフトウェアの実行、編集、コピーや配布が可能で、必要に応じてソフトの編集をしコピーすることができます。当ソフトウェアは透明性があるプロセスで公開されており、バイナリーと関係するソースコードの個人の検証を可能としています。Mincoinのソースコードと関係プロジェクトは<a href='https://github.com/mincoin' target='_blank'>GitHub</a>にて確認可能です。"
  - title: "ブロックチェーン"
    icon: "fa-link "
-   desc: "MinCoinのブロックチェーンは他に比べて－Litecoinよりも－ハイボリュームのトランザクションに対応可能です。積み重なるブロック世代に対応するために、将来的にはソフトウェアの変更なしでさらに多くのトランザクションをネットワークがサポートします。結果として、業者もユーザーもより速い承認時間となります。"
+   desc: "Mincoinのブロックチェーンは他に比べて－Litecoinよりも－ハイボリュームのトランザクションに対応可能です。積み重なるブロック世代に対応するために、将来的にはソフトウェアの変更なしでさらに多くのトランザクションをネットワークがサポートします。結果として、業者もユーザーもより速い承認時間となります。"
  - title: "ウォレットの暗号化"
    icon: "fa-lock "
-   desc: "ウォレットの暗号化により、あなたのウォレットは安全に保たれ、トランザクションとアカウント残高を確認することができますが、そのつどMinCoinに投資する前にパスワードの入力が求められます。このことにより、送金前の基本的動作確認はもちろん、ウォレット盗難ウイルスやトロイの木馬ウイルスから保護してくれます。MinCoinウォレットバックアップ  <a href='http://mincoinforum.com/index.php/topic/330-how-to-back-up-restore-your-walletdat/' target='_blank'>MinCoin Wallet Backup</a>."
+   desc: "ウォレットの暗号化により、あなたのウォレットは安全に保たれ、トランザクションとアカウント残高を確認することができますが、そのつどMincoinに投資する前にパスワードの入力が求められます。このことにより、送金前の基本的動作確認はもちろん、ウォレット盗難ウイルスやトロイの木馬ウイルスから保護してくれます。Mincoinウォレットバックアップ  <a href='http://mincoinforum.com/index.php/topic/330-how-to-back-up-restore-your-walletdat/' target='_blank'>Mincoin Wallet Backup</a>."
  - title: "マイニング報酬"
    icon: "fa-money "
-   desc: "現在マイナーにはブロックごとに2つの新しいMinCoinが与えられています。MinCoinネットワークはは１０００万MinCoinを生成する計画予定ですので、ビットコイン（２1００万コイン）やライトコイン（８４００万コイン）よりもMinCoinの希少性は非常に高くなります。<ul>
+   desc: "現在マイナーにはブロックごとに2つの新しいMincoinが与えられています。Mincoinネットワークはは１０００万Mincoinを生成する計画予定ですので、ビットコイン（２1００万コイン）やライトコイン（８４００万コイン）よりもMincoinの希少性は非常に高くなります。<ul>
           <li><a href='http://mincoinforum.com/index.php/topic/320-solo-mining-mincoin-guide/' target='_blank'>ソロマイニング</a></li>
 		  <li><a href='http://mincoinforum.com/index.php/forum/24-mincoin-mining-guides/' target='_blank'>MNCマイニングガイド</a></li>
-		  <li><a href='https://www.mincoinforum.com/index.php?/forum/36-mincoin-mining-pools' target='_blank'>MinCoinマイニングプール</a></li>
+		  <li><a href='https://www.mincoinforum.com/index.php?/forum/36-mincoin-mining-pools' target='_blank'>Mincoinマイニングプール</a></li>
 		  </ul>"
-  
+
 
 socialicon:
  - title: Facebook
@@ -54,30 +54,30 @@ socialicon:
    url: https://www.facebook.com/mincoin.us
  - title: Twitter
    icon: ti-twitter
-   url: https://twitter.com/mincoinus
+   url: https://twitter.com/MinCoinus
 
-MinCoinDownload:
- - title: MinCoin for Windows
+MincoinDownload:
+ - title: Mincoin for Windows
    icon: /images/mincoin-windows.png
    url: https://www.mincoinforum.com/bin/mincoin-core-0.14.3/mincoin-0.14.3-win64.zip
    downloadText: mincoin-0.14.3-win64.zip
    buttonText: windows用ダウンロード
- - title: MinCoin for Linux
+ - title: Mincoin for Linux
    icon: /images/mincoin-linux.png
    url: https://www.mincoinforum.com/bin/mincoin-core-0.14.3/mincoin-0.14.3-x86_64-linux-gnu.tar.gz
    downloadText: mincoin-0.14.3-x86_64-linux-gnu.tar.gz
    buttonText: LINUX用ダウンロード
- - title: MinCoin for Mac OSX
+ - title: Mincoin for Mac OSX
    icon: /images/mincoin-osx.png
    url: https://www.mincoinforum.com/bin/mincoin-core-0.14.3/mincoin-0.14.3-osx.dmg
    downloadText: mincoin-0.14.3-osx.dmg
    buttonText: MAC用ダウンロード
-   
+
 contact:
- contactHeading: MinCoinについてさらに詳しく
+ contactHeading: Mincoinについてさらに詳しく
  buttonText: MINCOIN白書
  contentUrl: "https://www.mincoinforum.com/index.php?/topic/4178-the-mincoin-white-paper/"
- 
+
 news:
  heading: 暗号通貨ニュース
  readmoreUrl:  /category/cryptocurrency-news/
@@ -86,58 +86,58 @@ news:
   - linktext: More Cryptocurrency News
     linkUrl: https://www.mincoin.us/category/cryptocurrency-news/
  col2:
-  - linktext: MinCoinはデジタル商品の答えですか？
+  - linktext: Mincoinはデジタル商品の答えですか？
     linkUrl: https://www.mincoin.us/the-digital-commodity-solution/
-    linkImage: 
-  - linktext: MinCoinはデジタル商品の答えですか？
+    linkImage:
+  - linktext: Mincoinはデジタル商品の答えですか？
     linkUrl: https://www.mincoin.us/is-mincoin-the-digital-commodity-solution/
     linkImage:
-  - linktext: MinCoin、プリンストン大学による研究の実施
+  - linktext: Mincoin、プリンストン大学による研究の実施
     linkUrl: https://www.mincoin.us/mincoin-princeton-university-study/
     linkImage:
-  - linktext: ビットコイン、MinCoin、ライトコイン、ベストな暗号通貨は？
+  - linktext: ビットコイン、Mincoin、ライトコイン、ベストな暗号通貨は？
     linkUrl: https://www.mincoin.us/mincoin-princeton-university-study/
-    linkImage: 
+    linkImage:
 
-extraLinks: 
- communityHeading: MinCoinコミュニティー
+extraLinks:
+ communityHeading: Mincoinコミュニティー
  toolsHeading: ツール
- learnHeading: MinCoinをさらに詳しく
+ learnHeading: Mincoinをさらに詳しく
  community:
-  - linktext: MinCoinフォーラム
+  - linktext: Mincoinフォーラム
     linkUrl: http://mincoinforum.com/
   - linktext: IRCチャット
     linkUrl: http://webchat.freenode.net/?channels=#mincoin
-  - linktext: Reddit/r/MinCoin
-    linkUrl: http://reddit.com/r/mincoin
+  - linktext: reddit/r/MinCoin
+    linkUrl: http://reddit.com/r/MinCoin
   - linktext: ビットコイントークフォーラム
     linkUrl: https://bitcointalk.org/index.php?topic=165397.0
-  - linktext: MinCoin Twitter
-    linkUrl: https://twitter.com/mincoinus
-  - linktext: MinCoin Facebook
+  - linktext: Mincoin Twitter
+    linkUrl: https://twitter.com/MinCoinus
+  - linktext: Mincoin Facebook
     linkUrl: https://www.facebook.com/mincoin.us
-  - linktext: MinCoin Discordチャンネル
+  - linktext: Mincoin Discordチャンネル
     linkUrl: https://www.mincoinforum.com/index.php?/topic/4153-mincoin-on-discord
  tools:
-  - linktext: MinCoinウォレットバックアップ
+  - linktext: Mincoinウォレットバックアップ
     linkUrl: http://mincoinforum.com/index.php/topic/330-how-to-back-up-restore-your-walletdat/
-  - linktext: MinCoinマイニングプール
+  - linktext: Mincoinマイニングプール
     linkUrl: https://www.mincoinforum.com/index.php?/forum/36-mincoin-mining-pools
-  - linktext: MinCoin CoinWIKI
-    linkUrl: http://coinwik.org/MinCoin
-  - linktext: MinCoinオンコインマーケットキャンプ
-    linkUrl: https://coinmarketcap.com/currencies/mincoin 
+  - linktext: Mincoin CoinWIKI
+    linkUrl: https://coinwik.org/Mincoin
+  - linktext: Mincoinオンコインマーケットキャンプ
+    linkUrl: https://coinmarketcap.com/currencies/mincoin
   - linktext: ソロマイニング
     linkUrl: http://mincoinforum.com/index.php/topic/320-solo-mining-mincoin-guide/
   - linktext: MNCマイニングガイド
     linkUrl: http://mincoinforum.com/index.php/forum/24-mincoin-mining-guides/
-  - linktext: MinCoinブロックエクスプローラー
-    linkUrl: http://cryptoexplore.com 
+  - linktext: Mincoinブロックエクスプローラー
+    linkUrl: https://www.mincoinexplorer.com/
  learn:
-  - linktext: GithubでMinCoinのソースコード
+  - linktext: GithubでMincoinのソースコード
     linkUrl: https://github.com/mincoin
 
 footer:
  heading: お問合せ
  email: developers@mincoin.us
- copyright: © 2019 Copyright 2013-2019 · The MinCoin Developers
+ copyright: © 2019 Copyright 2013-2019 · The Mincoin Developers

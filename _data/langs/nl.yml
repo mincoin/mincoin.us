@@ -2,51 +2,51 @@
 lang_name: "Dutch"
 head:
   meta:  #TRANSLATE HERE [description and title ]
-    description: "Official MinCoin Website" 
-    keywords: "MinCoin"
+    description: "Official Mincoin Website"
+    keywords: "Mincoin"
     author: "John"
-  title: "MinCoin &#8211; Official MinCoin Website"
+  title: "Mincoin &#8211; Official Mincoin Website"
 ###Banner content
 banner: #TRANSLATE HERE [title, subTitle , desc and buttonText ]
  title: "De snelste <br> cryptocurrency ter wereld "
  subTitle: "Gebaseerd op blockchain-technologie"
  image: "/images/mincoin-mnc-cryptocurrency-home.png"
- desc: "MinCoin (Min staat voor Minimalist) is een peer-to-peer cryptocurrency die gebruik maakt van Scrypt als Proof of Work-algoritme. MinCoin is uitgebracht op 3 april 2013 en is niet gepremined."
+ desc: "Mincoin (Min staat voor Minimalist) is een peer-to-peer cryptocurrency die gebruik maakt van Scrypt als Proof of Work-algoritme. Mincoin is uitgebracht op 3 april 2013 en is niet gepremined."
  buttonUrl: "mincoin-mnc-cryptocurrency-trading-exchanges"
  buttonText: "Nu beschikbaar op cryptocurrency exchanges"
 ###6 icon content
 icons6:
  - title: "Community"
    icon: "fa-group"
-   desc: "Vind gratis ondersteuning op deze MinCoin-communityplatforms: <ul>
-          <li><a href='https://www.mincoinforum.com' target='_blank'>MinCoin Forum</a></li>
-		  <li><a href='https://www.mincoinforum.com/index.php?/topic/4153-mincoin-on-discord/' target='_blank'>MinCoin Discord</a></li>
-		  <li><a href='https://www.reddit.com/r/MinCoin/' target='_blank'>MinCoin Reddit</a></li>
-		  <li><a href='https://twitter.com/mincoinus' target='_blank'>MinCoin Twitter</a></li>
-		  <li><a href='https://www.facebook.com/mincoin.us' target='_blank'>MinCoin Facebook</a></li>
-		  <li><a href='https://bitcointalk.org/index.php?topic=165397.0' target='_blank'>MinCoin BitcoinTalk</a></li>
+   desc: "Vind gratis ondersteuning op deze Mincoin-communityplatforms: <ul>
+          <li><a href='https://www.mincoinforum.com' target='_blank'>Mincoin Forum</a></li>
+		  <li><a href='https://www.mincoinforum.com/index.php?/topic/4153-mincoin-on-discord/' target='_blank'>Mincoin Discord</a></li>
+		  <li><a href='https://www.reddit.com/r/MinCoin/' target='_blank'>Mincoin reddit</a></li>
+		  <li><a href='https://twitter.com/MinCoinus' target='_blank'>Mincoin Twitter</a></li>
+		  <li><a href='https://www.facebook.com/mincoin.us' target='_blank'>Mincoin Facebook</a></li>
+		  <li><a href='https://bitcointalk.org/index.php?topic=165397.0' target='_blank'>Mincoin BitcoinTalk</a></li>
 		  <li><a href='http://webchat.freenode.net/?channels=#mincoin' target='_blank'>IRC FreeNode</a></li>
 		  </ul>"
  - title: "Resources"
    icon: "fa-laptop"
-   desc: "De MinCoin-pagina van Coinwiki bevat informatie over het MinCoin-project en diensten en exchanges die  <a href='http://coinwik.org/MinCoin' target='_blank'>MinCoin CoinWiki</a>. Actuele netwerkstatistieken kunnen worden ingezien in de <a href='http://cryptoexplore.com/' target='_blank'>MinCoin Block Explorer</a>. De prijs van MinCoin is beschikbaar op <a href='https://coinmarketcap.com/currencies/mincoin' target='_blank'>MinCoin On CoinMarketCap</a>  "
+   desc: "De Mincoin-pagina van Coinwiki bevat informatie over het Mincoin-project en diensten en exchanges die  <a href='https://coinwik.org/Mincoin' target='_blank'>Mincoin CoinWiki</a>. Actuele netwerkstatistieken kunnen worden ingezien in de <a href='https://www.mincoinexplorer.com/' target='_blank'>Mincoin Block Explorer</a>. De prijs van Mincoin is beschikbaar op <a href='https://coinmarketcap.com/currencies/mincoin' target='_blank'>Mincoin On CoinMarketCap</a>  "
  - title: "Open Source Software"
    icon: "fa-heart "
-   desc: "MinCoin is een open source softwareproject uitgegeven onder de MIT/X11-licentie, waardoor iedereen de broncode naar eigen wens uit kan voeren, aan kan passen, kan kopiëren en kan verspreiden. De software wordt volgens een transparant proces gepubliceerd en de binaries en corresponderende code kunnen onafhankelijk geverifieerd worden. De broncode van MinCoin en gerelateerde projecten is beschikbaar op  <a href='https://github.com/mincoin' target='_blank'>GitHub</a>."
+   desc: "Mincoin is een open source softwareproject uitgegeven onder de MIT/X11-licentie, waardoor iedereen de broncode naar eigen wens uit kan voeren, aan kan passen, kan kopiëren en kan verspreiden. De software wordt volgens een transparant proces gepubliceerd en de binaries en corresponderende code kunnen onafhankelijk geverifieerd worden. De broncode van Mincoin en gerelateerde projecten is beschikbaar op  <a href='https://github.com/mincoin' target='_blank'>GitHub</a>."
  - title: "Blockchain-technologie"
    icon: "fa-link "
-   desc: "De MinCoin-blockchain kan per seconde meer transacties verwerken dan de Litecoin-blockchain. Dankzij de hoge frequentie waarmee blocks gegenereerd worden, kan het netwerk probleemloos toekomstige groei opvangen. Handelaren en gebruikers profiteren van snellere bevestigingstijden"
+   desc: "De Mincoin-blockchain kan per seconde meer transacties verwerken dan de Litecoin-blockchain. Dankzij de hoge frequentie waarmee blocks gegenereerd worden, kan het netwerk probleemloos toekomstige groei opvangen. Handelaren en gebruikers profiteren van snellere bevestigingstijden"
  - title: "Wallet-beveiliging"
    icon: "fa-lock "
-   desc: "Wallets zijn altijd versleuteld. Transacties en saldo kunnen vrij bekeken worden, maar een wachtwoord is noodzakelijk voor het uitgeven van MinCoins. Hierdoor is de wallet beschermd tegen virussen en malware en kunnen overschrijvingen nog een extra keer gecontroleerd worden. <a href='http://mincoinforum.com/index.php/topic/330-how-to-back-up-restore-your-walletdat/' target='_blank'>MinCoin Wallet Backup</a>."
+   desc: "Wallets zijn altijd versleuteld. Transacties en saldo kunnen vrij bekeken worden, maar een wachtwoord is noodzakelijk voor het uitgeven van mincoins. Hierdoor is de wallet beschermd tegen virussen en malware en kunnen overschrijvingen nog een extra keer gecontroleerd worden. <a href='http://mincoinforum.com/index.php/topic/330-how-to-back-up-restore-your-walletdat/' target='_blank'>Mincoin Wallet Backup</a>."
  - title: "Mining Reward"
    icon: "fa-money "
-   desc: "Miners ontvangen twee nieuwe MinCoins per block. Er kunnen maximaal tien miljoen MinCoins geproduceerd worden, waardoor MinCoin aanzienlijk zeldzamer is dan Bitcoin (maximaal 21 miljoen) and Litecoin (maximaal 84 miljoen).<ul>
-          <li><a href='http://mincoinforum.com/index.php/topic/320-solo-mining-mincoin-guide/' target='_blank'>MinCoin solo mining</a></li>
-		  <li><a href='http://mincoinforum.com/index.php/forum/24-mincoin-mining-guides/' target='_blank'>MinCoin mining guides</a></li>
-		  <li><a href='https://www.mincoinforum.com/index.php?/forum/36-mincoin-mining-pools' target='_blank'>MinCoin mining pools</a></li>
+   desc: "Miners ontvangen twee nieuwe mincoins per block. Er kunnen maximaal tien miljoen mincoins geproduceerd worden, waardoor Mincoin aanzienlijk zeldzamer is dan Bitcoin (maximaal 21 miljoen) and Litecoin (maximaal 84 miljoen).<ul>
+          <li><a href='http://mincoinforum.com/index.php/topic/320-solo-mining-mincoin-guide/' target='_blank'>Mincoin solo mining</a></li>
+		  <li><a href='http://mincoinforum.com/index.php/forum/24-mincoin-mining-guides/' target='_blank'>Mincoin mining guides</a></li>
+		  <li><a href='https://www.mincoinforum.com/index.php?/forum/36-mincoin-mining-pools' target='_blank'>Mincoin mining pools</a></li>
 		  </ul>"
-  
+
 
 
 socialicon:
@@ -55,30 +55,30 @@ socialicon:
    url: https://www.facebook.com/mincoin.us
  - title: Twitter
    icon: ti-twitter
-   url: https://twitter.com/mincoinus
+   url: https://twitter.com/MinCoinus
 
-MinCoinDownload: 
- - title: MinCoin voor Windows
+MincoinDownload:
+ - title: Mincoin voor Windows
    icon: /images/mincoin-windows.png
    url: https://www.mincoinforum.com/bin/mincoin-core-0.14.3/mincoin-0.14.3-win64.zip
    downloadText: mincoin-0.14.3-win64.zip
    buttonText: Download for Windows
- - title: MinCoin voor Linux
+ - title: Mincoin voor Linux
    icon: /images/mincoin-linux.png
    url: https://www.mincoinforum.com/bin/mincoin-core-0.14.3/mincoin-0.14.3-x86_64-linux-gnu.tar.gz
    downloadText: mincoin-0.14.3-x86_64-linux-gnu.tar.gz
    buttonText: Download for Linux
- - title: MinCoin voor macOS
+ - title: Mincoin voor macOS
    icon: /images/mincoin-osx.png
    url: https://www.mincoinforum.com/bin/mincoin-core-0.14.3/mincoin-0.14.3-osx.dmg
    downloadText: mincoin-0.14.3-osx.dmg
    buttonText: Download for Mac
-   
-contact: #TRANSLATE HERE 
- contactHeading: Lees meer over MinCoin
- buttonText: MinCoin whitepaper
+
+contact: #TRANSLATE HERE
+ contactHeading: Lees meer over Mincoin
+ buttonText: Mincoin whitepaper
  contentUrl: https://www.mincoinforum.com/index.php?/topic/4178-the-mincoin-white-paper/
- 
+
 news: #TRANSLATE HERE [heading, linktext ]
  heading: Cryptocurrency-nieuws
  readmoreUrl:  /category/cryptocurrency-news/
@@ -90,70 +90,70 @@ news: #TRANSLATE HERE [heading, linktext ]
   - linktext: Forbes Magazine Top 30 Global Cryptocurrencies
     linkUrl: https://www.mincoin.us/the-digital-commodity-solution/
     linkImage: https://www.mincoin.us/wp-content/uploads/2016/06/mincoin-crypto-coin-logo-color-300x300.jpg
-  - linktext: Princeton University bestudeert MinCoin
+  - linktext: Princeton University bestudeert Mincoin
     linkUrl: https://www.mincoin.us/is-mincoin-the-digital-commodity-solution/
     linkImage:
   - linktext: De meest snelle en zeldzame altcoin ter wereld
     linkUrl: https://www.mincoin.us/mincoin-princeton-university-study/
     linkImage:
-  - linktext: MinCoin aankoopgids
+  - linktext: Mincoin aankoopgids
     linkUrl: https://www.mincoin.us/mincoin-princeton-university-study/
-    linkImage: 
-  - linktext: MinCoin whitepaper-samenvatting
+    linkImage:
+  - linktext: Mincoin whitepaper-samenvatting
     linkUrl: https://www.mincoin.us/bitcoin-mincoin-litecoin-the-best-crypto-commodity/
     linkImage:
-  - linktext: MinCoin, The Crypto-Commodity That Could.
+  - linktext: Mincoin, The Crypto-Commodity That Could.
     linkUrl: https://www.mincoin.us/mincoin_information/
     linkImage:
-  - linktext: MinCoin API v1.1 – Now Available
+  - linktext: Mincoin API v1.1 – Now Available
     linkUrl: https://www.mincoin.us/mincoin-api-v1-1-now-available/
     linkImage:
-  - linktext: MinCoin Rallies Off Of Historical Lows
+  - linktext: Mincoin Rallies Off Of Historical Lows
     linkUrl: https://www.mincoin.us/mincoin-rallies-off-of-historical-lows/
     linkImage:
-  - linktext: MinCoin Wiki Now Available
+  - linktext: Mincoin Wiki Now Available
     linkUrl: https://www.mincoin.us/mincoin-wiki-now-available/
     linkImage:
 
-extraLinks: 
- communityHeading: MinCoin Community
+extraLinks:
+ communityHeading: Mincoin Community
  toolsHeading: Tools
- learnHeading: Lees meer over MinCoin
+ learnHeading: Lees meer over Mincoin
  community:
-  - linktext: MinCoin Forum
+  - linktext: Mincoin Forum
     linkUrl: https://www.mincoinforum.com
   - linktext: IRC FreeNode
     linkUrl: http://webchat.freenode.net/?channels=#mincoin
-  - linktext: MinCoin Reddit
-    linkUrl: http://reddit.com/r/mincoin
-  - linktext:  MinCoin BitcoinTalk
+  - linktext: Mincoin reddit
+    linkUrl: http://reddit.com/r/MinCoin
+  - linktext:  Mincoin BitcoinTalk
     linkUrl: https://bitcointalk.org/index.php?topic=165397.0
-  - linktext: MinCoin Twitter
-    linkUrl: https://twitter.com/mincoinus
-  - linktext: MinCoin Facebook
+  - linktext: Mincoin Twitter
+    linkUrl: https://twitter.com/MinCoinus
+  - linktext: Mincoin Facebook
     linkUrl: https://www.facebook.com/mincoin.us
-  - linktext: MinCoin Discord 
+  - linktext: Mincoin Discord
     linkUrl: https://www.mincoinforum.com/index.php?/topic/4153-mincoin-on-discord
  tools:
-  - linktext: MinCoin wallet back-up
+  - linktext: Mincoin wallet back-up
     linkUrl: http://mincoinforum.com/index.php/topic/330-how-to-back-up-restore-your-walletdat/
-  - linktext: MinCoin mining pools
+  - linktext: Mincoin mining pools
     linkUrl: https://www.mincoinforum.com/index.php?/forum/36-mincoin-mining-pools
-  - linktext: MinCoin op Coinwiki
-    linkUrl: http://coinwik.org/MinCoin
-  - linktext: MinCoin op CoinMarketCap
-    linkUrl: https://coinmarketcap.com/currencies/mincoin 
-  - linktext: MinCoin solo mining
+  - linktext: Mincoin op Coinwiki
+    linkUrl: https://coinwik.org/Mincoin
+  - linktext: Mincoin op CoinMarketCap
+    linkUrl: https://coinmarketcap.com/currencies/mincoin
+  - linktext: Mincoin solo mining
     linkUrl: http://mincoinforum.com/index.php/topic/320-solo-mining-mincoin-guide/
-  - linktext: MinCoin mining guides
+  - linktext: Mincoin mining guides
     linkUrl: http://mincoinforum.com/index.php/forum/24-mincoin-mining-guides/
-  - linktext: MinCoin block explorer
-    linkUrl: http://cryptoexplore.com 
+  - linktext: Mincoin block explorer
+    linkUrl: https://www.mincoinexplorer.com/
  learn:
-  - linktext: MinCoin-broncode op Github
+  - linktext: Mincoin-broncode op Github
     linkUrl: https://github.com/mincoin
 
 footer:
  heading: Neem contact op met de ontwikkelaars
  email: developers@mincoin.us
- copyright: © 2019 Copyright 2013-2019 · The MinCoin Developers
+ copyright: © 2019 Copyright 2013-2019 · The Mincoin Developers

@@ -3,12 +3,12 @@
 		<div class="row">
 			<div class="col-md-12 text-center">
 				<h3 class="page-title col-md-9">
-					{%  if page.layout == 'default' %} {{ langPath.news.heading }} {%  else if page.layout == 'post' %} {{ defaultLangPath.news.heading }}    {% endif %} 
-				
+					{%  if page.layout == 'default' %} {{ langPath.news.heading }} {%  else if page.layout == 'post' %} {{ defaultLangPath.news.heading }}    {% endif %}
+
 				 </h3>
 				<a href="{{ langPath.news.readmoreUrl }}" class="pull-right btnmore"><button class="gradient">
-					{%  if page.layout == 'default' %} {{ langPath.news.readmoreText }} {%  else if page.layout == 'post' %} {{ defaultLangPath.news.readmoreText }}    {% endif %} 
-				
+					{%  if page.layout == 'default' %} {{ langPath.news.readmoreText }} {%  else if page.layout == 'post' %} {{ defaultLangPath.news.readmoreText }}    {% endif %}
+
 				</button></a>
 			</div>
 			<div class="col-md-9 col-xs-12">
@@ -16,9 +16,9 @@
 					<!--<div class="col-md-6 order-xs-1">
 						<ul class="news-list font-sm">
 						{% for newsCol1 in langPath.news.col1 limit:5 %}
-							<li>								
-								<h4><a href="{{ newsCol1.linkUrl }}" title="Cryptocurrency News">{{ newsCol1.linktext }}</a></h4>							
-							</li>			
+							<li>
+								<h4><a href="{{ newsCol1.linkUrl }}" title="Cryptocurrency News">{{ newsCol1.linktext }}</a></h4>
+							</li>
 						{% endfor %}
 						</ul>
 					</div> -->
@@ -26,28 +26,28 @@
 						<!--<ul class="news-list">
 							{% for newsCol2 in langPath.news.col2 limit:5 %}
 								<li>
-									<h4><a href="{{ newsCol2.linkUrl }}">{{ newsCol2.linktext }}</a> </h4>									
-								</li>		
+									<h4><a href="{{ newsCol2.linkUrl }}">{{ newsCol2.linktext }}</a> </h4>
+								</li>
 							{% endfor %}
-							
+
 						</ul> -->
-						
-						<ul class="news-list">							
+
+						<ul class="news-list">
 							{% for post in site.posts limit:5 %}
 								<li>
-									<h4><a href="/{{post.permalink}}">{{post.title}}</a> </h4>									
-								</li>		
+									<h4><a href="/{{post.permalink}}">{{post.title}}</a> </h4>
+								</li>
 							{% endfor %}
-							
+
 						</ul>
-						
+
 					</div>
-					
-					
-					
+
+
+
 				</div>
 			</div>
-				
+
 			<div class="col-md-3"></div>
 		</div>
 	</div>

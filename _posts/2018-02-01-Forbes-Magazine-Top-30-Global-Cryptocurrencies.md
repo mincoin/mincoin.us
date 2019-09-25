@@ -13,4 +13,4 @@ In 2013 Forbes.com featured an article about the top 30 global cryptocurrencies.
 MinCoin trades under the symbol MNC on cryptocurrency exchanges and is widely considered to be one of the world’s fastest rare altcoins.
 
 ![Forbes-Financial-Magazine-Cryptocurrency](/images/post/Forbes-Financial-Magazine-Cryptocurrency.jpg "Forbes-Financial-Magazine-Cryptocurrency")
-![MinCoin-Forbes-Magazine](/images/post/MinCoin-Forbes-Magazine.jpg "MinCoin-Forbes-Magazine")
+![MinCoin-Forbes-Magazine](/images/post/Mincoin-Forbes-Magazine.jpg "MinCoin-Forbes-Magazine")

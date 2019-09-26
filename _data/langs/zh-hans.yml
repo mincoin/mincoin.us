@@ -101,7 +101,11 @@ news:
   - linktext:  简约币白皮书执行概要
     linkUrl: https://www.mincoin.us/bitcoin-mincoin-litecoin-the-best-crypto-commodity/
 
-
+roadmap:
+ contactHeading: The Future
+ buttonText: Roadmap
+ contentUrl: /category/roadmap/
+ 
 extraLinks:
  communityHeading: 简约币社区
  toolsHeading: 工具

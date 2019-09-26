@@ -99,6 +99,11 @@ news:
     linkUrl: https://www.mincoin.us/mincoin-princeton-university-study/
     linkImage:
 
+roadmap:
+ contactHeading: The Future
+ buttonText: Roadmap
+ contentUrl: /category/roadmap/
+ 
 extraLinks:
  communityHeading: Mincoinコミュニティー
  toolsHeading: ツール

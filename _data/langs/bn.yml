@@ -105,6 +105,11 @@ news:
     linkUrl: https://www.mincoin.us/mincoin_information/
     linkImage:
 
+roadmap:
+ contactHeading: The Future
+ buttonText: Roadmap
+ contentUrl: /category/roadmap/
+ 
 extraLinks:
  communityHeading: Mincoin গোষ্ঠী
  toolsHeading: টুলস্

@@ -115,6 +115,11 @@ news: #TRANSLATE HERE [heading, linktext ]
     linkUrl: https://www.mincoin.us/mincoin-wiki-now-available/
     linkImage:
 
+roadmap:
+ contactHeading: The Future
+ buttonText: Roadmap
+ contentUrl: /category/roadmap/
+ 
 extraLinks:
  communityHeading: Mincoin Community
  toolsHeading: Tools

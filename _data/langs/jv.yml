@@ -102,6 +102,11 @@ news:
     linkUrl: https://www.mincoin.us/bitcoin-mincoin-litecoin-the-best-crypto-commodity/
     linkImage:
 
+roadmap:
+ contactHeading: The Future
+ buttonText: Roadmap
+ contentUrl: /category/roadmap/
+ 
 extraLinks:
  communityHeading: Komunitas Mincoin
  toolsHeading: Piranti

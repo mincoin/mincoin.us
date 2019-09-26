@@ -1,4 +1,7 @@
 ### GENERAL SETTINGS ###
+host: 0.0.0.0
+port: 4000
+
 name: "Mincoin"
 logo: "/images/cropped-mincoin-logo-png.png"
 description: "Official Mincoin Website"

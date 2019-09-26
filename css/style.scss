@@ -723,31 +723,27 @@ a.pagination-item:hover {
  * 
  */
 
+
 #roadmap {
-  margin: 0;
-  padding: 0;
+  margin: 0px auto auto -50px;
   color: #323232;
   font-family: 'Open Sans', sans-serif;
   font-size: 112.5%;
   line-height: 1.6em;
-  width: 1100px;
-  height: 500px;
-  overflow-x: auto;
-  overflow-y: auto;
 }
+
 
 .timeline {
   position: relative;
-  width: 1050px;
-  margin: 0px auto;
-  padding: 20px;
+  margin: 0px auto auto -50px;
+  padding: 2%;
   list-style-type: none;
 }
 
 .timeline:before {																/* timeline position */
   position: absolute;
   left: 50%;
-  top: -10px;
+  top: -30px;
   content: ' ';
   display: block;
   width: 6px;
@@ -755,22 +751,6 @@ a.pagination-item:hover {
   margin-left: -3px;															/* half of width */
   background: #505050;
   z-index: 0;
-}
-
-#top img {
-	position: relative;
-	left: 50%;
-	top: 0px;
-	margin-left: -50px;
-	z-index: 99;
-}
-
-#bottom img {
-	position: relative;
-	left: 50%;
-	top: -20px;
-	margin-left: -49px;
-	z-index: 99;
 }
 
 .timeline li {
@@ -787,7 +767,7 @@ a.pagination-item:hover {
 
 .direction-l {
   position: relative;
-  width: 520px;
+  width: 50%;
   float: left;
   text-align: right;
 }
@@ -816,7 +796,7 @@ a.pagination-item:hover {
 
 .direction-r {
   position: relative;
-  width: 520px;
+  width: 50%;
   float: right;
   text-align: left;
 }
@@ -870,7 +850,7 @@ a.pagination-item:hover {
 .direction-l .flag:before {														/* circle position and size */
   position: absolute;
   top: 50%;
-  right: -55px;
+  right: -70px;
   content: ' ';
   display: block;
   width: 40px;
@@ -885,7 +865,7 @@ a.pagination-item:hover {
 .direction-r .flag:before {														/* circle position and size */
   position: absolute;
   top: 50%;
-  left: -55px;
+  left: -70px;
   content: ' ';
   display: block;
   width: 40px;
@@ -896,9 +876,6 @@ a.pagination-item:hover {
   border: 4px solid #58B96B;
   z-index: 10;
 }
-
-
-
 
 .time-wrapper {
   display: inline;
@@ -937,23 +914,3 @@ a.pagination-item:hover {
   text-decoration: underline;
 }
 
-.tidywrap {
-	white-space:		nowrap;
-	overflow: 			hidden;
-	text-overflow: 		ellipsis;
-	display: 			block;
-	width: 				100%;
-}
-
-.carousel {
-	position:			relative;
-	top:				55px;   
-}
-
-/* Set the fixed height of the footer here */
-.footer {
-	position:			relative;
-	top:				50px;
-	height: 			28px;
-	/*background-color:	#000;*/
-}

@@ -1,0 +1,14 @@
+<div class="container-fluid contact-team section">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<div class="col-md-8 col-xs-12 pull-left "><h2>{%  if page.layout == 'default' %}  {{ langPath.roadmap.contactHeading }} {%  else if page.layout == 'post' %}  {{ defaultLangPath.roadmap.contactHeading }}   {% endif %}  </h2></div>
+				<div class="col-md-4 col-xs-12 pull-right "><p><a href="{{ langPath.roadmap.contentUrl }}"><button class="gradient">
+					{%  if page.layout == 'post' %}
+						{{ defaultLangPath.roadmap.buttonText  }}    {% else if page.layout == 'post' %}  {{ langPath.roadmap.buttonText  }}   {% endif %}
+
+				</button></a></p></div>
+			</div>
+		</div>
+	</div>
+</div>

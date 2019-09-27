@@ -147,6 +147,8 @@ extraLinks:
  learn:
   - linktext: Github এ Mincoin এর সোর্স কোড
     linkUrl: https://github.com/mincoin
+  - linktext: মিনকয়েন প্রকল্প রোডম্যাপ
+    linkUrl: /category/roadmap
 
 footer:
  heading: নিয়ন্ত্রন কর্তৃপক্ষের সাথে যোগাযোগ

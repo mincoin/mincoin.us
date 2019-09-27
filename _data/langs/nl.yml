@@ -157,7 +157,9 @@ extraLinks:
  learn:
   - linktext: Mincoin-broncode op Github
     linkUrl: https://github.com/mincoin
-
+  - linktext: Mincoin Project Roadmap
+    linkUrl: /category/roadmap
+    
 footer:
  heading: Neem contact op met de ontwikkelaars
  email: developers@mincoin.us

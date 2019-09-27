@@ -119,7 +119,9 @@ extraLinks:
  learn:
   - linktext: Mincoin Source Code on Github
     linkUrl: https://github.com/mincoin
-
+  - linktext: Mincoin Project Roadmap
+    linkUrl: /category/roadmap
+    
 footer:
  heading: Contact
  email: developers@mincoin.us

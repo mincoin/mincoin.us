@@ -144,7 +144,9 @@ extraLinks:
  learn:
   - linktext: Github'da Mincoin Kaynak Kodu
     linkUrl: https://github.com/mincoin
-
+  - linktext: Mincoin Projesi Yol Haritası
+    linkUrl: /category/roadmap
+    
 footer:
  heading: Yazılımın Geliştiricileriyle İletişim Kurun
  email: developers@mincoin.us

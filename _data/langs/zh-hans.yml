@@ -143,7 +143,9 @@ extraLinks:
  learn:
   - linktext: GitHub网站简约币源代码
     linkUrl: https://github.com/mincoin
-
+  - linktext: Mincoin项目路线图
+    linkUrl: /category/roadmap
+    
 footer:
  heading: 联系开发团队
  email: developers@mincoin.us

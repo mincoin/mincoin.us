@@ -144,7 +144,9 @@ extraLinks:
  learn:
   - linktext: Исходный код Mincoin на Github
     linkUrl: https://github.com/mincoin
-
+  - linktext: Дорожная карта проекта Mincoin
+    linkUrl: /category/roadmap
+    
 footer:
  heading: Связаться с командой разработчиков
  email: developers@mincoin.us

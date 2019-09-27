@@ -144,7 +144,9 @@ extraLinks:
  learn:
   - linktext: GitHub網站簡約幣原始程式碼
     linkUrl: https://github.com/mincoin
-
+  - linktext: Mincoin項目路線圖
+    linkUrl: /category/roadmap
+    
 footer:
  heading: 聯繫開發團隊
  email: developers@mincoin.us

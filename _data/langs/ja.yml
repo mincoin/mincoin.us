@@ -141,7 +141,9 @@ extraLinks:
  learn:
   - linktext: GithubでMincoinのソースコード
     linkUrl: https://github.com/mincoin
-
+  - linktext: Mincoin プロジェクトロードマップ
+    linkUrl: /category/roadmap
+    
 footer:
  heading: お問合せ
  email: developers@mincoin.us

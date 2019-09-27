@@ -144,7 +144,9 @@ extraLinks:
  learn:
   - linktext: Mã nguồn Mincoin trên Github
     linkUrl: https://github.com/mincoin
-
+  - linktext: Lộ trình dự án Mincoin
+    linkUrl: /category/roadmap
+    
 footer:
  heading: Liên hệ nhóm phát triển
  email: developers@mincoin.us

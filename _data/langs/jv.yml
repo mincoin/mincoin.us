@@ -144,7 +144,9 @@ extraLinks:
  learn:
   - linktext: Mincoin Source Code nang Github
     linkUrl: https://github.com/mincoin
-
+  - linktext: Mincoin Proyek Roadmap
+    linkUrl: /category/roadmap
+    
 footer:
  heading: Hubungi Tim Pangembang
  email: developers@mincoin.us

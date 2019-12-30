@@ -117,7 +117,7 @@ news:
 roadmap:
  contactHeading: The Future
  buttonText: Roadmap
- contentUrl: /category/roadmap/
+ contentUrl: /roadmap/
  
 extraLinks:
  communityHeading: Mincoin Community
@@ -157,7 +157,7 @@ extraLinks:
   - linktext: Mincoin Source Code on Github
     linkUrl: https://github.com/mincoin
   - linktext: Mincoin Project Roadmap
-    linkUrl: /category/roadmap
+    linkUrl: /roadmap
 
 footer:
  heading: Contact

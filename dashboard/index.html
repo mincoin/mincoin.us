@@ -1,0 +1,143 @@
+---
+layout: custom1
+title : "Dashboard"
+pagination:
+  enabled: false
+---
+
+  <div class="container">
+    <div class="block-wrapper inner-content" >
+		<div id="dashboard" class="row">
+			<div class="col-xs-12 text-center">
+				
+				
+			</div>
+		</div>	
+								
+		<div class="row">
+			<div id="dashboard-detail" class="container-fluid" style="padding-top:30px;padding-bottom:30px">
+				
+				<div class="row">
+					<div class="col-xs-4">
+						<div class="panel panel-default" style="margin: 50px auto 0px auto">
+							<div class="panel-heading">Blockchain Stats</div>
+							<div class="panel-body">
+								
+								<!--<h5 class="card-title tidywrap">Blockchain Stats</h5>-->
+								<div class="card-text">
+									<div class="row">
+										<div class="col-xs-6 text-left tidywrap">Height</div>
+										<div id="height" class="col-xs-6 text-right tidywrap"></div>
+									</div>
+								</div>
+								<div class="card-text">
+									<div class="row">
+										<div class="col-xs-6 text-left tidywrap">Difficulty</div>
+										<div id="diff" class="col-xs-6 text-right tidywrap"></div>
+									</div>
+								</div>
+								<div class="card-text">
+									<div class="row">
+										<div class="col-xs-6 text-left tidywrap">Hash Rate</div>
+										<div id="hashpower" class="col-xs-6 text-right tidywrap"></div>
+									</div>
+								</div>
+								<div class="card-text">
+									<div class="row">
+										<div class="col-xs-6 text-left tidywrap">Last Block Time</div>
+										<div id="lastBlock" class="col-xs-6 text-right tidywrap"></div>
+									</div>
+								</div>
+								<div class="card-text">
+									<div class="row">
+										<div class="col-xs-6 text-left tidywrap">Avg. Block Time</div>
+										<div id="avgBlockTime" class="col-xs-6 text-right tidywrap"></div>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+
+					<div class="col-xs-4"></div>
+					<div class="col-xs-4"></div>
+					
+				</div>
+			</div>
+		</div>
+      </div>
+    </div>
+
+    <script>
+    	
+    	function drawStats () {
+
+    		$.get ( "https://www.mincoinexplorer.com/api/getblockcount", function ( data, status ) {
+					
+				$( '#height' ).text ( data );
+			});
+			
+			$.get ( "https://www.mincoinexplorer.com/api/getdifficulty", function ( data, status ) {
+				
+				$( '#diff' ).text ( data.slice ( 0, 12 ) );
+			});
+			
+			$.get ( "https://www.mincoinexplorer.com/api/getnetworkhashps", function ( data, status ) {
+				
+				let suffix = "";
+				let val = 0;
+				let hp = parseFloat ( data );
+				
+				if ( hp > 1000000000000.0 ) {
+					
+					val = hp / 1000000000000;
+					
+					suffix = "TH/s";
+				}
+					
+				else if ( hp > 1000000000.0 ) {
+					
+					val = hp / 1000000000;
+					
+					suffix = "GH/s";
+				}
+				
+				else if ( hp > 1000000.0 ) {
+					
+					val = hp / 1000000;
+					
+					suffix = "MH/s";
+				}
+				
+				else {
+					
+					val = hp / 1000;
+					
+					suffix = "KH/s";
+				}
+				
+				$( '#hashpower' ).text ( val.toFixed (2) + " " + suffix );
+			});
+				
+			$.get ( "https://www.mincoinexplorer.com/api/getblocktimes", function ( data, status ) {
+				
+				var names 				= data.split ( ',' );
+				var samples 			= ( names [0].split ( ':' ) )[1];
+				var lastblocktime 		= ( names [1].split ( ':' ) )[1];
+				var averageblocktime 	= ( names [2].split ( ':' ) )[1].replace ( '}', '' );
+				
+				
+				$( '#lastBlock' ).text ( parseFloat ( lastblocktime ).toFixed () + ' s' );
+				$( '#avgBlockTime' ).text ( parseFloat ( averageblocktime ).toFixed () + ' s' );
+			});
+    	}
+
+
+    	drawStats ();
+
+    	setInterval ( function () {
+
+    		drawStats ();
+    	}, 60000 );
+
+    </script>

@@ -1,0 +1,24 @@
+<!doctype html>
+{% include head.html %}
+<body>
+{% include header-blog.html%}
+{% include banner-blog.html%}
+
+<div class="container">
+
+<article class="post"> 
+{% if page.url != "/news/" or page.url != "/category/cryptocurrency-news/"  %} 
+ <time datetime="{{ page.date |  date: "%-d %B %Y"    }}" class="post-date">{{ page.date |  date: "%-d %B %Y"  }}</time>
+ {% endif %}
+  {{ content }}
+</article>
+
+ <div class="clearfix"></div>
+	
+
+		  
+</div>
+{% include footer.html %}
+{% include tracking.html %}
+</body>
+</html>

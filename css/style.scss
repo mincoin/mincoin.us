@@ -914,3 +914,9 @@ a.pagination-item:hover {
   text-decoration: underline;
 }
 
+.tidywrap {
+	white-space:		nowrap;
+	overflow: 			hidden;
+	text-overflow: 		ellipsis;
+	display: 			block;
+}

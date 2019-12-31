@@ -19,48 +19,115 @@ pagination:
 				
 				<div class="row">
 					<div class="col-xs-4">
-						<div class="panel panel-default" style="margin: 50px auto 0px auto">
-							<div class="panel-heading">Blockchain Stats</div>
+						<div class="panel panel-default">
+							<div class="panel-heading">
+								<div class='row'>
+									<div class='col-xs-9 h4 tidywrap'>
+										Blockchain Stats
+									</div>
+									<div class='col-xs-3 h6 tidywrap'>
+									</div>
+								</div>
+							</div>
 							<div class="panel-body">
 								
-								<!--<h5 class="card-title tidywrap">Blockchain Stats</h5>-->
-								<div class="card-text">
-									<div class="row">
-										<div class="col-xs-6 text-left tidywrap">Height</div>
-										<div id="height" class="col-xs-6 text-right tidywrap"></div>
-									</div>
+								<div class="row">
+									<div class="col-xs-6 text-left tidywrap">Height</div>
+									<div id="height" class="col-xs-6 text-right tidywrap"></div>
 								</div>
-								<div class="card-text">
-									<div class="row">
-										<div class="col-xs-6 text-left tidywrap">Difficulty</div>
-										<div id="diff" class="col-xs-6 text-right tidywrap"></div>
-									</div>
+							
+								<div class="row">
+									<div class="col-xs-6 text-left tidywrap">Difficulty</div>
+									<div id="diff" class="col-xs-6 text-right tidywrap"></div>
 								</div>
-								<div class="card-text">
-									<div class="row">
-										<div class="col-xs-6 text-left tidywrap">Hash Rate</div>
-										<div id="hashpower" class="col-xs-6 text-right tidywrap"></div>
-									</div>
+							
+								<div class="row">
+									<div class="col-xs-6 text-left tidywrap">Hash Rate</div>
+									<div id="hashpower" class="col-xs-6 text-right tidywrap"></div>
 								</div>
-								<div class="card-text">
-									<div class="row">
-										<div class="col-xs-6 text-left tidywrap">Last Block Time</div>
-										<div id="lastBlock" class="col-xs-6 text-right tidywrap"></div>
-									</div>
+							
+								<div class="row">
+									<div class="col-xs-6 text-left tidywrap">Last Block Time</div>
+									<div id="lastBlock" class="col-xs-6 text-right tidywrap"></div>
 								</div>
-								<div class="card-text">
-									<div class="row">
-										<div class="col-xs-6 text-left tidywrap">Avg. Block Time</div>
-										<div id="avgBlockTime" class="col-xs-6 text-right tidywrap"></div>
-									</div>
+							
+								<div class="row">
+									<div class="col-xs-6 text-left tidywrap">Avg. Block Time</div>
+									<div id="avgBlockTime" class="col-xs-6 text-right tidywrap"></div>
 								</div>
 								
 							</div>
 						</div>
 					</div>
 
-					<div class="col-xs-4"></div>
-					<div class="col-xs-4"></div>
+					<div class="col-xs-8">
+						<div class="panel panel-default">
+							<div class="panel-heading">
+								<div class='row'>
+									<div class='col-xs-9 h4 tidywrap'>
+										Coin Stats
+									</div>
+									<div class='col-xs-3 h6 text-right tidywrap'>
+										<small>5m refresh</small>
+									</div>
+								</div>
+							</div>
+							<div class="panel-body">
+								
+								<div class="row">
+									<div class="col-xs-4 text-left tidywrap">Supply</div>
+									<div id="supply" class="col-xs-3 text-right tidywrap"></div>
+									<div class="col-xs-5 text-right tidywrap"></div>
+								</div>
+							
+								<div class="row">
+									<div class="col-xs-4 text-left tidywrap">Market Cap (USD)</div>
+									<div id="market-cap" class="col-xs-3 text-right tidywrap"></div>
+									<div class="col-xs-5 text-right tidywrap"></div>
+								</div>
+							
+								<div class="row">
+									<div class="col-xs-7 text-left tidywrap"></div>
+									<div class="col-xs-5 text-center tidywrap h6">Change (%)</div>
+								</div>
+								<div class="row" style="margin-top: -5px;">
+									<div class="col-xs-7 text-left tidywrap"></div>
+									<div class="col-xs-5">
+										<div class="row h6" style="margin-top: -5px;">
+											<div class="col-xs-4 text-center tidywrap">1h</div>
+											<div class="col-xs-4 text-center tidywrap">24h</div>
+											<div class="col-xs-4 text-center tidywrap">7d</div>
+										</div>
+									</div>
+								</div>
+
+								<div class="row" style="margin-top: -10px;">
+									<div class="col-xs-4 text-left tidywrap">Volume (24h)</div>
+									<div id="volume" class="col-xs-3 text-right tidywrap"></div>
+									<div class="col-xs-5">
+										<div class="row h6" style="margin-top: -5px;">
+											<div id="change1h" class="col-xs-4 text-center tidywrap"></div>
+											<div id="change24h" class="col-xs-4 text-center tidywrap"></div>
+											<div id="change7d" class="col-xs-4 text-center tidywrap"></div>
+										</div>
+									</div>
+								</div>
+							
+								<div class="row">
+									<div class="col-xs-4 text-left tidywrap">Mincoin (BTC)</div>
+									<div id="mincoin" class="col-xs-3 text-right tidywrap"></div>
+									<div class="col-xs-5 text-right tidywrap"></div>
+								</div>
+							
+								<div class="row">
+									<div class="col-xs-4 text-left tidywrap">Mincoin (USD)</div>
+									<div id="usd" class="col-xs-3 text-right tidywrap"></div>
+									<div class="col-xs-5 text-right tidywrap"></div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
 					
 				</div>
 			</div>
@@ -70,11 +137,24 @@ pagination:
 
     <script>
     	
+    	function numberWithCommas ( x ) {
+	
+			let y = x.toString ();
+			let f = y.split ( '.' );
+			let m = f [ 0 ];
+			let str = m.toString ().replace ( /\B(?=(\d{3})+(?!\d))/g, "," );
+			
+			if ( f.length > 1 )
+				str = str + "." + f [ 1 ];
+			
+			return str;
+		}
+
     	function drawStats () {
 
     		$.get ( "https://www.mincoinexplorer.com/api/getblockcount", function ( data, status ) {
 					
-				$( '#height' ).text ( data );
+				$( '#height' ).text ( numberWithCommas ( data ) );
 			});
 			
 			$.get ( "https://www.mincoinexplorer.com/api/getdifficulty", function ( data, status ) {
@@ -130,6 +210,56 @@ pagination:
 				$( '#lastBlock' ).text ( parseFloat ( lastblocktime ).toFixed () + ' s' );
 				$( '#avgBlockTime' ).text ( parseFloat ( averageblocktime ).toFixed () + ' s' );
 			});
+
+			/* ---------------- */
+
+			$.get ( "https://www.mincoinexplorer.com/api/getcurrencystats", function ( data, status ) {
+				
+				var d = JSON.parse ( data );
+				var cs = d.currencyStats["9"];
+				var btc = d.BTC;
+
+				$( '#supply' ).text ( numberWithCommas ( parseInt ( cs.total_supply.toString () ) ) );
+				$( '#market-cap' ).text ( '$ ' + numberWithCommas ( parseInt ( cs.quote.USD.market_cap.toString () ) ) );
+				$( '#volume' ).text ( '$ ' + numberWithCommas ( parseInt ( cs.quote.USD.volume_24h.toString () ) ) );
+				//$( '#mincoin' ).text ( '\&#x20bf;' +  ( parseFloat ( cs.quote.USD.price.toString () ) / parseFloat ( btc.ask.toString () ) ).toFixed ( 8 ) );
+				$( '#mincoin' ).text ( ( parseFloat ( cs.quote.USD.price.toString () ) / parseFloat ( btc.ask.toString () ) ).toFixed ( 8 ) );
+				$( '#usd' ).text ( '$ ' + numberWithCommas ( parseFloat ( cs.quote.USD.price.toString () ).toFixed ( 5 ) ) );
+
+				$( '#change1h' ).text ( parseFloat ( cs.quote.USD.percent_change_1h.toString () ).toFixed ( 2 ) );
+				$( '#change24h' ).text ( parseFloat ( cs.quote.USD.percent_change_24h.toString () ).toFixed ( 2 ) );
+				$( '#change7d' ).text ( parseFloat ( cs.quote.USD.percent_change_7d.toString () ).toFixed ( 2 ) );
+
+				if ( parseFloat ( cs.quote.USD.percent_change_1h.toString () ) >= 0.0 ) {
+
+					$( '#change1h' ).removeClass ( 'text-danger' ).addClass ( 'text-success' );
+				}
+
+				else {
+
+					$( '#change1h' ).removeClass ( 'text-success' ).addClass ( 'text-danger' );
+				}
+
+				if ( parseFloat ( cs.quote.USD.percent_change_24h.toString () ) >= 0.0 ) {
+
+					$( '#change24h' ).removeClass ( 'text-danger' ).addClass ( 'text-success' );
+				}
+
+				else {
+
+					$( '#change24h' ).removeClass ( 'text-success' ).addClass ( 'text-danger' );
+				}
+
+				if ( parseFloat ( cs.quote.USD.percent_change_7d.toString () ) >= 0.0 ) {
+
+					$( '#change7d' ).removeClass ( 'text-danger' ).addClass ( 'text-success' );
+				}
+
+				else {
+
+					$( '#change7d' ).removeClass ( 'text-success' ).addClass ( 'text-danger' );
+				}
+			});
     	}
 
 
@@ -141,3 +271,4 @@ pagination:
     	}, 60000 );
 
     </script>
+

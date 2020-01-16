@@ -25,7 +25,7 @@ The [MNC/BTC](https://cryptohubexchange.com/market/MNC/){:target="_blank"} and [
 
 ## [Fides Exchange](https://coinpaprika.com/exchanges/fides-exchange/){:target="_blank"}
 ----
-The [MNC/BTC](https://www.fides-ex.com/trade/MNC-BTC){:target="_blank"} market is now open!!  
+The [MNC/BTC](https://www.fides-ex.com/trade/MNC-BTC){:target="_blank"}, [MNC/LTC](https://www.fides-ex.com/trade/MNC-LTC){:target="_blank"} and [MNC/DOGE](https://www.fides-ex.com/trade/MNC-DOGE){:target="_blank"} markets are now open!!
 ![image](/images/post/fides-exchange.png)
 > Mincoin was listed at Fides Exchange on December 13th, 2019!!  
 
@@ -61,8 +61,8 @@ The [MNC/BTC](https://tradesatoshi.com/Exchange?market=MNC_BTC){:target="_blank"
 {: style="text-align: center;"}
 **$MNC/$BTC**  
 {: style="font-size: 120%; text-align: center;"}
-[Fides](https://www.fides-ex.com/trade/MNC-BTC){:target="_blank"}  
 [Crypto Hub](https://cryptohubexchange.com/market/MNC/){:target="_blank"}  
+[Fides](https://www.fides-ex.com/trade/MNC-BTC){:target="_blank"}
 [Unnamed](https://www.unnamed.exchange/Exchange?market=MNC_BTC){:target="_blank"}  
 [TradeSatoshi](https://tradesatoshi.com/Exchange?market=MNC_BTC){:target="_blank"}  
 [Fedlio](https://fedlio.com/trade/mnc_btc){:target="_blank"}  
@@ -71,12 +71,14 @@ The [MNC/BTC](https://tradesatoshi.com/Exchange?market=MNC_BTC){:target="_blank"
 **$MNC/$DOGE**  
 {: style="font-size: 120%; text-align: center;"}
 [Crypto Hub](https://cryptohubexchange.com/market/MNC/DOGE/){:target="_blank"}  
+[Fides](https://www.fides-ex.com/trade/MNC-DOGE){:target="_blank"}
 [Unnamed](https://www.unnamed.exchange/Exchange?market=MNC_DOGE){:target="_blank"}  
 [TradeSatoshi](https://tradesatoshi.com/Exchange?market=MNC_DOGE){:target="_blank"}  
 {: style="text-align: center;"}
 
 **$MNC/$LTC**  
 {: style="font-size: 120%; text-align: center;"}
+[Fides](https://www.fides-ex.com/trade/MNC-LTC){:target="_blank"}
 [Unnamed](https://www.unnamed.exchange/Exchange?market=MNC_LTC){:target="_blank"}  
 {: style="text-align: center;"}
 

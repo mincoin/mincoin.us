@@ -22,7 +22,7 @@ socialicon:
    icon: ti-twitter
    url: https://twitter.com/MinCoinus
    
-gems:
+plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-paginate-v2

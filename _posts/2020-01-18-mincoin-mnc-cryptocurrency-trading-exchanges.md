@@ -12,11 +12,22 @@ tags:
   - TradeSatoshi
 pageShow: 'true'
 ---
+## [AltMarkets](https://coinpaprika.com/exchanges/altmarkets/){:target="_blank"}
+----
+The [MNC/BTC](https://altmarkets.io/trading/mncbtc){:target="_blank"}, [MNC/LTC](https://altmarkets.io/trading/mncltc){:target="_blank"} and [MNC/DOGE](https://altmarkets.io/trading/mncdoge){:target="_blank"} markets are now open!!
+![image](/images/post/altmarkets-exchange.png)
+> Mincoin was listed at AltMarkets Exchange on January 18th, 2020!!
+
+[https://altmarkets.io/](https://altmarkets.io/){:target="_blank"}<br/>
+[AltMarkets Discord Server](https://discord.gg/jNjSzcW){:target="_blank"}<br/>
+[AltMarkets on Twitter](https://twitter.com/AltmarketsEX){:target="_blank"}<br/>
+**Real Time Trading Focused on over 160 Low / Emerging Cap Projects**
+
 ## [Crypto Hub](https://coinpaprika.com/exchanges/crypto-hub/){:target="_blank"}
 ----
-The [MNC/BTC](https://cryptohubexchange.com/market/MNC/){:target="_blank"} and [MNC/DOGE](https://cryptohubexchange.com/market/MNC/DOGE/){:target="_blank"} markets are now open!!  
+The [MNC/BTC](https://cryptohubexchange.com/market/MNC/){:target="_blank"} and [MNC/DOGE](https://cryptohubexchange.com/market/MNC/DOGE/){:target="_blank"} markets are now open!!
 ![image](/images/post/crypto-hub-exchange.png)
-> Mincoin was listed at Crypto Hub Exchange on January 10th, 2020!!  
+> Mincoin was listed at Crypto Hub Exchange on January 10th, 2020!!
 
 [https://cryptohubexchange.com/](https://cryptohubexchange.com/){:target="_blank"}<br/>
 [Crypto Hub Discord Server](https://discord.gg/wJCPFAp){:target="_blank"}<br/>
@@ -27,7 +38,7 @@ The [MNC/BTC](https://cryptohubexchange.com/market/MNC/){:target="_blank"} and [
 ----
 The [MNC/BTC](https://www.fides-ex.com/trade/MNC-BTC){:target="_blank"}, [MNC/LTC](https://www.fides-ex.com/trade/MNC-LTC){:target="_blank"} and [MNC/DOGE](https://www.fides-ex.com/trade/MNC-DOGE){:target="_blank"} markets are now open!!
 ![image](/images/post/fides-exchange.png)
-> Mincoin was listed at Fides Exchange on December 13th, 2019!!  
+> Mincoin was listed at Fides Exchange on December 13th, 2019!!
 
 [https://www.fides-ex.com/](https://www.fides-ex.com/){:target="_blank"}<br/>
 [Fides Exchange Discord Server](https://discord.gg/ASfvq6R){:target="_blank"}<br/>
@@ -38,7 +49,7 @@ The [MNC/BTC](https://www.fides-ex.com/trade/MNC-BTC){:target="_blank"}, [MNC/LT
 ----
 The [MNC/BTC](https://www.unnamed.exchange/Exchange?market=MNC_BTC){:target="_blank"}, [MNC/LTC](https://www.unnamed.exchange/Exchange?market=MNC_LTC){:target="_blank"}, [MNC/DOGE](https://www.unnamed.exchange/Exchange?market=MNC_DOGE){:target="_blank"} and [MNC/uTip](https://www.unnamed.exchange/Exchange?market=MNC_uTip){:target="_blank"}  markets are now open!!  
 ![image](/images/post/unnamed-exchange-banner.png)
-> Mincoin was listed at Unammed Exchange on August 16th, 2019!!  
+> Mincoin was listed at Unammed Exchange on August 16th, 2019!!
 
 [https://www.unnamed.exchange/](https://www.unnamed.exchange/){:target="_blank"}<br/>
 [Unnamed Exchange Discord Server](https://discord.gg/sKpH6ay){:target="_blank"}<br/>
@@ -47,9 +58,9 @@ The [MNC/BTC](https://www.unnamed.exchange/Exchange?market=MNC_BTC){:target="_bl
 
 ## [TradeSatoshi Exchange](https://coinpaprika.com/exchanges/trade-satoshi/){:target="_blank"}
 ----
-The [MNC/BTC](https://tradesatoshi.com/Exchange?market=MNC_BTC){:target="_blank"}, [MNC/DOGE](https://tradesatoshi.com/Exchange?market=MNC_DOGE){:target="_blank"} and [MNC/ETH](https://tradesatoshi.com/Exchange?market=MNC_ETH){:target="_blank"} markets are now open!!  
+The [MNC/BTC](https://tradesatoshi.com/Exchange?market=MNC_BTC){:target="_blank"}, [MNC/DOGE](https://tradesatoshi.com/Exchange?market=MNC_DOGE){:target="_blank"} and [MNC/ETH](https://tradesatoshi.com/Exchange?market=MNC_ETH){:target="_blank"} markets are now open!!
 ![image](/images/post/tradesatoshi-banner.png)
-> Mincoin was listed at TradeSatoshi Exchange on October 16th, 2017!!  
+> Mincoin was listed at TradeSatoshi Exchange on October 16th, 2017!!
 
 [https://tradesatoshi.com/](https://tradesatoshi.com/){:target="_blank"}<br/>
 [TradeSatoshi Discord Server](https://discord.gg/NdVCg4Y){:target="_blank"}<br/>
@@ -59,37 +70,38 @@ The [MNC/BTC](https://tradesatoshi.com/Exchange?market=MNC_BTC){:target="_blank"
 ----
 # Known Markets
 {: style="text-align: center;"}
-**$MNC/$BTC**  
+**$MNC/$BTC**
 {: style="font-size: 120%; text-align: center;"}
+[AltMarkets](https://altmarkets.io/trading/mncbtc){:target="_blank"}  
 [Crypto Hub](https://cryptohubexchange.com/market/MNC/){:target="_blank"}  
-[Fides](https://www.fides-ex.com/trade/MNC-BTC){:target="_blank"}
+[Fides](https://www.fides-ex.com/trade/MNC-BTC){:target="_blank"}  
 [Unnamed](https://www.unnamed.exchange/Exchange?market=MNC_BTC){:target="_blank"}  
 [TradeSatoshi](https://tradesatoshi.com/Exchange?market=MNC_BTC){:target="_blank"}  
-[Fedlio](https://fedlio.com/trade/mnc_btc){:target="_blank"}  
 {: style="text-align: center;"}
 
-**$MNC/$DOGE**  
+**$MNC/$DOGE**
 {: style="font-size: 120%; text-align: center;"}
+[AltMarkets](https://altmarkets.io/trading/mncdoge){:target="_blank"}  
 [Crypto Hub](https://cryptohubexchange.com/market/MNC/DOGE/){:target="_blank"}  
-[Fides](https://www.fides-ex.com/trade/MNC-DOGE){:target="_blank"}
+[Fides](https://www.fides-ex.com/trade/MNC-DOGE){:target="_blank"}  
 [Unnamed](https://www.unnamed.exchange/Exchange?market=MNC_DOGE){:target="_blank"}  
 [TradeSatoshi](https://tradesatoshi.com/Exchange?market=MNC_DOGE){:target="_blank"}  
 {: style="text-align: center;"}
 
-**$MNC/$LTC**  
+**$MNC/$LTC**
 {: style="font-size: 120%; text-align: center;"}
-[Fides](https://www.fides-ex.com/trade/MNC-LTC){:target="_blank"}
+[AltMarkets](https://altmarkets.io/trading/mncltc){:target="_blank"}  
+[Fides](https://www.fides-ex.com/trade/MNC-LTC){:target="_blank"}  
 [Unnamed](https://www.unnamed.exchange/Exchange?market=MNC_LTC){:target="_blank"}  
 {: style="text-align: center;"}
 
-**$MNC/$ETH**  
+**$MNC/$ETH**
 {: style="font-size: 120%; text-align: center;"}
 [TradeSatoshi](https://tradesatoshi.com/Exchange?market=MNC_ETH){:target="_blank"}  
 {: style="text-align: center;"}
 
-**$MNC/$uTip**  
+**$MNC/$uTip**
 {: style="font-size: 120%; text-align: center;"}
 [Unnamed](https://www.unnamed.exchange/Exchange?market=MNC_uTip){:target="_blank"}  
 {: style="text-align: center;"}
-
 ----

@@ -23,17 +23,6 @@ The [MNC/BTC](https://altmarkets.io/trading/mncbtc){:target="_blank"}, [MNC/LTC]
 [AltMarkets on Twitter](https://twitter.com/AltmarketsEX){:target="_blank"}<br/>
 **Real Time Trading Focused on over 160 Low / Emerging Cap Projects**
 
-## [Crypto Hub](https://coinpaprika.com/exchanges/crypto-hub/){:target="_blank"}
-----
-The [MNC/BTC](https://cryptohubexchange.com/market/MNC/){:target="_blank"} and [MNC/DOGE](https://cryptohubexchange.com/market/MNC/DOGE/){:target="_blank"} markets are now open!!
-![image](/images/post/crypto-hub-exchange.png)
-> Mincoin was listed at Crypto Hub Exchange on January 10th, 2020!!
-
-[https://cryptohubexchange.com/](https://cryptohubexchange.com/){:target="_blank"}<br/>
-[Crypto Hub Discord Server](https://discord.gg/wJCPFAp){:target="_blank"}<br/>
-[Crypto Hub on Twitter](https://twitter.com/CheExchange){:target="_blank"}<br/>
-**NEW Crypto Hub Exchange powered and maintained by SpesCoin Project!!!**
-
 ## [Fides Exchange](https://coinpaprika.com/exchanges/fides-exchange/){:target="_blank"}
 ----
 The [MNC/BTC](https://www.fides-ex.com/trade/MNC-BTC){:target="_blank"}, [MNC/LTC](https://www.fides-ex.com/trade/MNC-LTC){:target="_blank"} and [MNC/DOGE](https://www.fides-ex.com/trade/MNC-DOGE){:target="_blank"} markets are now open!!
@@ -73,7 +62,6 @@ The [MNC/BTC](https://tradesatoshi.com/Exchange?market=MNC_BTC){:target="_blank"
 **$MNC/$BTC**
 {: style="font-size: 120%; text-align: center;"}
 [AltMarkets](https://altmarkets.io/trading/mncbtc){:target="_blank"}  
-[Crypto Hub](https://cryptohubexchange.com/market/MNC/){:target="_blank"}  
 [Fides](https://www.fides-ex.com/trade/MNC-BTC){:target="_blank"}  
 [Unnamed](https://www.unnamed.exchange/Exchange?market=MNC_BTC){:target="_blank"}  
 [TradeSatoshi](https://tradesatoshi.com/Exchange?market=MNC_BTC){:target="_blank"}  
@@ -82,7 +70,6 @@ The [MNC/BTC](https://tradesatoshi.com/Exchange?market=MNC_BTC){:target="_blank"
 **$MNC/$DOGE**
 {: style="font-size: 120%; text-align: center;"}
 [AltMarkets](https://altmarkets.io/trading/mncdoge){:target="_blank"}  
-[Crypto Hub](https://cryptohubexchange.com/market/MNC/DOGE/){:target="_blank"}  
 [Fides](https://www.fides-ex.com/trade/MNC-DOGE){:target="_blank"}  
 [Unnamed](https://www.unnamed.exchange/Exchange?market=MNC_DOGE){:target="_blank"}  
 [TradeSatoshi](https://tradesatoshi.com/Exchange?market=MNC_DOGE){:target="_blank"}  

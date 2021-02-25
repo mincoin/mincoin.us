@@ -25,6 +25,7 @@ group :jekyll_plugins do
    gem 'jekyll-gist'
    gem 'jekyll-tagging-related_posts'
    gem 'faraday', '0.15.4'
+   gem 'kramdown-parser-gfm'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

@@ -40,11 +40,9 @@ The [MNC/BTC](https://www.unnamed.exchange/Exchange?market=MNC_BTC){:target="_bl
 
 
 
-**$MNC/$DOGE**
-{: style="font-size: 120%; text-align: center;"}
-[AltMarkets](https://altmarkets.io/trading/mncdoge){:target="_blank"}  
-[Unnamed](https://www.unnamed.exchange/Exchange?market=MNC_DOGE){:target="_blank"}  
-{: style="text-align: center;"}
+
+
+
 
 **$MNC/$LTC**
 {: style="font-size: 120%; text-align: center;"}

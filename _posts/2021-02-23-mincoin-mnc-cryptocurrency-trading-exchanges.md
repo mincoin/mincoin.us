@@ -28,10 +28,8 @@ The [MNC/BTC](https://www.unnamed.exchange/Exchange?market=MNC_BTC){:target="_bl
 ![image](/images/post/unnamed-exchange-banner.png)
 > Mincoin was listed at Unammed Exchange on August 16th, 2019!!
 
-[https://www.unnamed.exchange/](https://www.unnamed.exchange/){:target="_blank"}<br/>
 [Unnamed Exchange Discord Server](https://discord.gg/sKpH6ay){:target="_blank"}<br/>
-[ExchangeUnnamed on Twitter](https://twitter.com/ExchangeUnnamed){:target="_blank"}<br/>
-**It's awesome! Open your account now.**
+
 
 
 

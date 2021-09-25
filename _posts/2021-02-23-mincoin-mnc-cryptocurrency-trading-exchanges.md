@@ -33,10 +33,6 @@ The [MNC/BTC](https://www.unnamed.exchange/Exchange?market=MNC_BTC){:target="_bl
 [ExchangeUnnamed on Twitter](https://twitter.com/ExchangeUnnamed){:target="_blank"}<br/>
 **It's awesome! Open your account now.**
 
-----
-# Known Markets
-{: style="text-align: center;"}
-**$MNC/$BTC**
 
 
 
@@ -44,19 +40,5 @@ The [MNC/BTC](https://www.unnamed.exchange/Exchange?market=MNC_BTC){:target="_bl
 
 
 
-**$MNC/$LTC**
-{: style="font-size: 120%; text-align: center;"}
-[AltMarkets](https://altmarkets.io/trading/mncltc){:target="_blank"}  
-[Unnamed](https://www.unnamed.exchange/Exchange?market=MNC_LTC){:target="_blank"}  
-{: style="text-align: center;"}
 
-**$MNC/$ETH**
-{: style="font-size: 120%; text-align: center;"}
-[Unnamed](https://www.unnamed.exchange/Exchange?market=MNC_ETH){:target="_blank"}  
-{: style="text-align: center;"}
 
-**$MNC/$uTip**
-{: style="font-size: 120%; text-align: center;"}
-[Unnamed](https://www.unnamed.exchange/Exchange?market=MNC_uTip){:target="_blank"}  
-{: style="text-align: center;"}
-----
